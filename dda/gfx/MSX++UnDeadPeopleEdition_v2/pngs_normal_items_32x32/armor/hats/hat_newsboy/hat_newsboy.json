@@ -1,0 +1,9 @@
+{
+  "id": "hat_newsboy",
+  "fg": [
+    "hat_newsboy"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

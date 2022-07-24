@@ -1,0 +1,67 @@
+{
+  "id": "t_searth_test",
+  "fg": [
+    "t_searth_test"
+  ],
+  "bg": [
+    "bg_sand"
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_searth_test_center"
+      ],
+      "bg": [
+        "bg_sand"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_searth_test_corner"
+      ],
+      "bg": [
+        "bg_sand"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_searth_test_edge"
+      ],
+      "bg": [
+        "bg_sand"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_searth_test_t_connection"
+      ],
+      "bg": [
+        "bg_sand"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_searth_test_end_piece"
+      ],
+      "bg": [
+        "bg_sand"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_searth_test_unconnected"
+      ],
+      "bg": [
+        "bg_sand"
+      ]
+    }
+  ]
+}

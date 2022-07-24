@@ -1,0 +1,10 @@
+{
+  "id": "t_door_bar_c",
+  "fg": [
+    "t_door_bar_c"
+  ],
+  "bg": [
+    "bg_t_floor"
+  ],
+  "rotates": false
+}

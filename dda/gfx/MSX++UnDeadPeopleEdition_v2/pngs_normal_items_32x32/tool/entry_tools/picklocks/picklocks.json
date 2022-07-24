@@ -1,0 +1,10 @@
+{
+  "id": "picklocks",
+  "fg": [
+    "picklocks"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

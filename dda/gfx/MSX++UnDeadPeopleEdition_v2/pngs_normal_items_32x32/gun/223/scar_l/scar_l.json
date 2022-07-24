@@ -1,0 +1,10 @@
+{
+  "id": ["scar_l", "m27_assault_rifle_var_scar_l"],
+  "fg": [
+    "scar_l"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

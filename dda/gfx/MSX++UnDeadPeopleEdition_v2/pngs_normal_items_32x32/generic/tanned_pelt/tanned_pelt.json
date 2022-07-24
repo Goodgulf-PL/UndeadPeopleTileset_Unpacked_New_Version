@@ -1,0 +1,10 @@
+{
+  "id": "tanned_pelt",
+  "fg": [
+    "tanned_pelt"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

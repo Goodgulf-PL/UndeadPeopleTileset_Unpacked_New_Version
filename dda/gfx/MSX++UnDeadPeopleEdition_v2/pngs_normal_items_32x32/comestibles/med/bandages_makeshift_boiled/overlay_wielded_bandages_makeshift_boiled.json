@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bandages_makeshift_boiled",
+  "fg": [
+    "bandages_makeshift_boiled"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "motor_small",
+  "fg": [
+    "motor_small"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "sauerkraut",
+  "fg": [
+    "sauerkraut"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

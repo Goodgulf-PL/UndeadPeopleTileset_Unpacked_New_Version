@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_arm_splint",
+  "fg": [
+    "arm_splint"
+  ],
+  "bg": [],
+  "rotates": false
+}

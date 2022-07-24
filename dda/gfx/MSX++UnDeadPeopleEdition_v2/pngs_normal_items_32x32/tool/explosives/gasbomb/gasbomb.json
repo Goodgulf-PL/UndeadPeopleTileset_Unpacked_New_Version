@@ -1,0 +1,10 @@
+{
+  "id": "gasbomb",
+  "fg": [
+    "gasbomb"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

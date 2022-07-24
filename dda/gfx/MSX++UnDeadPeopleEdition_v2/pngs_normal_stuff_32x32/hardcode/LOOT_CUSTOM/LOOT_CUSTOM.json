@@ -1,0 +1,8 @@
+{
+  "id": ["LOOT_CUSTOM", "LOOT_ZONE", "loot_custom", "loot_zone", "zone", "loot", "custom"],
+  "fg": [
+    "LOOT_CUSTOM"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "mon_breather_hub",
+  "fg": [
+    {
+      "weight": 30,
+      "sprite": "mon_breather_hub_1"
+    },
+    {
+      "weight": 30,
+      "sprite": "mon_breather_hub_2"
+    },
+    {
+      "weight": 30,
+      "sprite": "mon_breather_hub_3"
+    },
+    {
+      "weight": 30,
+      "sprite": "mon_breather_hub_2"
+    }
+  ],
+  "bg": ["bg_shadow_normal"],
+  "animated": true
+}

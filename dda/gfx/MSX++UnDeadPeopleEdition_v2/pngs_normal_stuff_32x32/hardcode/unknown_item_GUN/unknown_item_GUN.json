@@ -1,0 +1,10 @@
+{
+  "id": "unknown_item_GUN",
+  "fg": [
+    "unknown_item_GUN"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

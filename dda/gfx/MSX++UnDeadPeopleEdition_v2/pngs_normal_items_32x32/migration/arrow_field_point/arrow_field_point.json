@@ -1,0 +1,10 @@
+{
+  "id": "arrow_field_point",
+  "fg": [
+    "arrow_field_point"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

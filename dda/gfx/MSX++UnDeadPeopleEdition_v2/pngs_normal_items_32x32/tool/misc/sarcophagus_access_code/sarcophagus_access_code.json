@@ -1,0 +1,10 @@
+{
+  "id": "sarcophagus_access_code",
+  "fg": [
+    "sarcophagus_access_code"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "corpse_mon_zombie_crawler_pupa_decoy",
+  "fg": [
+    "corpse_mon_zombie_crawler_pupa"
+  ],
+  "bg": [],
+  "rotates": false
+}

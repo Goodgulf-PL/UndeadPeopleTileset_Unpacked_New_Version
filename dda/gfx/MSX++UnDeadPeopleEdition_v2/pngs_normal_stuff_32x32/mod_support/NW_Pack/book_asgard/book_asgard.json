@@ -1,0 +1,10 @@
+{
+  "id": "book_asgard",
+  "fg": [
+    "book_asgard"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_seat",
+  "fg": [
+    "seat"
+  ],
+  "bg": [],
+  "rotates": false
+}

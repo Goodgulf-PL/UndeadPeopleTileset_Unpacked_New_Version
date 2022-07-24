@@ -1,0 +1,10 @@
+{
+  "id": "baldric_holster",
+  "fg": [
+    "baldric_holster"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

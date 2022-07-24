@@ -1,0 +1,9 @@
+{
+  "id": "throwing_stick",
+  "fg": [
+    "throwing_stick"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

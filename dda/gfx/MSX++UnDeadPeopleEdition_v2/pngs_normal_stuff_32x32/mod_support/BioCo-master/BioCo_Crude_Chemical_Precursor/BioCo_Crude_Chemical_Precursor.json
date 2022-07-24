@@ -1,0 +1,10 @@
+{
+  "id": "BioCo_Crude_Chemical_Precursor",
+  "fg": [
+    "cbm_temp"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

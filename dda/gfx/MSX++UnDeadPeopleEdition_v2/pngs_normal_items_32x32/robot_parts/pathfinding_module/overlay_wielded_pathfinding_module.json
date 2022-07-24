@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_pathfinding_module",
+  "fg": [
+    "pathfinding_module"
+  ],
+  "bg": [],
+  "rotates": false
+}

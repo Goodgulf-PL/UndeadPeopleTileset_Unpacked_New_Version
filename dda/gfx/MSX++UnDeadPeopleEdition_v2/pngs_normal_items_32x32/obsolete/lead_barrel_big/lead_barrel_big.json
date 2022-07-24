@@ -1,0 +1,10 @@
+{
+  "id": "lead_barrel_big",
+  "fg": [
+    "lead_barrel_big"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

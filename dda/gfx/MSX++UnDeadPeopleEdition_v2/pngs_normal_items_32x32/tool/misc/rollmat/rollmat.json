@@ -1,0 +1,10 @@
+{
+  "id": "rollmat",
+  "fg": [
+    "rollmat"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

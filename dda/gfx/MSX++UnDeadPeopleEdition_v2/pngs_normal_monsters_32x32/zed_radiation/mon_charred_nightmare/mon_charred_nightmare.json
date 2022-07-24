@@ -1,0 +1,10 @@
+{
+  "id": "mon_charred_nightmare",
+  "fg": [
+    "mon_charred_nightmare"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

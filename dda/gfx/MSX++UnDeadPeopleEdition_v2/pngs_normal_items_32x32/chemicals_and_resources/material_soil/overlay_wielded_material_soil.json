@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_material_soil",
+  "fg": [
+    "material_soil"
+  ],
+  "bg": [],
+  "rotates": false
+}

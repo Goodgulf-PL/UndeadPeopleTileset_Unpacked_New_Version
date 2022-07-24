@@ -1,0 +1,10 @@
+{
+  "id": "coat_fur",
+  "fg": [
+    "coat_fur"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

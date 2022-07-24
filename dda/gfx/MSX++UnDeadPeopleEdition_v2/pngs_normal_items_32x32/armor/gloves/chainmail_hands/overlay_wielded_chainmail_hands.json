@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_chainmail_hands",
+  "fg": [
+    "chainmail_hands"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "can_sardine",
+  "fg": [
+    "can_sardine"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

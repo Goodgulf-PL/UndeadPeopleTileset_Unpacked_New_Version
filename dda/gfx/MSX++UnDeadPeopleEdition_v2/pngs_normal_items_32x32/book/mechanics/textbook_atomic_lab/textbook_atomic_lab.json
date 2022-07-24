@@ -1,0 +1,10 @@
+{
+  "id": "textbook_atomic_lab",
+  "fg": [
+    "textbook_atomic_lab"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

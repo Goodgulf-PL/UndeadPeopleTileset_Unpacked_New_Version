@@ -1,0 +1,11 @@
+{
+  "id": "vp_saddle_pedal",
+  "fg": [
+    "vp_saddle_rotat_1", "vp_saddle_rotat_2", "vp_saddle_rotat_3", "vp_saddle_rotat_4"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [ { "id": "broken", "fg": ["vp_saddle_broken_rotat_1", "vp_saddle_broken_rotat_2", "vp_saddle_broken_rotat_3", "vp_saddle_broken_rotat_4"],
+  "bg": [] } ]
+}

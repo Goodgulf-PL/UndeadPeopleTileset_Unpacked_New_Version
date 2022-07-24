@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_link_sheet",
+  "fg": [
+    "link_sheet"
+  ],
+  "bg": [],
+  "rotates": false
+}

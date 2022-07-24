@@ -1,0 +1,10 @@
+{
+  "id": "cheese",
+  "fg": [
+    "cheese"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "textbook_tailor",
+  "fg": [
+    "textbook_tailor"
+  ],
+  "bg": [
+    "bg_book_adv"
+  ],
+  "rotates": false
+}

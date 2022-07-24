@@ -1,0 +1,10 @@
+{
+  "id": "johnnycake",
+  "fg": [
+    "johnnycake"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "jar_sauerkraut_pickled",
+  "fg": [
+    "jar_sauerkraut_pickled"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

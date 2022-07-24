@@ -1,0 +1,10 @@
+{
+  "id": "brioche",
+  "fg": [
+    "brioche"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

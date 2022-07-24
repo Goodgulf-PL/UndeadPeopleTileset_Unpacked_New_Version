@@ -1,0 +1,10 @@
+{
+  "id": "t_stump",
+  "fg": [
+    "t_stump"
+  ],
+  "bg": [
+    "bg_big_dirt"
+  ],
+  "rotates": false
+}

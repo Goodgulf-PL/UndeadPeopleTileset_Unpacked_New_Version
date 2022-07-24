@@ -1,0 +1,10 @@
+{
+  "id": "t_bollard",
+  "fg": [
+    "t_bollard"
+  ],
+  "bg": [
+    "t_strconc_floor"
+  ],
+  "rotates": false
+}

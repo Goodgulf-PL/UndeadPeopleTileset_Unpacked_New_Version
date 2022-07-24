@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_mutant_meat_scrap",
+  "fg": [
+    "mutant_meat_scrap"
+  ],
+  "bg": [],
+  "rotates": false
+}

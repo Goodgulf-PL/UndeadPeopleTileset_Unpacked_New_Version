@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_cards_magic",
+  "fg": [
+    "cards_magic"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "mon_zombie_static",
+  "fg": [{
+      "weight": 25,
+      "sprite": "mon_zombie_static_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_static_2"
+    },
+	{
+      "weight": 25,
+      "sprite": "mon_zombie_static_3"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_static_4"
+    }],
+  "animated": true,
+  "bg": ["bg_big_normal_shadow"],
+  "rotates": false
+}

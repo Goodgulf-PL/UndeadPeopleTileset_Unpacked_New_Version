@@ -1,0 +1,18 @@
+{
+  "id": "vp_basketlg_folding",
+  "fg": [
+    "vp_basketlg_folding"
+  ],
+  "bg": ["bg_car"],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_basketlg_folding_broken"
+      ],
+      "bg": ["bg_car"]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "pipe_launcher40mm",
+  "fg": [
+    "pipe_launcher40mm"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

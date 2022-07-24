@@ -1,0 +1,10 @@
+{
+  "id": "battletorch",
+  "fg": [
+    "battletorch"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

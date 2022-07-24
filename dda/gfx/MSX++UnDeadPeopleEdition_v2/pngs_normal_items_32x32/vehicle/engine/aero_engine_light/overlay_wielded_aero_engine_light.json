@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_aero_engine_light",
+  "fg": [
+    "aero_engine_light"
+  ],
+  "bg": [],
+  "rotates": false
+}

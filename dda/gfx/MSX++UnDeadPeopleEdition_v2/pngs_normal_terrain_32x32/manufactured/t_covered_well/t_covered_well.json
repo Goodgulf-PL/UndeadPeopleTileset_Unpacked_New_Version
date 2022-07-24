@@ -1,0 +1,10 @@
+{
+  "id": "t_covered_well",
+  "fg": [
+    "t_covered_well"
+  ],
+  "bg": [
+    "bg_metal_block"
+  ],
+  "rotates": false
+}

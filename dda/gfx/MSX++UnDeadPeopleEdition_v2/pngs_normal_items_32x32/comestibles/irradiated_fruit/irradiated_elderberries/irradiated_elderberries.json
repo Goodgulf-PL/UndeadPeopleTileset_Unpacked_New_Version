@@ -1,0 +1,8 @@
+{
+  "id": "irradiated_elderberries",
+  "fg": [
+    "elderberries"
+  ],
+  "bg": ["bg_irradiated"],
+  "rotates": false
+}

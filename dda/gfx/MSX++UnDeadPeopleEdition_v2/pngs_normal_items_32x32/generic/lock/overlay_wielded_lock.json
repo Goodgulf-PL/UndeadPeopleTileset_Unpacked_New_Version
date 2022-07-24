@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_lock",
+  "fg": [
+    "lock"
+  ],
+  "bg": [],
+  "rotates": false
+}

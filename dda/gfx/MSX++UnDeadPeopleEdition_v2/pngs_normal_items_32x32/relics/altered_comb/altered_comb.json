@@ -1,0 +1,10 @@
+{
+  "id": "altered_comb",
+  "fg": [
+    "altered_comb"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

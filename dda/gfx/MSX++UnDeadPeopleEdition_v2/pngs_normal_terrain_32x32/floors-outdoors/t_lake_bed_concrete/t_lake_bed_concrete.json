@@ -1,0 +1,63 @@
+{
+  "id": "t_lake_bed_concrete",
+  "fg": [
+    "t_concrete"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_concrete_center"
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_concrete_corner_1",
+        "t_concrete_corner_2",
+        "t_concrete_corner_3",
+        "t_concrete_corner_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_concrete_t_connection_1",
+        "t_concrete_t_connection_2",
+        "t_concrete_t_connection_3",
+        "t_concrete_t_connection_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_concrete_edge_1",
+        "t_concrete_edge_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_concrete_end_piece_1",
+        "t_concrete_end_piece_2",
+        "t_concrete_end_piece_3",
+        "t_concrete_end_piece_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_concrete_unconnected"
+      ],
+      "bg": []
+    }
+  ]
+}

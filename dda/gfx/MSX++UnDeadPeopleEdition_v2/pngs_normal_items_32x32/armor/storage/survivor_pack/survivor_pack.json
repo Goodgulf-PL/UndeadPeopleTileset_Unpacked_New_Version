@@ -1,0 +1,9 @@
+{
+  "id": "survivor_pack",
+  "fg": [
+    "survivor_pack"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

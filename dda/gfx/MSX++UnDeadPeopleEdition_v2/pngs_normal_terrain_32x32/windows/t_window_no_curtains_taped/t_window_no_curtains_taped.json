@@ -1,0 +1,10 @@
+{
+  "id": "t_window_no_curtains_taped",
+  "fg": [
+    "t_window_no_curtains_taped"
+  ],
+  "bg": [
+    "bg_t_floor"
+  ],
+  "rotates": false
+}

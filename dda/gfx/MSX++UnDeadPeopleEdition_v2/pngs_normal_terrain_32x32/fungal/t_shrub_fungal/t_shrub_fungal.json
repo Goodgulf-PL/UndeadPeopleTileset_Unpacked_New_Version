@@ -1,0 +1,10 @@
+{
+  "id": "t_shrub_fungal",
+  "fg": [
+    "t_shrub_fungal"
+  ],
+  "bg": [
+    "bg_fungal"
+  ],
+  "rotates": false
+}

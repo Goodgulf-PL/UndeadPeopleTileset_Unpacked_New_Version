@@ -1,0 +1,6 @@
+{
+  "id": ["haz_sar_1_1", "haz_sar_1_2", "haz_sar_1_3", "haz_sar_1_4", "haz_sar_b_1", "haz_sar_b_2", "haz_sar_b_3", "haz_sar_b_4" ],
+  "fg": ["plug_haz_sar"],
+  "bg": [],
+  "rotates": false
+}

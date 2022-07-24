@@ -1,0 +1,10 @@
+{
+  "id": "rolling_paper",
+  "fg": [
+    "rolling_paper"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

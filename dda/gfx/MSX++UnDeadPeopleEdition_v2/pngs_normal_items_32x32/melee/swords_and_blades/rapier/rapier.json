@@ -1,0 +1,10 @@
+{
+  "id": "rapier",
+  "fg": [
+    "rapier"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "fairy_tales",
+  "fg": [
+    "fairy_tales"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

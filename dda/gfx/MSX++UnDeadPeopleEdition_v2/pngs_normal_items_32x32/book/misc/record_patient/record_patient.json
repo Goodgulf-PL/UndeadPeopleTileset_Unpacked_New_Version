@@ -1,0 +1,10 @@
+{
+  "id": "record_patient",
+  "fg": [
+    "paper_graphics_temp"
+  ],
+  "bg": [
+    "bg_book_manual"
+  ],
+  "rotates": false
+}

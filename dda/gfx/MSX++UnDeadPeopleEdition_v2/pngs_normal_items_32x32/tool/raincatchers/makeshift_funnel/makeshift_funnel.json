@@ -1,0 +1,10 @@
+{
+  "id": "makeshift_funnel",
+  "fg": [
+    "makeshift_funnel"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

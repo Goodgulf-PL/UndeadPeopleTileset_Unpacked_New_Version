@@ -1,0 +1,10 @@
+{
+  "id": "t_current_trans",
+  "fg": [
+    "t_current_trans"
+  ],
+  "bg": [
+    "bg_cement_electro"
+  ],
+  "rotates": false
+}

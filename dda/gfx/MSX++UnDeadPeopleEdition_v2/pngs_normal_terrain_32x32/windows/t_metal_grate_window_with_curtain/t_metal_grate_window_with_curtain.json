@@ -1,0 +1,10 @@
+{
+  "id": "t_metal_grate_window_with_curtain",
+  "fg": [
+    "t_metal_grate_window_with_curtain"
+  ],
+  "bg": [
+    "bg_t_floor"
+  ],
+  "rotates": false
+}

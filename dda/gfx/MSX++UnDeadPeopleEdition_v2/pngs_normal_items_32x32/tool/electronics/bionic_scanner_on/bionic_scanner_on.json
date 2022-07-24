@@ -1,0 +1,10 @@
+{
+  "id": "bionic_scanner_on",
+  "fg": [
+    "bionic_scanner_on"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

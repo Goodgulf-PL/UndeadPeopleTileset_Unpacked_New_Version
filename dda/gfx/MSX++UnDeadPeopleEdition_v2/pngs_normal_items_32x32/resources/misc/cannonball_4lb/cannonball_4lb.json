@@ -1,0 +1,10 @@
+{
+  "id": "cannonball_4lb",
+  "fg": [
+    "cannonball_4lb"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

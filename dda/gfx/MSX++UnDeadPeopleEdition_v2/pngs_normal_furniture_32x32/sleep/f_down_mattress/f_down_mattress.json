@@ -1,0 +1,63 @@
+{
+  "id": "f_down_mattress",
+  "fg": [
+    "f_down_mattress"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "f_down_mattress_center"
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_down_mattress_corner_1",
+        "f_down_mattress_corner_2",
+        "f_down_mattress_corner_3",
+        "f_down_mattress_corner_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_down_mattress_t_connection_1",
+        "f_down_mattress_t_connection_2",
+        "f_down_mattress_t_connection_3",
+        "f_down_mattress_t_connection_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_down_mattress_edge_1",
+        "f_down_mattress_edge_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_down_mattress_end_piece_1",
+        "f_down_mattress_end_piece_2",
+        "f_down_mattress_end_piece_3",
+        "f_down_mattress_end_piece_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_down_mattress_unconnected"
+      ],
+      "bg": []
+    }
+  ]
+}

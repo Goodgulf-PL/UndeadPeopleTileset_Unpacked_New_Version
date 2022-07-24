@@ -1,0 +1,9 @@
+{
+  "id": "copper",
+  "fg": [
+    "copper"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

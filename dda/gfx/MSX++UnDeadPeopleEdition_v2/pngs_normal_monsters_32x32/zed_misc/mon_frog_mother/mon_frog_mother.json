@@ -1,0 +1,10 @@
+{
+  "id": "mon_frog_mother",
+  "fg": [
+    "mon_frog_mother"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

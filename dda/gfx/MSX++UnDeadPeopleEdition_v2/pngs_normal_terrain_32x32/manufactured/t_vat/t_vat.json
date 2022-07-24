@@ -1,0 +1,10 @@
+{
+  "id": "t_vat",
+  "fg": [
+    "t_vat"
+  ],
+  "bg": [
+    "bg_metal_block"
+  ],
+  "rotates": false
+}

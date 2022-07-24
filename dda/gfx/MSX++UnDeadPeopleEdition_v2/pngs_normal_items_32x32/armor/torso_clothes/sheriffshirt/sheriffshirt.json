@@ -1,0 +1,10 @@
+{
+  "id": "sheriffshirt",
+  "fg": [
+    "sheriffshirt"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

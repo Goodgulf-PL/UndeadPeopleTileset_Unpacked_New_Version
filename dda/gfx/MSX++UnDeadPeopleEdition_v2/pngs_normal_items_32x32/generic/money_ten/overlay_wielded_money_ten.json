@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_money_ten",
+  "fg": [
+    "money_ten"
+  ],
+  "bg": [],
+  "rotates": false
+}

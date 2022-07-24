@@ -1,0 +1,10 @@
+{
+  "id": "textbook_business",
+  "fg": [
+    "textbook_business"
+  ],
+  "bg": [
+    "bg_book_adv"
+  ],
+  "rotates": false
+}

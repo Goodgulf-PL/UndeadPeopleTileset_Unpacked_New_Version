@@ -1,0 +1,10 @@
+{
+  "id": "sword_nail",
+  "fg": [
+    "sword_nail"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

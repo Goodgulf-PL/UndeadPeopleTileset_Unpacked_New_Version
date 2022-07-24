@@ -1,0 +1,10 @@
+{
+  "id": "bot_turret_riot",
+  "fg": [
+    "bot_turret_riot"
+  ],
+  "bg": [
+    "bg_shadow_turret_offset"
+  ],
+  "rotates": true
+}

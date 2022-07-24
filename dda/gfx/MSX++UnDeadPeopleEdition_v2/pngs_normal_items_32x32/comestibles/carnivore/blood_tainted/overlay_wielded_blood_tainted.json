@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_blood_tainted",
+  "fg": [
+    "blood_tainted"
+  ],
+  "bg": [],
+  "rotates": false
+}

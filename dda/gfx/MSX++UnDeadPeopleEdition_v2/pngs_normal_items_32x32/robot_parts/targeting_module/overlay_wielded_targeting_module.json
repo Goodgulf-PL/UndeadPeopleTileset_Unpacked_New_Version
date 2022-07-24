@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_targeting_module",
+  "fg": [
+    "targeting_module"
+  ],
+  "bg": [],
+  "rotates": false
+}

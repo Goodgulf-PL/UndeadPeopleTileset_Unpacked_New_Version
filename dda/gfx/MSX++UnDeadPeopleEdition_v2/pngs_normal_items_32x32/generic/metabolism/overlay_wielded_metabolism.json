@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_metabolism",
+  "fg": [
+    "metabolism"
+  ],
+  "bg": [],
+  "rotates": false
+}

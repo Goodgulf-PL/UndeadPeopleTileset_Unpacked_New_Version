@@ -1,0 +1,10 @@
+{
+  "id": "vortex_stone",
+  "fg": [
+    "vortex_stone"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

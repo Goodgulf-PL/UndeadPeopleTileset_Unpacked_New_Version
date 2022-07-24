@@ -1,0 +1,10 @@
+{
+  "id": "generator_25l_gasoline",
+  "fg": [
+    "vp_generator_7500w"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

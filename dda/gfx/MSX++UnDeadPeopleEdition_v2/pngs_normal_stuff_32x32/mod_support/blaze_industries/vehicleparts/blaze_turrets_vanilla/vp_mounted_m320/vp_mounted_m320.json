@@ -1,0 +1,18 @@
+{
+  "id": "vp_mounted_m320",
+  "fg": [
+    "vp_bg_default_turret_3"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_bg_default_turret_3_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

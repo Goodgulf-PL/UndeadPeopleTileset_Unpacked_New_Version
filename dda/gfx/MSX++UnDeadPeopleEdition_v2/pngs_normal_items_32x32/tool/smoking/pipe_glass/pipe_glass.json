@@ -1,0 +1,10 @@
+{
+  "id": "pipe_glass",
+  "fg": [
+    "pipe_glass"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

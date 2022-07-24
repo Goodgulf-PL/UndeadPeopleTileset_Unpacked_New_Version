@@ -1,0 +1,10 @@
+{
+  "id": "overlay_wielded_wine_glass",
+  "fg": [
+    "overlay_wielded_wine_glass"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

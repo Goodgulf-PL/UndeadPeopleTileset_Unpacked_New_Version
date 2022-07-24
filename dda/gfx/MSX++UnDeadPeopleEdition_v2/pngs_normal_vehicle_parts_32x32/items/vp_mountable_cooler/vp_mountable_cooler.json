@@ -1,0 +1,18 @@
+{
+  "id": "vp_mountable_cooler",
+  "fg": [
+    "vp_mountable_cooler"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_mountable_cooler_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

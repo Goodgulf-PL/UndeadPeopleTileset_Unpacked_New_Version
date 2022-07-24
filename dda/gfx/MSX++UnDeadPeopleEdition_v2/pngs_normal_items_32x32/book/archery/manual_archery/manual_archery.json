@@ -1,0 +1,10 @@
+{
+  "id": "manual_archery",
+  "fg": [
+    "manual_archery"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

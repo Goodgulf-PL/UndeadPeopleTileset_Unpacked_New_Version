@@ -1,0 +1,34 @@
+{
+    "id": [
+        "stg44magold",
+        "stg44magnew",
+        "hipoint9mag",
+        "hipoint9carmag",
+        "hipoint9extmag",
+        "rak_9mm_15",
+        "rak_9mm_30",
+        "rak_9x18_15",
+        "rak_9x18_30",
+        "xm29_launchermag",
+        "hipoint38mag",
+        "hipoint38carmag",
+        "hipoint38extmag",
+        "hipoint40mag",
+        "hipoint40magext",
+        "hipoint45mag",
+        "hipoint45magext",
+        "stgmag223",
+        "blk10",
+        "blk20",
+        "blk30",
+        "blk50",
+        "stgmag300blk",
+        "vz58mag",
+        "vz58magplas",
+        "stgmag762"
+    ],
+    "fg": [
+        "Mag_Plug"
+    ],
+    "bg": []
+}

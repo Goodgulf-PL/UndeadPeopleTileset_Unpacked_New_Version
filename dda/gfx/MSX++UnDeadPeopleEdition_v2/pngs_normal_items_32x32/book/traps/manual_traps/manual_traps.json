@@ -1,0 +1,10 @@
+{
+  "id": "manual_traps",
+  "fg": [
+    "manual_traps"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

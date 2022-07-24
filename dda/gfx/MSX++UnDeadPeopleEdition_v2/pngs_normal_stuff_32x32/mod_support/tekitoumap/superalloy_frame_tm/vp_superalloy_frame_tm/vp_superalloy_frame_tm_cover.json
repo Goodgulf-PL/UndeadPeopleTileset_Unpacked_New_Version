@@ -1,0 +1,20 @@
+{
+  "id": "vp_superalloy_frame_tm_cover",
+  "fg": [
+    "vp_superalloy_frame_tm_cover"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_superalloy_frame_tm_cover_broken"
+      ],
+      "bg": [
+        "vp_superalloy_frame_tm_cover"
+      ]
+    }
+  ]
+}

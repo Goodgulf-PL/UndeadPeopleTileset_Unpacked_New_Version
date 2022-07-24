@@ -1,0 +1,9 @@
+{
+  "id": "mon_feral_labsecurity_flashlight",
+  "fg": ["mon_feral_labsecurity_flashlight"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

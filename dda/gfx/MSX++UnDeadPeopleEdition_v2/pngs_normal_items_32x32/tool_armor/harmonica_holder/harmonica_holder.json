@@ -1,0 +1,10 @@
+{
+  "id": "harmonica_holder",
+  "fg": [
+    "harmonica_holder"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

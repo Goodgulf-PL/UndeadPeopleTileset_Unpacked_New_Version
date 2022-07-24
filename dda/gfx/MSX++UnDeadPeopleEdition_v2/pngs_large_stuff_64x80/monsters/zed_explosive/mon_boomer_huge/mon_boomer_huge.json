@@ -1,0 +1,8 @@
+{
+  "id": "mon_boomer_huge",
+  "fg": [
+    "mon_boomer_huge"
+  ],
+  "bg": ["bg_big_large_shadow"],
+  "rotates": false
+}

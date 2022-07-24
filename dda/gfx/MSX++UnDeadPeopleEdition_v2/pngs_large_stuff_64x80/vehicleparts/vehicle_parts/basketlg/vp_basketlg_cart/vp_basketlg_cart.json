@@ -1,0 +1,8 @@
+{
+  "id": "vp_basketlg_cart",
+  "fg": [
+    "vp_basketlg_cart_1", "vp_basketlg_cart_2", "vp_basketlg_cart_3", "vp_basketlg_cart_4"
+  ],
+  "bg": [],
+  "rotates": true
+}

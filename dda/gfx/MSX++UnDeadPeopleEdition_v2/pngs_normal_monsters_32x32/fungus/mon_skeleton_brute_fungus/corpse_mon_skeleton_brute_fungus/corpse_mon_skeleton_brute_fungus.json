@@ -1,0 +1,10 @@
+{
+  "id": "corpse_mon_skeleton_brute_fungus",
+  "fg": [
+    "corpse_mon_skeleton_brute_fungus"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

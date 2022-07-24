@@ -1,0 +1,10 @@
+{
+  "id": "XEAS_mask",
+  "fg": [
+    "XEAS_mask"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

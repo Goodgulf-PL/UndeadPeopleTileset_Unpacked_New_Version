@@ -1,0 +1,77 @@
+{
+  "id": "t_grass_golf_season_winter",
+  "fg": [
+    "t_grass_golf"
+  ],
+  "bg": [
+    "bg_dirt_season_winter"
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_grass_golf_center"
+      ],
+      "bg": [
+        "bg_dirt_season_winter"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_grass_golf_corner_1",
+        "t_grass_golf_corner_2",
+        "t_grass_golf_corner_3",
+        "t_grass_golf_corner_4"
+      ],
+      "bg": [
+        "bg_dirt_season_winter"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_grass_golf_t_connection_1",
+        "t_grass_golf_t_connection_2",
+        "t_grass_golf_t_connection_3",
+        "t_grass_golf_t_connection_4"
+      ],
+      "bg": [
+        "bg_dirt_season_winter"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_grass_golf_edge_1",
+        "t_grass_golf_edge_2"
+      ],
+      "bg": [
+        "bg_dirt_season_winter"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_grass_golf_end_piece_1",
+        "t_grass_golf_end_piece_2",
+        "t_grass_golf_end_piece_3",
+        "t_grass_golf_end_piece_4"
+      ],
+      "bg": [
+        "bg_dirt_season_winter"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_grass_golf_unconnected"
+      ],
+      "bg": [
+        "bg_dirt_season_winter"
+      ]
+    }
+  ]
+}

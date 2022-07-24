@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_chem_DMSO",
+  "fg": [
+    "chem_DMSO"
+  ],
+  "bg": [],
+  "rotates": false
+}

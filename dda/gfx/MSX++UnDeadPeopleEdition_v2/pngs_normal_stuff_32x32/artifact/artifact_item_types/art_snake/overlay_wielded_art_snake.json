@@ -1,0 +1,39 @@
+{
+  "id": "overlay_wielded_art_snake",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_snake_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_snake_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_snake_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_snake_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_snake_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_snake_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_snake_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_snake_8"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

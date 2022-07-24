@@ -1,0 +1,20 @@
+{
+  "id": "overlay_effect_zapped",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "overlay_effect_zapped_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_effect_zapped_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_effect_zapped_3"
+    }
+  ],
+  "bg": [],
+  "animated": true,
+  "rotates": false
+}

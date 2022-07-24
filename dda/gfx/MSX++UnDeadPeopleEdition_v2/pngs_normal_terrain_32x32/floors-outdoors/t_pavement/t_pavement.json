@@ -1,0 +1,51 @@
+{
+  "id": "t_pavement",
+  "fg": [
+    {
+      "weight": 1111,
+      "sprite": "t_pavement_1"
+    },
+    {
+      "weight": 1111,
+      "sprite": "t_pavement_2"
+    },
+    {
+      "weight": 1111,
+      "sprite": "t_pavement_3"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement_4"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement_5"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement_6"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement_7"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement_8"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement_9"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement_10"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_pavement_11"
+    }
+  ],
+  "bg": [],
+  "rotates": false
+}

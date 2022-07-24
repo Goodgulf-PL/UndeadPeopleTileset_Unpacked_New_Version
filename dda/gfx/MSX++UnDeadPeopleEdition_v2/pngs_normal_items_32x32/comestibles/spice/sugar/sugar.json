@@ -1,0 +1,10 @@
+{
+  "id": "sugar",
+  "fg": [
+    "sugar"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

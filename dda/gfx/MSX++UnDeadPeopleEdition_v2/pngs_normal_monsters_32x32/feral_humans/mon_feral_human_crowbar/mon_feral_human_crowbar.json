@@ -1,0 +1,50 @@
+{
+  "id": "mon_feral_human_crowbar",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_crowbar_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_crowbar_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_crowbar_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_crowbar_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_crowbar_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_crowbar_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_crowbar_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_crowbar_8"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_crowbar_9"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_crowbar_10"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false,
+  "animated": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "rock_quern",
+  "fg": [
+    "rock_quern"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

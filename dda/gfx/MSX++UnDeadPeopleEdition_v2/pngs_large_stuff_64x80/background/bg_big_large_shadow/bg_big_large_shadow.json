@@ -1,0 +1,8 @@
+{
+  "id": "bg_big_large_shadow",
+  "fg": [
+    "bg_big_normal_shadow"
+  ],
+  "bg": [],
+  "rotates": false
+}

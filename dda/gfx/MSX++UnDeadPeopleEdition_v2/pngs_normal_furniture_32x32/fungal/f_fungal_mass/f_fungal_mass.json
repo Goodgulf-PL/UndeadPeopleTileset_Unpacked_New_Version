@@ -1,0 +1,63 @@
+{
+  "id": "f_fungal_mass",
+  "fg": [
+    "f_fungal_mass"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "f_fungal_mass_center"
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_fungal_mass_corner_1",
+        "f_fungal_mass_corner_2",
+        "f_fungal_mass_corner_3",
+        "f_fungal_mass_corner_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_fungal_mass_t_connection_1",
+        "f_fungal_mass_t_connection_2",
+        "f_fungal_mass_t_connection_3",
+        "f_fungal_mass_t_connection_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_fungal_mass_edge_1",
+        "f_fungal_mass_edge_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_fungal_mass_end_piece_1",
+        "f_fungal_mass_end_piece_2",
+        "f_fungal_mass_end_piece_3",
+        "f_fungal_mass_end_piece_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_fungal_mass_unconnected"
+      ],
+      "bg": []
+    }
+  ]
+}

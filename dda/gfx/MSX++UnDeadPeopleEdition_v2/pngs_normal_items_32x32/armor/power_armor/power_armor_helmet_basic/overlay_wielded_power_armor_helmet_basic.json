@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_power_armor_helmet_basic",
+  "fg": [
+    "power_armor_helmet_basic"
+  ],
+  "bg": [],
+  "rotates": false
+}

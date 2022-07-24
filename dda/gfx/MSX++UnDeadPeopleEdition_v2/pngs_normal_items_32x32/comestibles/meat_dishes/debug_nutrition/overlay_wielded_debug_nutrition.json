@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_debug_nutrition",
+  "fg": [
+    "debug_nutrition"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": "vp_m2010",
+  "fg": [
+    "vp_m2010"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_m2010_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

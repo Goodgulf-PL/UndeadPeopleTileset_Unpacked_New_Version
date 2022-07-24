@@ -1,0 +1,21 @@
+[{
+  "id": ["dairy_farm_SE"],
+  "fg": ["dairy_farm_SE_1", "dairy_farm_SE_2", "dairy_farm_SE_3", "dairy_farm_SE_4"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": ["dairy_farm_NE"],
+  "fg": ["dairy_farm_NE_1", "dairy_farm_NE_2", "dairy_farm_NE_3", "dairy_farm_NE_4"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": ["dairy_farm_NW"],
+  "fg": ["dairy_farm_NW_1", "dairy_farm_NW_2", "dairy_farm_NW_3", "dairy_farm_NW_4"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": ["dairy_farm_SW"],
+  "fg": ["dairy_farm_SW_1", "dairy_farm_SW_2", "dairy_farm_SW_3", "dairy_farm_SW_4"],
+  "bg": [],
+  "rotates": true
+}]

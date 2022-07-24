@@ -1,0 +1,10 @@
+{
+  "id": "b_shorts",
+  "fg": [
+    "b_shorts"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

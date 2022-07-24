@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_glass_shard",
+  "fg": [
+    "glass_shard"
+  ],
+  "bg": [],
+  "rotates": false
+}

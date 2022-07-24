@@ -1,0 +1,10 @@
+{
+  "id": "duster_leather",
+  "fg": [
+    "duster_leather"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

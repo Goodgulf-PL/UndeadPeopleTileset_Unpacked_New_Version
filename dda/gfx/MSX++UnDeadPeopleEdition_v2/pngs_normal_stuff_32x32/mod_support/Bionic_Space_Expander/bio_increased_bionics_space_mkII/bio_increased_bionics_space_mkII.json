@@ -1,0 +1,10 @@
+{
+  "id": "bio_increased_bionics_space_mkII",
+  "fg": [
+    "cbm_temp"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

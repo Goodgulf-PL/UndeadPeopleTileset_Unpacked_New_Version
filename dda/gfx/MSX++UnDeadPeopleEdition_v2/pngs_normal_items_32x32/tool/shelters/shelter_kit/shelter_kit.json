@@ -1,0 +1,10 @@
+{
+  "id": "shelter_kit",
+  "fg": [
+    "shelter_kit"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

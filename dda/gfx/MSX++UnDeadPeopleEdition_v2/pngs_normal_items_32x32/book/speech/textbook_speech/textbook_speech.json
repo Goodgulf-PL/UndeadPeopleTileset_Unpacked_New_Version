@@ -1,0 +1,10 @@
+{
+  "id": "textbook_speech",
+  "fg": [
+    "textbook_speech"
+  ],
+  "bg": [
+    "bg_book_adv"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "dish_towel",
+  "fg": [
+    "dish_towel"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

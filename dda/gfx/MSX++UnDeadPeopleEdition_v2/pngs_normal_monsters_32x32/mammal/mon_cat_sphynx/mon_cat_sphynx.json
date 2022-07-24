@@ -1,0 +1,10 @@
+{
+  "id": "mon_cat_sphynx",
+  "fg": [
+    "mon_cat_sphynx"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

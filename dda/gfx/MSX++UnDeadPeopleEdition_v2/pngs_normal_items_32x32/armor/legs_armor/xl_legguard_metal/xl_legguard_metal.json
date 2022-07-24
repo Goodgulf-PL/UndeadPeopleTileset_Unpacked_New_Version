@@ -1,0 +1,10 @@
+{
+  "id": "xl_legguard_metal",
+  "fg": [
+    "legguard_metal"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

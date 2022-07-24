@@ -1,0 +1,118 @@
+{
+  "id": "t_sewage",
+  "fg": [
+    "t_sewage"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        {
+          "weight": 2000,
+          "sprite": "t_sewage_center_1"
+        },
+        {
+          "weight": 16,
+          "sprite": "t_sewage_center_2"
+        },
+        {
+          "weight": 150,
+          "sprite": "t_sewage_center_3"
+        },
+        {
+          "weight": 140,
+          "sprite": "t_sewage_center_4"
+        },
+        {
+          "weight": 130,
+          "sprite": "t_sewage_center_5"
+        },
+        {
+          "weight": 130,
+          "sprite": "t_sewage_center_6"
+        },
+        {
+          "weight": 130,
+          "sprite": "t_sewage_center_7"
+        },
+        {
+          "weight": 5,
+          "sprite": "t_sewage_center_8"
+        },
+        {
+          "weight": 130,
+          "sprite": "t_sewage_center_9"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_sewage_center_10"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_sewage_center_11"
+        }
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_sewage_corner_1",
+        "t_sewage_corner_2",
+        "t_sewage_corner_3",
+        "t_sewage_corner_4"
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_sewage_t_connection_1",
+        "t_sewage_t_connection_2",
+        "t_sewage_t_connection_3",
+        "t_sewage_t_connection_4"
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_sewage_edge_1",
+        "t_sewage_edge_2"
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_sewage_end_piece_1",
+        "t_sewage_end_piece_2",
+        "t_sewage_end_piece_3",
+        "t_sewage_end_piece_4"
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_sewage_unconnected"
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    }
+  ]
+}

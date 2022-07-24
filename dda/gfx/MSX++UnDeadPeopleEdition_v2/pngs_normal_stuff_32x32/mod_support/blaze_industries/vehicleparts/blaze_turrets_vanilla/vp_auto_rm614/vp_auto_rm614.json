@@ -1,0 +1,18 @@
+{
+  "id": "vp_auto_rm614",
+  "fg": [
+    "vp_bg_default_turret_1"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_bg_default_turret_1_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

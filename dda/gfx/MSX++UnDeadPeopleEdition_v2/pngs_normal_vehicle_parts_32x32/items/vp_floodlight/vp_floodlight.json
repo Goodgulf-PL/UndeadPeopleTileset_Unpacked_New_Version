@@ -1,0 +1,20 @@
+{
+  "id": "vp_floodlight",
+  "fg": [
+    "vp_floodlight"
+  ],
+  "bg": [
+    "bg_car"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_floodlight_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

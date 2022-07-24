@@ -1,0 +1,10 @@
+{
+  "id": "t_ticket_vendor",
+  "fg": [
+    "t_ticket_vendor"
+  ],
+  "bg": [
+    "t_thconc_floor"
+  ],
+  "rotates": false
+}

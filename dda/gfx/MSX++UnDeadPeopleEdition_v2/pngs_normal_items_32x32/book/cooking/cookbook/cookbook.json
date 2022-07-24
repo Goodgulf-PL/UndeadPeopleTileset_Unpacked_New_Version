@@ -1,0 +1,10 @@
+{
+  "id": "cookbook",
+  "fg": [
+    "cookbook"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

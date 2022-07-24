@@ -1,0 +1,10 @@
+{
+  "id": "hazmat_suit",
+  "fg": [
+    "hazmat_suit"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

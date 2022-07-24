@@ -1,0 +1,10 @@
+{
+  "id": "tramadol",
+  "fg": [
+    "tramadol"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,6 @@
+{
+  "id": ["lake_surface", "lake_cabin_water"],
+  "fg": ["lake_surface"],
+  "bg": [],
+  "rotates": false
+}

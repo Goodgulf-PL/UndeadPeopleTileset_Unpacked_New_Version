@@ -1,0 +1,10 @@
+{
+  "id": ["f_griddehydrator", "fake_griddehydrator"],
+  "fg": [
+    "f_griddehydrator"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

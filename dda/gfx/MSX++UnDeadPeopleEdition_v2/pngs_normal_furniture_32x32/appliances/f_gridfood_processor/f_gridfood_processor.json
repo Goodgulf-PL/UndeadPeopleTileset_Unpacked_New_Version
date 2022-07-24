@@ -1,0 +1,8 @@
+{
+  "id": ["f_gridfood_processor", "fake_gridfood_processor"],
+  "fg": [
+    "f_gridfood_processor"
+  ],
+  "bg": [],
+  "rotates": false
+}

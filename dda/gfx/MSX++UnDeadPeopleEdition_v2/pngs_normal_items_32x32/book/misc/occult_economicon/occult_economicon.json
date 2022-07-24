@@ -1,0 +1,10 @@
+{
+  "id": "occult_economicon",
+  "fg": [
+    "story_book"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

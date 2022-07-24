@@ -1,0 +1,12 @@
+[{
+  "id": ["barn", "ranch_camp_66", "farm_dairy_twd_12", "farm_dairy_twd_6", "farm_isherwood_3", "farm_3"],
+  "fg": ["barn"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": ["barn_aban1", "desolatebarn"],
+  "fg": ["barn_desolate"],
+  "bg": [],
+  "rotates": false
+}]

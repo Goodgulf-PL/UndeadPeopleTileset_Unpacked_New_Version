@@ -1,0 +1,10 @@
+{
+  "id": "apple",
+  "fg": [
+    "apple"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

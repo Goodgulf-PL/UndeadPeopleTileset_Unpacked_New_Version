@@ -1,0 +1,10 @@
+{
+  "id": "t_stump_season_winter",
+  "fg": [
+    "t_stump_season_winter"
+  ],
+  "bg": [
+    "bg_big_snow"
+  ],
+  "rotates": false
+}

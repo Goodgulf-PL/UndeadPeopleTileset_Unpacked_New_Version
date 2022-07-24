@@ -1,0 +1,10 @@
+{
+  "id": "wakizashi",
+  "fg": [
+    "wakizashi"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

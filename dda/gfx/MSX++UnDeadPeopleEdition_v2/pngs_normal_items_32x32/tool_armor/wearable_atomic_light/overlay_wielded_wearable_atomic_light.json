@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_wearable_atomic_light",
+  "fg": [
+    "wearable_atomic_light"
+  ],
+  "bg": [],
+  "rotates": false
+}

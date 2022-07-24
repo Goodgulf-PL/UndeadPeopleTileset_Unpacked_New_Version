@@ -1,0 +1,6 @@
+{
+  "id": "f_autodoc",
+  "fg": ["f_autodoc_rotat_s", "f_autodoc_rotat_w", "f_autodoc_rotat_n", "f_autodoc_rotat_e"],
+  "bg": [],
+  "rotates": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "jumpsuit",
+  "fg": [
+    "jumpsuit"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

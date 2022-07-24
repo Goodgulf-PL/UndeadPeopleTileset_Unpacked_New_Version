@@ -1,0 +1,10 @@
+{
+  "id": "vp_workbench",
+  "fg": [
+    "vp_workbench"
+  ],
+  "bg": [
+    "bg_car"
+  ],
+  "rotates": false
+}

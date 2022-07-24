@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_canister_empty",
+  "fg": [
+    "canister_empty"
+  ],
+  "bg": [],
+  "rotates": false
+}

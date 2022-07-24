@@ -1,0 +1,10 @@
+{
+  "id": "tuba",
+  "fg": [
+    "tuba"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

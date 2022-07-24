@@ -1,0 +1,10 @@
+{
+  "id": "pickelhaube",
+  "fg": [
+    "pickelhaube"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

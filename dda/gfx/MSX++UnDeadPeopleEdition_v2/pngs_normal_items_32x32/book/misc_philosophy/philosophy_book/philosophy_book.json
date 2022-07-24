@@ -1,0 +1,10 @@
+{
+  "id": "philosophy_book",
+  "fg": [
+    "philosophy_book"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "puck",
+  "fg": [
+    "puck"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

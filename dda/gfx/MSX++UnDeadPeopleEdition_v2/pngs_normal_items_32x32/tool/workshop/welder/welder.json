@@ -1,0 +1,10 @@
+{
+  "id": "welder",
+  "fg": [
+    "welder"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

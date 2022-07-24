@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_lightstrip_inactive",
+  "fg": [
+    "lightstrip_inactive"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,11 @@
+[{
+  "id": ["cave"],
+  "fg": ["cave"],
+  "bg": [],
+  "rotates": false
+},{
+  "id": ["cave_underground"],
+  "fg": ["cave_underground"],
+  "bg": [],
+  "rotates": false
+}]

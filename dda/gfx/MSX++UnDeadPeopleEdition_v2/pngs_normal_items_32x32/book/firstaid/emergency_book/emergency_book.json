@@ -1,0 +1,10 @@
+{
+  "id": "emergency_book",
+  "fg": [
+    "emergency_book"
+  ],
+  "bg": [
+    "bg_book_adv"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_flask_glass",
+  "fg": [
+    "flask_glass"
+  ],
+  "bg": [],
+  "rotates": false
+}

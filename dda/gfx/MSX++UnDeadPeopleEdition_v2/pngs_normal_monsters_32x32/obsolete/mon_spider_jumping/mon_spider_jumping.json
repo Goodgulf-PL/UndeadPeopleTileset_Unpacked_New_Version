@@ -1,0 +1,10 @@
+{
+  "id": "mon_spider_jumping",
+  "fg": [
+    "mon_spider_jumping"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

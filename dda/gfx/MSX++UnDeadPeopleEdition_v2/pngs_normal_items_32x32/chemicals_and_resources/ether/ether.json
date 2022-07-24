@@ -1,0 +1,8 @@
+{
+  "id": "ether",
+  "fg": [
+    "temp_chem_clear_liquid"
+  ],
+  "bg": [],
+  "rotates": false
+}

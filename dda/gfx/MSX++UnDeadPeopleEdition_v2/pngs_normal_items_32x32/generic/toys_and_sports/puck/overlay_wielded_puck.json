@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_puck",
+  "fg": [
+    "puck"
+  ],
+  "bg": [],
+  "rotates": false
+}

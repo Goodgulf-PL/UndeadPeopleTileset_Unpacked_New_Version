@@ -1,0 +1,10 @@
+{
+  "id": "battleaxe_fake",
+  "fg": [
+    "battleaxe_fake"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

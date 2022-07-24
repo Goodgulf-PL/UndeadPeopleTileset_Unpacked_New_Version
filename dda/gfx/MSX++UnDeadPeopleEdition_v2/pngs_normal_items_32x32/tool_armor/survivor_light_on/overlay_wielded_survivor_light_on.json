@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_survivor_light_on",
+  "fg": [
+    "survivor_light_on"
+  ],
+  "bg": [],
+  "rotates": false
+}

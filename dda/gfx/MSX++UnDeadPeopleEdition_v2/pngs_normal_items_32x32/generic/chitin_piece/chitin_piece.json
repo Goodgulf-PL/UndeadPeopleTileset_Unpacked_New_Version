@@ -1,0 +1,10 @@
+{
+  "id": "chitin_piece",
+  "fg": [
+    "chitin_piece"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

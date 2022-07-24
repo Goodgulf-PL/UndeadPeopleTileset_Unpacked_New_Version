@@ -1,0 +1,18 @@
+{
+  "id": "vp_reinforced_windshield_horizontal_rear_edge",
+  "fg": [
+    "vp_reinforced_windshield_horizontal_rear_edge"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_reinforced_windshield_horizontal_rear_edge_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

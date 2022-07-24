@@ -1,0 +1,10 @@
+{
+  "id": "sword_xiphos",
+  "fg": [
+    "sword_xiphos"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

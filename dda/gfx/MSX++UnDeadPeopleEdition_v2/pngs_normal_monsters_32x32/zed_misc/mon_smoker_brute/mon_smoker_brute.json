@@ -1,0 +1,10 @@
+{
+  "id": "mon_smoker_brute",
+  "fg": [
+    "mon_smoker_brute"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

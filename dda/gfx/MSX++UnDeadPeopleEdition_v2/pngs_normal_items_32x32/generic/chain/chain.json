@@ -1,0 +1,10 @@
+{
+  "id": "chain",
+  "fg": [
+    "chain"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

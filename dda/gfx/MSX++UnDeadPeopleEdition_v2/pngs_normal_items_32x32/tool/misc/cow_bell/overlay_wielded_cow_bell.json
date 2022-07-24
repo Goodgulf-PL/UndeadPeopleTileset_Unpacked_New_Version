@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_cow_bell",
+  "fg": [
+    "cow_bell"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cured_pelt",
+  "fg": [
+    "cured_pelt"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "t_m_frame",
+  "fg": [
+    "t_m_frame"
+  ],
+  "bg": [
+    "bg_pavement"
+  ],
+  "rotates": false
+}

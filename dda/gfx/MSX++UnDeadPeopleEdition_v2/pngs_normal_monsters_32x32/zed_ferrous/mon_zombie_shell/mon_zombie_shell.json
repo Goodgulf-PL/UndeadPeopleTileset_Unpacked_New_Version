@@ -1,0 +1,8 @@
+{
+  "id": "mon_zombie_shell",
+  "fg": ["mon_zombie_shell"],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

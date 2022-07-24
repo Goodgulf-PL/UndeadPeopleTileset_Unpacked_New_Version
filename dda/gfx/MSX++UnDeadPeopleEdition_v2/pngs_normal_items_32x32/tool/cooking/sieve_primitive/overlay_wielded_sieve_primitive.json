@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_sieve_primitive",
+  "fg": [
+    "sieve_primitive"
+  ],
+  "bg": [],
+  "rotates": false
+}

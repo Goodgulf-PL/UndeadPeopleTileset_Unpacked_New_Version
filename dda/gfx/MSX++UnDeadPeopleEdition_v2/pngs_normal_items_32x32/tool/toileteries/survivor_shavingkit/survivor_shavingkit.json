@@ -1,0 +1,10 @@
+{
+  "id": "survivor_shavingkit",
+  "fg": [
+    "survivor_shavingkit"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

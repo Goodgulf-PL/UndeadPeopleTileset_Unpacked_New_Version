@@ -1,0 +1,10 @@
+{
+  "id": "xl_legguard_lightplate",
+  "fg": [
+    "legguard_lightplate"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

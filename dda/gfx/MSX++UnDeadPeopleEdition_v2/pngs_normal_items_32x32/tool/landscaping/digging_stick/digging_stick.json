@@ -1,0 +1,10 @@
+{
+  "id": "digging_stick",
+  "fg": [
+    "digging_stick"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

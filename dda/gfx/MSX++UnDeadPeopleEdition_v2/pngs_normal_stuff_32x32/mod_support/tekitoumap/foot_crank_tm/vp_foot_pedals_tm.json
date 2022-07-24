@@ -1,0 +1,10 @@
+{
+  "id": "vp_foot_pedals_tm",
+  "fg": [
+    "vp_foot_pedals"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": true
+}

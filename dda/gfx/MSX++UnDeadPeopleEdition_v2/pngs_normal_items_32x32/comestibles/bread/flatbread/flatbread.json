@@ -1,0 +1,10 @@
+{
+  "id": "flatbread",
+  "fg": [
+    "flatbread"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

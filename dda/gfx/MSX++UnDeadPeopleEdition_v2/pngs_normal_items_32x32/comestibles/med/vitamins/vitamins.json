@@ -1,0 +1,10 @@
+{
+  "id": "vitamins",
+  "fg": [
+    "vitamins"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

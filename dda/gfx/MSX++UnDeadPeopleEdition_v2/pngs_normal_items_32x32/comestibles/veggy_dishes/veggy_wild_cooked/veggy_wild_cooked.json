@@ -1,0 +1,10 @@
+{
+  "id": "veggy_wild_cooked",
+  "fg": [
+    "veggy_wild_cooked"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

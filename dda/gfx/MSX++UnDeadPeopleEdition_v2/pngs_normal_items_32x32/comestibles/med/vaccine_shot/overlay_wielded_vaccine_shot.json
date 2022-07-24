@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_vaccine_shot",
+  "fg": [
+    "vaccine_shot"
+  ],
+  "bg": [],
+  "rotates": false
+}

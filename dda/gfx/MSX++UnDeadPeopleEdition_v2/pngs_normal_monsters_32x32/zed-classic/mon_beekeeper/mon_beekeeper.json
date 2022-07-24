@@ -1,0 +1,10 @@
+{
+  "id": "mon_beekeeper",
+  "fg": [
+    "mon_beekeeper"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

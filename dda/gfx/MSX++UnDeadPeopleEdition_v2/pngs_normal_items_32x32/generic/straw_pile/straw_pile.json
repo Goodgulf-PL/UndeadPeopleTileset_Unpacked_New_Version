@@ -1,0 +1,10 @@
+{
+  "id": "straw_pile",
+  "fg": [
+    "straw_pile"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

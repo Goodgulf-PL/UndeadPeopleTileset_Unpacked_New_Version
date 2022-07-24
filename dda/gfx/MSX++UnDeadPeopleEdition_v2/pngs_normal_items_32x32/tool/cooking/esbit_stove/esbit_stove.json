@@ -1,0 +1,10 @@
+{
+  "id": "esbit_stove",
+  "fg": [
+    "esbit_stove"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

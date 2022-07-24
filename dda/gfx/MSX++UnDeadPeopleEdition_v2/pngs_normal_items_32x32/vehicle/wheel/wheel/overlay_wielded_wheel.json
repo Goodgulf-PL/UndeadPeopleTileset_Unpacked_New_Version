@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_wheel",
+  "fg": [
+    "wheel"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_40mm_teargas",
+  "fg": [
+    "40mm_teargas"
+  ],
+  "bg": [],
+  "rotates": false
+}

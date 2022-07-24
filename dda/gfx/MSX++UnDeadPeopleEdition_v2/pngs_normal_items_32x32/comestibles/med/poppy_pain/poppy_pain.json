@@ -1,0 +1,10 @@
+{
+  "id": "poppy_pain",
+  "fg": [
+    "poppy_pain"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

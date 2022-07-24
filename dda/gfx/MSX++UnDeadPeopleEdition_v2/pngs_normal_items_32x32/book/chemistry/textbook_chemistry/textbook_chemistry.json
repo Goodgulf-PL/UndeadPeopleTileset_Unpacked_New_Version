@@ -1,0 +1,10 @@
+{
+  "id": "textbook_chemistry",
+  "fg": [
+    "textbook_chemistry"
+  ],
+  "bg": [
+    "bg_book_adv"
+  ],
+  "rotates": false
+}

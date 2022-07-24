@@ -1,0 +1,10 @@
+{
+  "id": "BioCo_Assembly_Machine_USE",
+  "fg": [
+    "cbm_temp"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

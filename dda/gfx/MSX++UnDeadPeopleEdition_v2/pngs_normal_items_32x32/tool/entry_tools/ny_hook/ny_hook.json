@@ -1,0 +1,10 @@
+{
+  "id": "ny_hook",
+  "fg": [
+    "iceaxe"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

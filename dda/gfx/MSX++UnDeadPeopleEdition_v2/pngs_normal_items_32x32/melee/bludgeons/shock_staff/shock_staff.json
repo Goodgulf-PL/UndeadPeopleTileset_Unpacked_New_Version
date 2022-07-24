@@ -1,0 +1,10 @@
+{
+  "id": "shock_staff",
+  "fg": [
+    "shock_staff"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

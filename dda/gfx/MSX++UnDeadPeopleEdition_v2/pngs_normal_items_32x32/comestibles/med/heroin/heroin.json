@@ -1,0 +1,10 @@
+{
+  "id": "heroin",
+  "fg": [
+    "heroin"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

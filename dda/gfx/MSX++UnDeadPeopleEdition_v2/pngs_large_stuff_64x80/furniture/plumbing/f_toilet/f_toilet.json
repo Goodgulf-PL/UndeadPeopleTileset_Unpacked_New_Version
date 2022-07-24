@@ -1,0 +1,19 @@
+{
+  "id": "f_toilet",
+  "fg": [
+    {
+      "weight": 1000,
+      "sprite": "f_toilet"
+    },
+    {
+      "weight": 100,
+      "sprite": "f_toilet_broken"
+    },
+    {
+      "weight": 10,
+      "sprite": "f_toilet_broken_1"
+    }
+  ],
+  "bg": [],
+  "rotates": false
+}

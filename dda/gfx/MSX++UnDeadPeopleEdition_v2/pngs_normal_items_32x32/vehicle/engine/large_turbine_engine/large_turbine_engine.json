@@ -1,0 +1,10 @@
+{
+  "id": "large_turbine_engine",
+  "fg": [
+    "large_turbine_engine"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

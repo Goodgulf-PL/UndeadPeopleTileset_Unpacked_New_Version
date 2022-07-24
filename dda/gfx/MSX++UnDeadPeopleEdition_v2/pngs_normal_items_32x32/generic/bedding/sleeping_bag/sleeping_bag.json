@@ -1,0 +1,10 @@
+{
+  "id": "sleeping_bag",
+  "fg": [
+    "sleeping_bag"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "textbook_weapwest",
+  "fg": [
+    "textbook_weapwest"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

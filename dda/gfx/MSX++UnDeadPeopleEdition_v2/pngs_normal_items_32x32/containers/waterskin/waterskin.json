@@ -1,0 +1,10 @@
+{
+  "id": "waterskin",
+  "fg": [
+    "waterskin"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

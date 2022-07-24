@@ -1,0 +1,42 @@
+[
+    {
+        "id": [
+            "pump_station_1",
+            "necropolis_a_7"
+        ],
+        "fg": [
+            "pump_station_1_2",
+            "pump_station_1_3",
+            "pump_station_1_4",
+            "pump_station_1_1"
+        ],
+        "bg": [],
+        "rotates": true
+    },
+    {
+        "id": [
+            "pump_station_2",
+            "necropolis_a_8"
+        ],
+        "fg": [
+            "pump_station_2_2",
+            "pump_station_2_3",
+            "pump_station_2_4",
+            "pump_station_2_1"
+        ],
+        "bg": [],
+        "rotates": true
+    },
+    {
+      "id": [
+          "pump_station_3",
+          "pump_station_4",
+          "pump_station_5"
+      ],
+      "fg": [
+          "pump_station_3"
+      ],
+      "bg": [],
+      "rotates": true
+  }
+]

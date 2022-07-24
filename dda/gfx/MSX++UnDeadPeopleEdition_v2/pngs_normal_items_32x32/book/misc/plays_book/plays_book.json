@@ -1,0 +1,10 @@
+{
+  "id": "plays_book",
+  "fg": [
+    "plays_book"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

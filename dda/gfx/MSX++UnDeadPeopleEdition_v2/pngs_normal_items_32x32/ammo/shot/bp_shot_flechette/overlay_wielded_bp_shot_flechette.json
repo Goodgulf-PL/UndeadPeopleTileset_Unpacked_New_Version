@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bp_shot_flechette",
+  "fg": [
+    "bp_shot_flechette"
+  ],
+  "bg": [],
+  "rotates": false
+}

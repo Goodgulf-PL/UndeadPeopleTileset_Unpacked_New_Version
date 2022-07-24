@@ -1,0 +1,27 @@
+{
+  "id": "art_beads",
+  "fg": [
+    {
+      "weight": 100,
+      "sprite": "art_beads_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_beads_2"
+    },
+    {
+      "weight": 100,
+      "sprite": "art_beads_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "art_beads_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_beads_5"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

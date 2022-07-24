@@ -1,0 +1,10 @@
+{
+  "id": "foot_crank",
+  "fg": [
+    "foot_crank"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

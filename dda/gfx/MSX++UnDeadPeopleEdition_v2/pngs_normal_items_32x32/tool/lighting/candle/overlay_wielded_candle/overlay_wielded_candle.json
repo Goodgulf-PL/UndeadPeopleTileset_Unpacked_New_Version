@@ -1,0 +1,10 @@
+{
+  "id": "overlay_wielded_candle",
+  "fg": [
+    "overlay_wielded_candle"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

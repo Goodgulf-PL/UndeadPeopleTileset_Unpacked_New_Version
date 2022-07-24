@@ -1,0 +1,18 @@
+{
+  "id": "vp_rm11b_sniper_rifle",
+  "fg": [
+    "vp_rm11b_sniper_rifle"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_rm11b_sniper_rifle_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

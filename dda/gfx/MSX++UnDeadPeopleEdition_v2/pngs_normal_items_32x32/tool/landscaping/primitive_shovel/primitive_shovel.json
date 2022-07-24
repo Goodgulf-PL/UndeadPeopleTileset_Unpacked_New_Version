@@ -1,0 +1,10 @@
+{
+  "id": "primitive_shovel",
+  "fg": [
+    "primitive_shovel"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_flamethrower_fuel",
+  "fg": [
+    "flamethrower_fuel"
+  ],
+  "bg": [],
+  "rotates": false
+}

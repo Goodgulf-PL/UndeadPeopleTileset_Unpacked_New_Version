@@ -1,0 +1,18 @@
+{
+  "id": "vp_xlhalfboard_nw",
+  "fg": [
+    "vp_xlhalfboard_nw"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_xlhalfboard_nw_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

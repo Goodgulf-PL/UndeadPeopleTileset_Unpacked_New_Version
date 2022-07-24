@@ -1,0 +1,10 @@
+{
+  "id": "t_gas_pump",
+  "fg": [
+    "t_gas_pump"
+  ],
+  "bg": [
+    "bg_pavement"
+  ],
+  "rotates": false
+}

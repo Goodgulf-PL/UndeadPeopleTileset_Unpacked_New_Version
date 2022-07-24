@@ -1,0 +1,10 @@
+{
+  "id": "american_flag",
+  "fg": [
+    "american_flag"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "t_snowrock",
+  "fg": [
+    "t_snow"
+  ],
+  "bg": ["t_basaltfloor"],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_snow_center"
+      ],
+      "bg": ["t_basaltfloor"]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_snow_corner_1",
+        "t_snow_corner_2",
+        "t_snow_corner_3",
+        "t_snow_corner_4"
+      ],
+      "bg": ["t_basaltfloor"]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_snow_t_connection_1",
+        "t_snow_t_connection_2",
+        "t_snow_t_connection_3",
+        "t_snow_t_connection_4"
+      ],
+      "bg": ["t_basaltfloor"]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_snow_edge_1",
+        "t_snow_edge_2"
+      ],
+      "bg": ["t_basaltfloor"]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_snow_end_piece_1",
+        "t_snow_end_piece_2",
+        "t_snow_end_piece_3",
+        "t_snow_end_piece_4"
+      ],
+      "bg": ["t_basaltfloor"]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_snow_unconnected"
+      ],
+      "bg": ["t_basaltfloor"]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "t_marloss_tree",
+  "fg": [
+    "t_marloss_tree"
+  ],
+  "bg": [
+    "bg_big_fungal_dirt"
+  ],
+  "rotates": false
+}

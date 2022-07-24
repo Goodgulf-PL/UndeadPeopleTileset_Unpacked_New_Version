@@ -1,0 +1,10 @@
+{
+  "id": "bp_40x53mm_buckshot_m169",
+  "fg": [
+    "bp_40x53mm_buckshot_m169"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

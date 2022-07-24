@@ -1,0 +1,31 @@
+{
+  "id": "lighting_lowlight_light",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "lighting_lowlight_light_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "lighting_lowlight_light_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "lighting_lowlight_light_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "lighting_lowlight_light_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "lighting_lowlight_light_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "lighting_lowlight_light_6"
+    }
+  ],
+  "bg": [],
+  "animated": false
+}

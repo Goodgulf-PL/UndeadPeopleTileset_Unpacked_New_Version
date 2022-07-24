@@ -1,0 +1,24 @@
+{
+  "id": "mon_zombie_pupa_decoy",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_pupa_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_pupa_2"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_pupa_3"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_pupa_4"
+    }
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false,
+  "animated": true
+}

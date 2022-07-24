@@ -1,0 +1,25 @@
+{
+  "id": "hddoor_opaque_rear",
+  "fg": [
+    "hddoor_opaque_rear"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "hddoor_opaque_rear_broken"
+      ],
+      "bg": []
+    },
+    {
+      "id": "open",
+      "fg": [
+        "hddoor_opaque_rear_open"
+      ],
+      "bg": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "balaclava",
+  "fg": [
+    "balclava"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

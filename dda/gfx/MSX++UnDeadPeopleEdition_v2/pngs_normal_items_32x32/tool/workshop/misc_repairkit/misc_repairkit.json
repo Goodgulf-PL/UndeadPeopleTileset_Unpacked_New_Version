@@ -1,0 +1,10 @@
+{
+  "id": "misc_repairkit",
+  "fg": [
+    "misc_repairkit"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

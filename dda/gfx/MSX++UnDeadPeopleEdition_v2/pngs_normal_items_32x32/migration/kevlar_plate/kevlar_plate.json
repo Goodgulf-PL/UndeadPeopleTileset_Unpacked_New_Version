@@ -1,0 +1,10 @@
+{
+  "id": "kevlar_plate",
+  "fg": [
+    "kevlar_plate"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

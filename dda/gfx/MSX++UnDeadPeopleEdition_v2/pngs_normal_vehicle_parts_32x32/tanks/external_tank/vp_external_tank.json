@@ -1,0 +1,17 @@
+{
+  "id": "vp_external_tank",
+  "fg": [
+    "vp_external_tank"
+  ],
+  "bg": [],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_external_tank_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

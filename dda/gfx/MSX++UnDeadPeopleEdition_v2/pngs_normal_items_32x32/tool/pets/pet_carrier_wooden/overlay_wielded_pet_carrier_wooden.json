@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_pet_carrier_wooden",
+  "fg": [
+    "pet_carrier_wooden"
+  ],
+  "bg": [],
+  "rotates": false
+}

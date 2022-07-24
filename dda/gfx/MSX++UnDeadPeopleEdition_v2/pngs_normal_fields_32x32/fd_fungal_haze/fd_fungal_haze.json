@@ -1,0 +1,47 @@
+{
+  "id": "fd_fungal_haze",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "fd_fungal_haze_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_fungal_haze_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_fungal_haze_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_fungal_haze_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_fungal_haze_5"
+    },    
+	{
+      "weight": 10,
+      "sprite": "fd_fungal_haze_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_fungal_haze_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_fungal_haze_8"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_fungal_haze_9"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_fungal_haze_10"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

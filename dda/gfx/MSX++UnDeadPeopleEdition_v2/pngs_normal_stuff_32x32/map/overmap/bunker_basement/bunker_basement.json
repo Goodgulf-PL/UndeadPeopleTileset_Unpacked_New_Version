@@ -1,0 +1,9 @@
+{
+    "id": [
+        "bunker_basement",
+        "bunker_basement_1"
+    ],
+    "fg": ["generic_city_house_basement"],
+    "bg": [],
+    "rotates": false
+}

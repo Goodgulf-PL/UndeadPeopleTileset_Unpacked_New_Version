@@ -1,0 +1,10 @@
+{
+  "id": "firecracker_pack_act",
+  "fg": [
+    "firecracker_pack_act"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

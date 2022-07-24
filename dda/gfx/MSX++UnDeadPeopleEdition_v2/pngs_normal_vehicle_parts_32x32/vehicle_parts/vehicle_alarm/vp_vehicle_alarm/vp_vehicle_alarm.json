@@ -1,0 +1,10 @@
+{
+  "id": "vp_vehicle_alarm",
+  "fg": [
+    "vp_vehicle_alarm"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

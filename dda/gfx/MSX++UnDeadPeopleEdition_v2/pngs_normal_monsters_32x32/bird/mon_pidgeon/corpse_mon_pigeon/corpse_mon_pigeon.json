@@ -1,0 +1,8 @@
+{
+  "id": ["corpse_mon_pigeon", "corpse_mon_pidgeon"],
+  "fg": [
+    "corpse_mon_pigeon"
+  ],
+  "bg": [],
+  "rotates": false
+}

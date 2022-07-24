@@ -1,0 +1,36 @@
+{
+  "id": "overlay_female_effect_fungus",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "overlay_female_effect_fungus_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_female_effect_fungus_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_female_effect_fungus_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_female_effect_fungus_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_female_effect_fungus_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_female_effect_fungus_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_female_effect_fungus_7"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}

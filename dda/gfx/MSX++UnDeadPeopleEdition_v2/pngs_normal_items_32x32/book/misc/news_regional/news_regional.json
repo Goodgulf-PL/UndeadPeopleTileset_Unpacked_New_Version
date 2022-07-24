@@ -1,0 +1,10 @@
+{
+  "id": "news_regional",
+  "fg": [
+    "paper_graphics_temp"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

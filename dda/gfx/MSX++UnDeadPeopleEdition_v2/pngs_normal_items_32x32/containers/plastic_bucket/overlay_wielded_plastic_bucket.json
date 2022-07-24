@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_plastic_bucket",
+  "fg": [
+    "plastic_bucket"
+  ],
+  "bg": [],
+  "rotates": false
+}

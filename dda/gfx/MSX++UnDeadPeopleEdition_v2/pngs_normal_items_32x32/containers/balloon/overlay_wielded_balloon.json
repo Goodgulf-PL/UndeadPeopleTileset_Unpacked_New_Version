@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_balloon",
+  "fg": [
+    "balloon"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "t_ballistic_glass",
+  "fg": [
+    "t_ballistic_glass"
+  ],
+  "bg": [
+    "t_thconc_floor"
+  ],
+  "rotates": false
+}

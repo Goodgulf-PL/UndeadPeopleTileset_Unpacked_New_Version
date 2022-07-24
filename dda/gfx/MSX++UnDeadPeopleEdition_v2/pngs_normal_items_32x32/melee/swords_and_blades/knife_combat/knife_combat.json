@@ -1,0 +1,10 @@
+{
+  "id": "knife_combat",
+  "fg": [
+    "knife_combat"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

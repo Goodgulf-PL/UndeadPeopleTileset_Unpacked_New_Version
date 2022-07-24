@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_raft_board",
+  "fg": [
+    "raft_board"
+  ],
+  "bg": [],
+  "rotates": false
+}

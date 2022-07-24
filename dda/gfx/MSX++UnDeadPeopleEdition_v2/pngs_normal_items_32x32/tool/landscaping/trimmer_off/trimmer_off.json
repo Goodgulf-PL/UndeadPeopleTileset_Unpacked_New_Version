@@ -1,0 +1,10 @@
+{
+  "id": "trimmer_off",
+  "fg": [
+    "trimmer_off"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

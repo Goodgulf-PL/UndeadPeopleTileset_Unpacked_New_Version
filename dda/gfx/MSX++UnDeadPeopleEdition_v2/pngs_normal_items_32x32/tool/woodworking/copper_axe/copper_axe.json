@@ -1,0 +1,10 @@
+{
+  "id": "copper_axe",
+  "fg": [
+    "copper_ax"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

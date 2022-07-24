@@ -1,0 +1,10 @@
+{
+  "id": "char_purifier",
+  "fg": [
+    "char_purifier"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

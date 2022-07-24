@@ -1,0 +1,84 @@
+{
+  "id": "t_railroad_tie_d1",
+  "fg": [
+    "t_railroad_tie_d1"
+  ],
+  "bg": [
+    "t_railroad_rubble",
+    "bg_gravel"
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_railroad_tie_d1_center"
+      ],
+      "bg": [
+        "t_railroad_rubble",
+        "bg_gravel"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_railroad_tie_d1_corner_1",
+        "t_railroad_tie_d1_corner_2",
+        "t_railroad_tie_d1_corner_3",
+        "t_railroad_tie_d1_corner_4"
+      ],
+      "bg": [
+        "t_railroad_rubble",
+        "bg_gravel"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_railroad_tie_d1_t_connection_1",
+        "t_railroad_tie_d1_t_connection_2",
+        "t_railroad_tie_d1_t_connection_3",
+        "t_railroad_tie_d1_t_connection_4"
+      ],
+      "bg": [
+        "t_railroad_rubble",
+        "bg_gravel"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_railroad_tie_d1_edge_1",
+        "t_railroad_tie_d1_edge_2"
+      ],
+      "bg": [
+        "t_railroad_rubble",
+        "bg_gravel"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_railroad_tie_d1_end_piece_1",
+        "t_railroad_tie_d1_end_piece_2",
+        "t_railroad_tie_d1_end_piece_3",
+        "t_railroad_tie_d1_end_piece_4"
+      ],
+      "bg": [
+        "t_railroad_rubble",
+        "bg_gravel"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_railroad_tie_d1_unconnected"
+      ],
+      "bg": [
+        "t_railroad_rubble",
+        "bg_gravel"
+      ]
+    }
+  ]
+}

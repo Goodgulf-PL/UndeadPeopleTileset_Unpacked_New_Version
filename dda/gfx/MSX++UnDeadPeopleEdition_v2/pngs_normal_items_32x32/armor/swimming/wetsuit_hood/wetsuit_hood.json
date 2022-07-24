@@ -1,0 +1,10 @@
+{
+  "id": "wetsuit_hood",
+  "fg": [
+    "wetsuit_hood"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

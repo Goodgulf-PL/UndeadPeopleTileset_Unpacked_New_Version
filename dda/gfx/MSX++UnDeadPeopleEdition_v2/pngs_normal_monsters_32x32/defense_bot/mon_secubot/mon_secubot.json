@@ -1,0 +1,10 @@
+{
+  "id": "mon_secubot",
+  "fg": [
+    "mon_secubot"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

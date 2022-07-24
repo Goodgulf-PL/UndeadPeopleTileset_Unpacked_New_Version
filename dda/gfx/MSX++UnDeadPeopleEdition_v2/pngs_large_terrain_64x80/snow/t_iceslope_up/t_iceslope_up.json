@@ -1,0 +1,16 @@
+{
+  "id": "t_iceslope_up",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "t_iceslope_up_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "t_iceslope_up_2"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_biollante",
+  "fg": [
+    "mon_biollante"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

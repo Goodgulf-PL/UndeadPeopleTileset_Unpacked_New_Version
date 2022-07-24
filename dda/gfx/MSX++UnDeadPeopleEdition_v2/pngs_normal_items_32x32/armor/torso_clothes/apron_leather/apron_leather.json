@@ -1,0 +1,10 @@
+{
+  "id": "apron_leather",
+  "fg": [
+    "apron_leather"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

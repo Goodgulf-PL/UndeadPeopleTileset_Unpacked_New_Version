@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_chain_link",
+  "fg": [
+    "chain_link"
+  ],
+  "bg": [],
+  "rotates": false
+}

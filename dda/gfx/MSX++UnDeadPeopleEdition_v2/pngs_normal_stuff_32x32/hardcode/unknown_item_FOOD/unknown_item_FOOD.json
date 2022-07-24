@@ -1,0 +1,10 @@
+{
+  "id": "unknown_item_FOOD",
+  "fg": [
+    "unknown_item_FOOD"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

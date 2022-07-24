@@ -1,0 +1,10 @@
+{
+  "id": "lead_bipod",
+  "fg": [
+    "lead_bipod"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

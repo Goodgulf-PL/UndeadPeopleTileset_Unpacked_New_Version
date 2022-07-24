@@ -1,0 +1,20 @@
+{
+  "id": "mon_zombie_giant_heart",
+  "fg": [
+    {
+      "weight": 11,
+      "sprite": "mon_zombie_giant_heart_1"
+    },
+    {
+      "weight": 11,
+      "sprite": "mon_zombie_giant_heart_2"
+    },
+    {
+      "weight": 11,
+      "sprite": "mon_zombie_giant_heart_3"
+    }
+  ],
+  "bg": ["bg_big_large_shadow"],
+  "rotates": false,
+  "animated": true
+}

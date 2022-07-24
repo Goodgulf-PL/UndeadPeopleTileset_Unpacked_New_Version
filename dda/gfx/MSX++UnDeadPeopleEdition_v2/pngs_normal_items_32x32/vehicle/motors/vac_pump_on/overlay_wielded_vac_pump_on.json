@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_vac_pump_on",
+  "fg": [
+    "motor"
+  ],
+  "bg": [],
+  "rotates": false
+}

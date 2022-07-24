@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_solar_cell",
+  "fg": [
+    "solar_cell"
+  ],
+  "bg": [],
+  "rotates": false
+}

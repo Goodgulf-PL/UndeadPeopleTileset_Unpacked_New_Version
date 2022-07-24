@@ -1,0 +1,10 @@
+{
+  "id": "seed_cabbage",
+  "fg": [
+    "seed_cabbage"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

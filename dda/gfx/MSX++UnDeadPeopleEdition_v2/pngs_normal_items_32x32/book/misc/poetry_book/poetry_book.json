@@ -1,0 +1,10 @@
+{
+  "id": "poetry_book",
+  "fg": [
+    "poetry_book"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

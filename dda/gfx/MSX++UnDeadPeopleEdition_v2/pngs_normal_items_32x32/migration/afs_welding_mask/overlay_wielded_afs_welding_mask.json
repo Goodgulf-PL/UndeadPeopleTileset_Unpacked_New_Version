@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_afs_welding_mask",
+  "fg": [
+    "afs_welding_mask"
+  ],
+  "bg": [],
+  "rotates": false
+}

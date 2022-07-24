@@ -1,0 +1,6 @@
+{
+  "id": ["silo", "silo_1", "silo_2", "silo_3", "silo_4", "silo_finale"],
+  "fg": ["missle_silo"],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "chaw",
+  "fg": [
+    "chaw"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

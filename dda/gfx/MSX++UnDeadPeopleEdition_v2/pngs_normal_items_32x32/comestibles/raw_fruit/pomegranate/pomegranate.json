@@ -1,0 +1,10 @@
+{
+  "id": "pomegranate",
+  "fg": [
+    "pomegranate"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

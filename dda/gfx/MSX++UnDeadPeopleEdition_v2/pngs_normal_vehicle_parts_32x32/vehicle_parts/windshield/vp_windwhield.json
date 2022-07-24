@@ -1,0 +1,412 @@
+[
+    {
+        "id": "vp_windshield",
+        "fg": [
+            "vp_windshield"
+        ],
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": [
+                    "vp_windshield_broken"
+                ],
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_horizontal_front",
+        "fg": [
+            "vp_windshield_horizontal_front"
+        ],
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": [
+                    "vp_windshield_horizontal_front_broken"
+                ],
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_horizontal_front_edge",
+        "fg": [
+            "vp_windshield_horizontal_front_edge"
+        ],
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": [
+                    "vp_windshield_horizontal_front_edge_broken"
+                ],
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_horizontal_rear",
+        "fg": [
+            "vp_windshield_horizontal_rear"
+        ],
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": [
+                    "vp_windshield_horizontal_rear_broken"
+                ],
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_horizontal_rear_edge",
+        "fg": [
+            "vp_windshield_horizontal_rear_edge"
+        ],
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": [
+                    "vp_windshield_horizontal_rear_edge_broken"
+                ],
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_ne",
+        "fg": [
+            "vp_windshield_ne"
+        ],
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": [
+                    "vp_windshield_ne_broken"
+                ],
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_ne_edge",
+        "fg": [
+            "vp_windshield_ne_edge"
+        ],
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": [
+                    "vp_windshield_ne_edge_broken"
+                ],
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_nw",
+        "fg": [
+            "vp_windshield_nw"
+        ],
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": [
+                    "vp_windshield_nw_broken"
+                ],
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_nw_edge",
+        "fg": [
+            "vp_windshield_nw_edge"
+        ],
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": [
+                    "vp_windshield_nw_edge_broken"
+                ],
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_se",
+        "fg": [
+            "vp_windshield_se"
+        ],
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": [
+                    "vp_windshield_se_broken"
+                ],
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_se_edge",
+        "fg": [
+            "vp_windshield_se_edge"
+        ],
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": [
+                    "vp_windshield_se_edge_broken"
+                ],
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_sw",
+        "fg": [
+            "vp_windshield_sw"
+        ],
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": [
+                    "vp_windshield_sw_broken"
+                ],
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_sw_edge",
+        "fg": [
+            "vp_windshield_sw_edge"
+        ],
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": [
+                    "vp_windshield_sw_edge_broken"
+                ],
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_vertical_left",
+        "fg": [
+            "vp_windshield_vertical_left"
+        ],
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": [
+                    "vp_windshield_vertical_left_broken"
+                ],
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_vertical_right",
+        "fg": [
+            "vp_windshield_vertical_right"
+        ],
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": [
+                    "vp_windshield_vertical_right_broken"
+                ],
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_cover_left",
+        "fg": "vp_windshield_cover_left",
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": "vp_windshield_cover_left_broken",
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_cover_right",
+        "fg": "vp_windshield_cover_right",
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": "vp_windshield_cover_right_broken",
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_full_vertical_left",
+        "fg": "vp_windshield_full_vertical_left",
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": "vp_windshield_full_vertical_left_broken",
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_full_vertical_right",
+        "fg": "vp_windshield_full_vertical_right",
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": "vp_windshield_full_vertical_right_broken",
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_full_wheel_left",
+        "fg": "vp_windshield_full_wheel_left",
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": "vp_windshield_full_wheel_left_broken",
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_full_wheel_right",
+        "fg": "vp_windshield_full_wheel_right",
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": "vp_windshield_full_wheel_right_broken",
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_vertical_2_left",
+        "fg": "vp_windshield_vertical_2_left",
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": "vp_windshield_vertical_2_left_broken",
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_vertical_2_right",
+        "fg": "vp_windshield_vertical_2_right",
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": "vp_windshield_vertical_2_right_broken",
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_wheel_left",
+        "fg": "vp_windshield_wheel_left",
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": "vp_windshield_wheel_left_broken",
+                "bg": []
+            }
+        ]
+    },
+    {
+        "id": "vp_windshield_wheel_right",
+        "fg": "vp_windshield_wheel_right",
+        "bg": [],
+        "rotates": true,
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "broken",
+                "fg": "vp_windshield_wheel_right_broken",
+                "bg": []
+            }
+        ]
+    }
+]

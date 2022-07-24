@@ -1,0 +1,10 @@
+{
+  "id": "icecream_scoop",
+  "fg": [
+    "icecream_scoop"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

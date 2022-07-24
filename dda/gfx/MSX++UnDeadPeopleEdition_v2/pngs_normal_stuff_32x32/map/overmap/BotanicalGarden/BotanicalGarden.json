@@ -1,0 +1,11 @@
+[{
+  "id": ["BotanicalGarden_1a"],
+  "fg": ["BotanicalGarden_1", "BotanicalGarden_2", "BotanicalGarden_3", "BotanicalGarden_4"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": ["BotanicalGarden_1b"],
+  "fg": ["BotanicalGarden_3", "BotanicalGarden_4", "BotanicalGarden_1", "BotanicalGarden_2"],
+  "bg": [],
+  "rotates": true
+}]

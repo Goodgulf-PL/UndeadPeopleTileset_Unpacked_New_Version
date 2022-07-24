@@ -1,0 +1,10 @@
+{
+  "id": "i4_combustion",
+  "fg": [
+    "i4_combustion"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

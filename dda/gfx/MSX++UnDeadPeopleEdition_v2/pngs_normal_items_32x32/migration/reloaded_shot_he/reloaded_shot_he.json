@@ -1,0 +1,10 @@
+{
+  "id": "reloaded_shot_he",
+  "fg": [
+    "reloaded_shot_he"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

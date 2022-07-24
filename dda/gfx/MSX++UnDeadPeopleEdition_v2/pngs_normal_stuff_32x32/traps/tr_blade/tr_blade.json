@@ -1,0 +1,18 @@
+{
+  "id": "tr_blade",
+  "fg": [
+    "tr_blade"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "edge",
+      "fg": [
+        "tr_blade_edge"
+      ],
+      "bg": []
+    }
+  ]
+}

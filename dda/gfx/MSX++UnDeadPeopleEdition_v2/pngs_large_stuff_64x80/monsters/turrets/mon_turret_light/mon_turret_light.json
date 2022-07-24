@@ -1,0 +1,15 @@
+{
+  "id": "mon_turret_light",
+  "fg": [
+    {
+      "weight": 30,
+      "sprite": "mon_turret_light_1"
+    },
+    {
+      "weight": 30,
+      "sprite": "mon_turret_light_2"
+    }
+  ],
+  "bg": ["bg_shadow_turret_offset"],
+  "animated": true
+}

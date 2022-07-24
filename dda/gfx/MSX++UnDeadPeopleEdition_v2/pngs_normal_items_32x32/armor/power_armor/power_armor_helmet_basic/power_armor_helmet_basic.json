@@ -1,0 +1,10 @@
+{
+  "id": "power_armor_helmet_basic",
+  "fg": [
+    "power_armor_helmet_basic"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

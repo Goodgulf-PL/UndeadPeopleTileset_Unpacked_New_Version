@@ -1,0 +1,10 @@
+{
+  "id": "survivor_light_on",
+  "fg": [
+    "survivor_light_on"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

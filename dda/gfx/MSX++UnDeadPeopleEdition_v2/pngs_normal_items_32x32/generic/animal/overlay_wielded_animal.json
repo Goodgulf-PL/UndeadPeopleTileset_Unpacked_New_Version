@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_animal",
+  "fg": [
+    "animal"
+  ],
+  "bg": [],
+  "rotates": false
+}

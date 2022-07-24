@@ -1,0 +1,10 @@
+{
+  "id": "mss_survivor_shotgunrevolver",
+  "fg": [
+    "mss_survivor_shotgunrevolver"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

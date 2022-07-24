@@ -1,0 +1,10 @@
+{
+  "id": "leathersandals",
+  "fg": [
+    "leathersandals"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

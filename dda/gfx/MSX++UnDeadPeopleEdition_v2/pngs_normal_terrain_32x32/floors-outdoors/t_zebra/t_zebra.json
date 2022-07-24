@@ -1,0 +1,54 @@
+{
+  "id": "t_zebra",
+  "fg": [
+    {
+      "weight": 30,
+      "sprite": "t_zebra_1"
+    },
+    {
+      "weight": 30,
+      "sprite": "t_zebra_2"
+    },
+    {
+      "weight": 30,
+      "sprite": "t_zebra_3"
+    },
+    {
+      "weight": 30,
+      "sprite": "t_zebra_4"
+    },
+    {
+      "weight": 30,
+      "sprite": "t_zebra_5"
+    },
+    {
+      "weight": 30,
+      "sprite": "t_zebra_6"
+    },
+    {
+      "weight": 30,
+      "sprite": "t_zebra_7"
+    },
+    {
+      "weight": 30,
+      "sprite": "t_zebra_8"
+    },
+    {
+      "weight": 1,
+      "sprite": "t_zebra_9"
+    },
+    {
+      "weight": 30,
+      "sprite": "t_zebra_10"
+    },
+    {
+      "weight": 30,
+      "sprite": "t_zebra_11"
+    },
+    {
+      "weight": 30,
+      "sprite": "t_zebra_12"
+    }
+  ],
+      "bg": ["t_pavement"]
+}

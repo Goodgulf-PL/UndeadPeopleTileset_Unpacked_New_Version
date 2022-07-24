@@ -1,0 +1,10 @@
+{
+  "id": "caffeine",
+  "fg": [
+    "caffeine"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

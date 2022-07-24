@@ -1,0 +1,10 @@
+{
+  "id": "meat_tainted",
+  "fg": [
+    "meat_tainted"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_atgm_launcher",
+  "fg": [
+    "atgm_launcher"
+  ],
+  "bg": [],
+  "rotates": false
+}

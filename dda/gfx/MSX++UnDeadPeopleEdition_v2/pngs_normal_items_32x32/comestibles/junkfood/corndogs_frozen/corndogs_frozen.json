@@ -1,0 +1,10 @@
+{
+  "id": "corndogs_frozen",
+  "fg": [
+    "corndogs_frozen"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

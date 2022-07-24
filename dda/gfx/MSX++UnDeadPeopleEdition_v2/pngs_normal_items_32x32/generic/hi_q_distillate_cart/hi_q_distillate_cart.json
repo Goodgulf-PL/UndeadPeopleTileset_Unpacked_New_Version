@@ -1,0 +1,10 @@
+{
+  "id": "hi_q_distillate_cart",
+  "fg": [
+    "canister_empty"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

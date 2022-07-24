@@ -1,0 +1,10 @@
+{
+  "id": "stock_pot",
+  "fg": [
+    "stock_pot"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

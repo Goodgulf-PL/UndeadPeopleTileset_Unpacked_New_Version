@@ -1,0 +1,10 @@
+{
+  "id": "cutlass_inferior",
+  "fg": [
+    "cutlass_inferior"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

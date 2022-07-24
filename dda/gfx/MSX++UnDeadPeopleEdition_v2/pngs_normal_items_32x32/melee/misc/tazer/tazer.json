@@ -1,0 +1,10 @@
+{
+  "id": "tazer",
+  "fg": [
+    "tazer"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

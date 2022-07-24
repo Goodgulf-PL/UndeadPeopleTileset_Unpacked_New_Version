@@ -1,0 +1,10 @@
+{
+  "id": "makeshift_halberd",
+  "fg": [
+    "makeshift_halberd"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

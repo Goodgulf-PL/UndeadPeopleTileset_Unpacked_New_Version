@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_under_armor",
+  "fg": [
+    "under_armor"
+  ],
+  "bg": [],
+  "rotates": false
+}

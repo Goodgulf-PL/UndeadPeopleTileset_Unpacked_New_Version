@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bot_antimateriel",
+  "fg": [
+    "bot_antimateriel"
+  ],
+  "bg": [],
+  "rotates": true
+}

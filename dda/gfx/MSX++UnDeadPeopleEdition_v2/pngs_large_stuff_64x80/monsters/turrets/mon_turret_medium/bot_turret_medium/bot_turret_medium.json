@@ -1,0 +1,6 @@
+{
+  "id": "bot_turret_medium",
+  "fg": ["bot_turret_medium"],
+  "bg": ["bg_shadow_turret_offset"],
+  "animated": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "xl_armor_lamellar",
+  "fg": [
+    "armor_lamellar"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

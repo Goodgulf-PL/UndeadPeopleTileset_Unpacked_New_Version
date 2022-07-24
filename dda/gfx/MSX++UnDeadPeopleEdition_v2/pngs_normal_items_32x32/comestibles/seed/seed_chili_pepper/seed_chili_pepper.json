@@ -1,0 +1,10 @@
+{
+  "id": "seed_chili_pepper",
+  "fg": [
+    "seed_chili_pepper"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

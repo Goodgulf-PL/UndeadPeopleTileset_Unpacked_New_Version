@@ -1,0 +1,9 @@
+{
+  "id": "flintlock_ammo",
+  "fg": [
+    "flintlock_ammo"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

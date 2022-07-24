@@ -1,0 +1,10 @@
+{
+  "id": "laser_rifle",
+  "fg": [
+    "laser_rifle"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

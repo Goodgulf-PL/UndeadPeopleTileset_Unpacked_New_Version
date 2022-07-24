@@ -1,0 +1,10 @@
+{
+  "id": "mon_zeindeer",
+  "fg": [
+    "mon_zeindeer"
+  ],
+  "bg": [
+    "bg_big_large_shadow"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "pitchfork",
+  "fg": [
+    "pitchfork"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

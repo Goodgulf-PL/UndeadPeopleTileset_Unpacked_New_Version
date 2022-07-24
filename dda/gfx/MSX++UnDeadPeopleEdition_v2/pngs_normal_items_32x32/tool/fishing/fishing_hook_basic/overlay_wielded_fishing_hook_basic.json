@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_fishing_hook_basic",
+  "fg": [
+    "fishing_hook_basic"
+  ],
+  "bg": [],
+  "rotates": false
+}

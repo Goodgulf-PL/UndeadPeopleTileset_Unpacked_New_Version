@@ -1,0 +1,18 @@
+{
+  "id": "vp_fn_p90",
+  "fg": [
+    "vp_fn_p90"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_fn_p90_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "f_tatami",
+  "fg": [
+    "f_tatami"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "corner",
+      "fg": [
+        "f_tatami_corner"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_tatami_edge"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_tatami_t_connection"
+      ],
+      "bg": []
+    }
+  ]
+}

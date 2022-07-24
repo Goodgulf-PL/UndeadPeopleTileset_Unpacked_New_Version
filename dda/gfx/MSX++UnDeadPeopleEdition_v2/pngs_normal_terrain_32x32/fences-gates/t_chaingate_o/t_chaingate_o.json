@@ -1,0 +1,10 @@
+{
+  "id": "t_chaingate_o",
+  "fg": [
+    "t_chaingate_o"
+  ],
+  "bg": [
+    "bg_pavement"
+  ],
+  "rotates": false
+}

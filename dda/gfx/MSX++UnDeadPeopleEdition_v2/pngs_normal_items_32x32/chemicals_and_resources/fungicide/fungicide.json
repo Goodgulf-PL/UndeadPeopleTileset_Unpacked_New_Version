@@ -1,0 +1,10 @@
+{
+  "id": "fungicide",
+  "fg": [
+    "fungicide"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

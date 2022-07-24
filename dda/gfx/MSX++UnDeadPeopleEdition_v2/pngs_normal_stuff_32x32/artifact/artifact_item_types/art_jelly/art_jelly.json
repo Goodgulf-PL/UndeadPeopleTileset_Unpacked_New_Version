@@ -1,0 +1,27 @@
+{
+  "id": "art_jelly",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "art_jelly_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "art_jelly_2"
+    },
+    {
+      "weight": 25,
+      "sprite": "art_jelly_3"
+    },   
+	{
+      "weight": 25,
+      "sprite": "art_jelly_4"
+    },   
+	{
+      "weight": 25,
+      "sprite": "art_jelly_5"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

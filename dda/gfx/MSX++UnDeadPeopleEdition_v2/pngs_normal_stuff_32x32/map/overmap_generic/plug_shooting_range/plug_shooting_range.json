@@ -1,0 +1,7 @@
+{
+  "id": [
+      "shootingrange_1a", "shootingrange_2a", "shootingrange_1a_roof" ],
+  "fg": ["plug_shooting_range"],
+  "bg": [],
+  "rotates": false
+}

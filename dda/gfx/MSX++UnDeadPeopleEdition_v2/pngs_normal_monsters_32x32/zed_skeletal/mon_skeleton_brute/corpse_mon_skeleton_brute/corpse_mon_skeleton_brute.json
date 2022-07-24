@@ -1,0 +1,10 @@
+{
+  "id": "corpse_mon_skeleton_brute",
+  "fg": [
+    "corpse_mon_skeleton_brute"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

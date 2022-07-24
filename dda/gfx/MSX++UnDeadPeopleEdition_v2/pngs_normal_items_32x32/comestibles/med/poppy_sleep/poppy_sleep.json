@@ -1,0 +1,10 @@
+{
+  "id": "poppy_sleep",
+  "fg": [
+    "poppy_sleep"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

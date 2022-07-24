@@ -1,0 +1,10 @@
+{
+  "id": "nachosvc",
+  "fg": [
+    "nachos"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

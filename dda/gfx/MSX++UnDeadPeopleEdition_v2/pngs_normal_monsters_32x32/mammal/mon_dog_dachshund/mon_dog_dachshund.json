@@ -1,0 +1,10 @@
+{
+  "id": "mon_dog_dachshund",
+  "fg": [
+    "mon_dog_dachshund"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "spear_dory",
+  "fg": [
+    "spear_dory"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,6 @@
+{
+  "id": "hive",
+  "fg": ["hive"],
+  "bg": ["bg_dirt"],
+  "rotates": false
+}

@@ -1,0 +1,11 @@
+{
+    "id": [
+        "car_corner_aban1",
+        "dirtroad1_aban1",
+        "dirtroad2_aban1",
+        "dirtplaza_aban1"
+    ],
+    "fg": ["dirtroad_aban"],
+    "bg": [],
+    "rotates": false
+}

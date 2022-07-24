@@ -1,0 +1,10 @@
+{
+  "id": "coilgun",
+  "fg": [
+    "coilgun"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

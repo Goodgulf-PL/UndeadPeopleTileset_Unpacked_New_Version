@@ -1,0 +1,10 @@
+{
+  "id": "novel_samurai",
+  "fg": [
+    "novel_samurai"
+  ],
+  "bg": [
+    "bg_book_manual"
+  ],
+  "rotates": false
+}

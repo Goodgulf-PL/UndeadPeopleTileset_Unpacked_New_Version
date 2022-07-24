@@ -1,0 +1,18 @@
+{
+  "id": "vp_wheel_mount_wood",
+  "fg": [
+    "vp_wheel_mount_wood"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_wheel_mount_wood_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

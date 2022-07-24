@@ -1,0 +1,8 @@
+{
+  "id": "schematics_hazmatbot",
+  "fg": [
+    "schematics_temp"
+  ],
+  "bg": [],
+  "rotates": true
+}

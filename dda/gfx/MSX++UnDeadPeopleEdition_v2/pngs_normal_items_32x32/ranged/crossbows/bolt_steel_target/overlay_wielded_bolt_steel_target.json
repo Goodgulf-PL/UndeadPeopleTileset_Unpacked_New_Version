@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bolt_steel_target",
+  "fg": [
+    "bolt_steel_target"
+  ],
+  "bg": [],
+  "rotates": false
+}

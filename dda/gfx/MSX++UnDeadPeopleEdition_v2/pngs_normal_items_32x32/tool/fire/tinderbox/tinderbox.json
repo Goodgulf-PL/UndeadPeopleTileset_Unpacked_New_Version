@@ -1,0 +1,10 @@
+{
+  "id": "tinderbox",
+  "fg": [
+    "tinderbox"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

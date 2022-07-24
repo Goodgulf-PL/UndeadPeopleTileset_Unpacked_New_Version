@@ -1,0 +1,10 @@
+{
+  "id": "rad_badge",
+  "fg": [
+    "rad_badge"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

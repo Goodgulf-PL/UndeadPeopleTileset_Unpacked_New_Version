@@ -1,0 +1,10 @@
+{
+  "id": "novel_swash",
+  "fg": [
+    "novel_swash"
+  ],
+  "bg": [
+    "bg_book_manual"
+  ],
+  "rotates": false
+}

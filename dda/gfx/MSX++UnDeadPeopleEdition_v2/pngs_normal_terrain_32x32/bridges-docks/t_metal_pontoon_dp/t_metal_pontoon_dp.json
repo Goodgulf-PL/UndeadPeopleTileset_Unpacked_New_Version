@@ -1,0 +1,63 @@
+{
+  "id": "t_metal_pontoon_dp",
+  "fg": [
+    "t_metal_pontoon_dp"
+  ],
+  "bg": ["t_water_dp"],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_metal_pontoon_dp_center"
+      ],
+      "bg": ["t_water_dp"]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_metal_pontoon_dp_corner_1",
+        "t_metal_pontoon_dp_corner_2",
+        "t_metal_pontoon_dp_corner_3",
+        "t_metal_pontoon_dp_corner_4"
+      ],
+      "bg": ["t_water_dp"]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_metal_pontoon_dp_t_connection_1",
+        "t_metal_pontoon_dp_t_connection_2",
+        "t_metal_pontoon_dp_t_connection_3",
+        "t_metal_pontoon_dp_t_connection_4"
+      ],
+      "bg": ["t_water_dp"]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_metal_pontoon_dp_edge_1",
+        "t_metal_pontoon_dp_edge_2"
+      ],
+      "bg": ["t_water_dp"]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_metal_pontoon_dp_end_piece_1",
+        "t_metal_pontoon_dp_end_piece_2",
+        "t_metal_pontoon_dp_end_piece_3",
+        "t_metal_pontoon_dp_end_piece_4"
+      ],
+      "bg": ["t_water_dp"]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_metal_pontoon_dp_unconnected"
+      ],
+      "bg": ["t_water_dp"]
+    }
+  ]
+}

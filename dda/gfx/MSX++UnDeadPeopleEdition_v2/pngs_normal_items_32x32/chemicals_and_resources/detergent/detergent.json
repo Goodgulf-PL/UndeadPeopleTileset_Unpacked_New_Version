@@ -1,0 +1,10 @@
+{
+  "id": "detergent",
+  "fg": [
+    "detergent"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

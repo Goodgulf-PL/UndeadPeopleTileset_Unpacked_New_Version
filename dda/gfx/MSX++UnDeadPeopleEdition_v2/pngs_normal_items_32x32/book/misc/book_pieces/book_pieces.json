@@ -1,0 +1,17 @@
+[
+    {
+        "id": "book_pieces",
+        "fg": [
+            "book_pieces"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "overlay_wielded_book_pieces",
+        "fg": [
+            "book_pieces"
+        ],
+        "bg": []
+    }
+]

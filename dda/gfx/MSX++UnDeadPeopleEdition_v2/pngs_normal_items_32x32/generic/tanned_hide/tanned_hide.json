@@ -1,0 +1,10 @@
+{
+  "id": "tanned_hide",
+  "fg": [
+    "tanned_hide"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

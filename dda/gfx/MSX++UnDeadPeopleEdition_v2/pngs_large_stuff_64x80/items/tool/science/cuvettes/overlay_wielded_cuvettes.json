@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_cuvettes",
+  "fg": [
+    "cuvettes"
+  ],
+  "bg": [],
+  "rotates": false
+}

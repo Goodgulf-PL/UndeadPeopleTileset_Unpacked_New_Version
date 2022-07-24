@@ -1,0 +1,10 @@
+{
+  "id": "mon_mosquito_small",
+  "fg": [
+    "mon_mosquito_small"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

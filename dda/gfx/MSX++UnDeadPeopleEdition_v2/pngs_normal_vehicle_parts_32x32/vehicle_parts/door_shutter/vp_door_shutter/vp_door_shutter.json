@@ -1,0 +1,25 @@
+{
+  "id": "vp_door_shutter",
+  "fg": [
+    "vp_door_shutter"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_door_shutter_broken"
+      ],
+      "bg": []
+    },
+    {
+      "id": "open",
+      "fg": [
+        "vp_door_shutter_open"
+      ],
+      "bg": ["bg_car"]
+    }
+  ]
+}

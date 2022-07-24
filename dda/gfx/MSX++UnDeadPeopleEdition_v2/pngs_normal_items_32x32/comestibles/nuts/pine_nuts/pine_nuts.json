@@ -1,0 +1,10 @@
+{
+  "id": "pine_nuts",
+  "fg": [
+    "pine_nuts"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

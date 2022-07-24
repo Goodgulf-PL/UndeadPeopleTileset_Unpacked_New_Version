@@ -1,0 +1,8 @@
+{
+  "id": "mon_titanis",
+  "fg": [
+    "mon_titanis"
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_misc_repairkit",
+  "fg": [
+    "misc_repairkit"
+  ],
+  "bg": [],
+  "rotates": false
+}

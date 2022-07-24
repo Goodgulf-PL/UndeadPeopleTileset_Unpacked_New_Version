@@ -1,0 +1,8 @@
+{
+  "id": "weather_rain_drop",
+  "fg": [
+    "weather_rain_drop"
+  ],
+  "bg": [],
+  "rotates": false
+}

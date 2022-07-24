@@ -1,0 +1,26 @@
+[{
+  "id": "anthill",
+  "fg": ["anthill"],
+  "bg": [],
+  "rotates": false
+},{
+  "id": "acid_anthill",
+  "fg": ["acid_anthill"],
+  "bg": [],
+  "rotates": false
+},{
+  "id": "ants_larvae",
+  "fg": ["ants_larvae"],
+  "bg": [],
+  "rotates": false
+},{
+  "id": "ants_food",
+  "fg": ["ants_food"],
+  "bg": [],
+  "rotates": false
+},{
+  "id": "ants_queen",
+  "fg": ["ants_queen"],
+  "bg": [],
+  "rotates": false
+}]

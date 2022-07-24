@@ -1,0 +1,10 @@
+{
+  "id": "tool_rdx_charge",
+  "fg": [
+    "tool_rdx_charge"
+  ],
+  "bg": [
+    "keg",
+    "keg_steel"
+  ]
+}

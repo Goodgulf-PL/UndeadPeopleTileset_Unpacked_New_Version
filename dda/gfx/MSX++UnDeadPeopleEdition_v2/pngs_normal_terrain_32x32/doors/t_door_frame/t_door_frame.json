@@ -1,0 +1,10 @@
+{
+  "id": "t_door_frame",
+  "fg": [
+    "t_door_frame"
+  ],
+  "bg": [
+    "bg_t_floor"
+  ],
+  "rotates": false
+}

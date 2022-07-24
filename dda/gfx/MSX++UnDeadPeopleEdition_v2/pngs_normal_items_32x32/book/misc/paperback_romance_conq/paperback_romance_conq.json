@@ -1,0 +1,10 @@
+{
+  "id": "paperback_romance_conq",
+  "fg": [
+    "story_book"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_v_motorcycle_kickstand_item",
+  "fg": [
+    "v_motorcycle_kickstand_item"
+  ],
+  "bg": [],
+  "rotates": false
+}

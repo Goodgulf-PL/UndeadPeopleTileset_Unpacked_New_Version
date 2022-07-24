@@ -1,0 +1,10 @@
+{
+  "id": "vp_stereo",
+  "fg": [
+    "vp_stereo"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

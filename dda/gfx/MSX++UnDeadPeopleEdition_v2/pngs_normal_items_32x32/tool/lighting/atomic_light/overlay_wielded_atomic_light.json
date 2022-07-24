@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_atomic_light",
+  "fg": [
+    "atomic_light"
+  ],
+  "bg": [],
+  "rotates": false
+}

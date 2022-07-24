@@ -1,0 +1,18 @@
+{
+  "id": "vp_fusion_gun",
+  "fg": [
+    "vp_fusion_gun"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_fusion_gun_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

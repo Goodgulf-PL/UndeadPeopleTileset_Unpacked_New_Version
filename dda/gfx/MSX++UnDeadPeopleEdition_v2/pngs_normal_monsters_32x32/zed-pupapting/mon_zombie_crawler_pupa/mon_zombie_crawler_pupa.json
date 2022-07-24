@@ -1,0 +1,20 @@
+{
+  "id": "mon_zombie_crawler_pupa",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_crawler_pupa_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_crawler_pupa_2"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_crawler_pupa_3"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}

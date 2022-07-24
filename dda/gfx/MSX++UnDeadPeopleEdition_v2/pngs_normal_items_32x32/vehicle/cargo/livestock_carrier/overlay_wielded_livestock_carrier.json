@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_livestock_carrier",
+  "fg": [
+    "livestock_carrier"
+  ],
+  "bg": [],
+  "rotates": true
+}

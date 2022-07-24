@@ -1,0 +1,10 @@
+{
+  "id": "screwdriver_set",
+  "fg": [
+    "screwdriver_set"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

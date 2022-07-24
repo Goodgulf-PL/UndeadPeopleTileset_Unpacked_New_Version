@@ -1,0 +1,12 @@
+[{
+  "id": "lake_shore_dock_small",
+  "fg": ["lake_shore_dock_small"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": "lake_dock_small",
+  "fg": ["lake_dock_small"],
+  "bg": [],
+  "rotates": false
+}]

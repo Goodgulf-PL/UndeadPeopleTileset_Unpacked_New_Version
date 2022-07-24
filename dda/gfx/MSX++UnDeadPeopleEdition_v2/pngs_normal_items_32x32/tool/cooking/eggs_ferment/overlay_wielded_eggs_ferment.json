@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_eggs_ferment",
+  "fg": [
+    "eggs_ferment"
+  ],
+  "bg": [],
+  "rotates": false
+}

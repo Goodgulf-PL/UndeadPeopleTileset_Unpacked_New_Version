@@ -1,0 +1,10 @@
+{
+  "id": "corndogs_cooked",
+  "fg": [
+    "corndogs_cooked"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

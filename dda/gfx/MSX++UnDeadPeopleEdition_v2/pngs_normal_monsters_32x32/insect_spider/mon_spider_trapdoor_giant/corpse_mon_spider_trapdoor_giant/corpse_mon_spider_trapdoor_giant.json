@@ -1,0 +1,10 @@
+{
+  "id": "corpse_mon_spider_trapdoor_giant",
+  "fg": [
+    "corpse_mon_spider_trapdoor_giant"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

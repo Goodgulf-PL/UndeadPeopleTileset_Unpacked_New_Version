@@ -1,0 +1,21 @@
+{
+  "id": "vp_reclining_seat_leather",
+  "fg": [
+    "vp_reclining_seat_leather"
+  ],
+  "bg": [
+    "bg_car"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_reclining_seat_leather_broken"
+      ],
+      "bg": [
+        "bg_car"
+      ]    }
+  ]
+}

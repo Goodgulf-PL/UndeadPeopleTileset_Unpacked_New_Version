@@ -1,0 +1,6 @@
+{
+  "id": ["generic_cemetery", "cemetery_religious_city", "cemetery", "cemetery_religious", "cemetery_small"],
+  "fg": ["generic_cemetery"],
+  "bg": [],
+  "rotates": false
+}

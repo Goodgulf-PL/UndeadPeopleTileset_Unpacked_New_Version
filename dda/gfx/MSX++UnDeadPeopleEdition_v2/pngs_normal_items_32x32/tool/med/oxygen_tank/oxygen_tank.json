@@ -1,0 +1,10 @@
+{
+  "id": "oxygen_tank",
+  "fg": [
+    "oxygen_tank"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

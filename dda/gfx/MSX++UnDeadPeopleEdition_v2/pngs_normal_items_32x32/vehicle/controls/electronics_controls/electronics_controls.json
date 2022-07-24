@@ -1,0 +1,10 @@
+{
+  "id": "electronics_controls",
+  "fg": [
+    "electronics_controls"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

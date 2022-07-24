@@ -1,0 +1,77 @@
+{
+  "id": "t_carpet_red",
+  "fg": [
+    "t_carpet_red"
+  ],
+  "bg": [
+    "bg_t_floor"
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_carpet_red_center"
+      ],
+      "bg": [
+        "bg_t_floor"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_carpet_red_corner_1",
+        "t_carpet_red_corner_2",
+        "t_carpet_red_corner_3",
+        "t_carpet_red_corner_4"
+      ],
+      "bg": [
+        "bg_t_floor"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_carpet_red_t_connection_1",
+        "t_carpet_red_t_connection_2",
+        "t_carpet_red_t_connection_3",
+        "t_carpet_red_t_connection_4"
+      ],
+      "bg": [
+        "bg_t_floor"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_carpet_red_edge_1",
+        "t_carpet_red_edge_2"
+      ],
+      "bg": [
+        "bg_t_floor"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_carpet_red_end_piece_1",
+        "t_carpet_red_end_piece_2",
+        "t_carpet_red_end_piece_3",
+        "t_carpet_red_end_piece_4"
+      ],
+      "bg": [
+        "bg_t_floor"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_carpet_red_unconnected"
+      ],
+      "bg": [
+        "bg_t_floor"
+      ]
+    }
+  ]
+}

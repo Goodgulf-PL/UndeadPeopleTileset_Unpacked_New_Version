@@ -1,0 +1,10 @@
+{
+  "id": "rm88_battle_rifle",
+  "fg": [
+    "rm88_battle_rifle"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

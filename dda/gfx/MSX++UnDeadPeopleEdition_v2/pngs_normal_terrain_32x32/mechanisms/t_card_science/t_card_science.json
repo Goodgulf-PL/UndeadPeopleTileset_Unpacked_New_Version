@@ -1,0 +1,10 @@
+{
+  "id": "t_card_science",
+  "fg": [
+    "t_card_science"
+  ],
+  "bg": [
+    "bg_metal_block"
+  ],
+  "rotates": false
+}

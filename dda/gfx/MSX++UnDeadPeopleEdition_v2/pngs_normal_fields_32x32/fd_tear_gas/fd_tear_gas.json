@@ -1,0 +1,47 @@
+{
+  "id": "fd_tear_gas",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "fd_tear_gas_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_tear_gas_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_tear_gas_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_tear_gas_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_tear_gas_5"
+    },    
+	{
+      "weight": 10,
+      "sprite": "fd_tear_gas_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_tear_gas_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_tear_gas_8"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_tear_gas_9"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_tear_gas_10"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

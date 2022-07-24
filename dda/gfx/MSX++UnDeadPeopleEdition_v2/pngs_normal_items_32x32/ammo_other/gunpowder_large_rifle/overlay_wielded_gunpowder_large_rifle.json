@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_gunpowder_large_rifle",
+  "fg": [
+    "gunpowder_large_rifle"
+  ],
+  "bg": [],
+  "rotates": false
+}

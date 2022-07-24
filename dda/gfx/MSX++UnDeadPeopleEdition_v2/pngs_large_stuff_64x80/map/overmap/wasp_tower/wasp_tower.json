@@ -1,0 +1,16 @@
+[{
+  "id": "wasp_tower",
+  "fg": [
+    "wasp_tower"
+  ],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": "wasp_tower_1",
+  "fg": [
+    "wasp_tower_1"
+  ],
+  "bg": [],
+  "rotates": false
+}]

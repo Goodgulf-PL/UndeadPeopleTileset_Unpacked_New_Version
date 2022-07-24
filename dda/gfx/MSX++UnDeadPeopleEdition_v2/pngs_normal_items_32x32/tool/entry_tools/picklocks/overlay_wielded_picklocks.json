@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_picklocks",
+  "fg": [
+    "picklocks"
+  ],
+  "bg": [],
+  "rotates": false
+}

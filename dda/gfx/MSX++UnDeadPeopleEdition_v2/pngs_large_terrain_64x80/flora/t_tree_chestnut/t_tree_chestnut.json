@@ -1,0 +1,10 @@
+{
+  "id": "t_tree_chestnut",
+  "fg": [
+    "t_tree_chestnut"
+  ],
+  "bg": [
+    "bg_big_dirt"
+  ],
+  "rotates": false
+}

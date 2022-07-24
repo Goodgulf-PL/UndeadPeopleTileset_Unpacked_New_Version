@@ -1,0 +1,10 @@
+{
+  "id": "howto_computer",
+  "fg": [
+    "howto_computer"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

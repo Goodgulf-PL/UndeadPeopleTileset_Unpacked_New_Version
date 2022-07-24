@@ -1,0 +1,10 @@
+{
+  "id": "welding_book",
+  "fg": [
+    "welding_book"
+  ],
+  "bg": [
+    "bg_book_adv"
+  ],
+  "rotates": false
+}

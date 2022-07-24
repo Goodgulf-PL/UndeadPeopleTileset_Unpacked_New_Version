@@ -1,0 +1,10 @@
+{
+  "id": "shavingkit",
+  "fg": [
+    "shavingkit"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

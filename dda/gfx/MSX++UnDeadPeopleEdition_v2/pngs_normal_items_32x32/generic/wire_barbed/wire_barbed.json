@@ -1,0 +1,10 @@
+{
+  "id": "wire_barbed",
+  "fg": [
+    "wire_barbed"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

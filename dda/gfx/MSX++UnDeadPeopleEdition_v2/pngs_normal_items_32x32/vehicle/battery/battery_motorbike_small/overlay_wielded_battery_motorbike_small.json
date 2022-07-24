@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_battery_motorbike_small",
+  "fg": [
+    "battery_motorbike_small"
+  ],
+  "bg": [],
+  "rotates": false
+}

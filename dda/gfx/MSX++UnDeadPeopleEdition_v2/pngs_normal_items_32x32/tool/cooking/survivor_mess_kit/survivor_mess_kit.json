@@ -1,0 +1,10 @@
+{
+  "id": "survivor_mess_kit",
+  "fg": [
+    "survivor_mess_kit"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

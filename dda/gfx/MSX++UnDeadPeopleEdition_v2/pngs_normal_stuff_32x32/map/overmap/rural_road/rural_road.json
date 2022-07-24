@@ -1,0 +1,21 @@
+[{
+  "id": ["rural_road", "rural_road_forest"],
+  "fg": ["rural_road_1", "rural_road_2", "rural_road_3", "rural_road_4"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": ["rural_road_turn1", "rural_road_turn1_forest"],
+  "fg": ["rural_road_turn_1", "rural_road_turn_4", "rural_road_turn_3", "rural_road_turn_2"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": ["rural_road_turn", "rural_road_turn_forest"],
+  "fg": ["rural_road_turn_4", "rural_road_turn_1", "rural_road_turn_2", "rural_road_turn_3"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": ["rural_road_3way", "rural_road_3way_forest"],
+  "fg": ["rural_road_t_connection_1", "rural_road_t_connection_2", "rural_road_t_connection_3", "rural_road_t_connection_4"],
+  "bg": [],
+  "rotates": true
+}]

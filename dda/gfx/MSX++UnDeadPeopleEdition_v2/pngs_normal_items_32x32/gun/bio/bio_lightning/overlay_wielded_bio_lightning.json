@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bio_lightning",
+  "fg": [
+    "bio_lightning"
+  ],
+  "bg": [],
+  "rotates": false
+}

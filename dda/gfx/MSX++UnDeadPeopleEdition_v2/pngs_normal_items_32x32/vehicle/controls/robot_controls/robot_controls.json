@@ -1,0 +1,10 @@
+{
+  "id": "robot_controls",
+  "fg": [
+    "robot_controls"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

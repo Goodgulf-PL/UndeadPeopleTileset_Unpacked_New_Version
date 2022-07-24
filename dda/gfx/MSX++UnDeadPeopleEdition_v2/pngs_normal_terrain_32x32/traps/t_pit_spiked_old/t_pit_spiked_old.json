@@ -1,0 +1,10 @@
+{
+  "id": "t_pit_spiked_old",
+  "fg": [
+    "t_pit_spiked_old"
+  ],
+  "bg": [
+    "bg_dirt"
+  ],
+  "rotates": false
+}

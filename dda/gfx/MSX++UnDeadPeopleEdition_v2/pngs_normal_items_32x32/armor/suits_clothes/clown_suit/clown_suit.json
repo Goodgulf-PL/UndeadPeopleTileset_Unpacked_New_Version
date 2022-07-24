@@ -1,0 +1,10 @@
+{
+  "id": "clown_suit",
+  "fg": [
+    "clown_suit"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

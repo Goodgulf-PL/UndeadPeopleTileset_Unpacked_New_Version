@@ -1,0 +1,10 @@
+{
+  "id": "butt_hook",
+  "fg": [
+    "butt_hook"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

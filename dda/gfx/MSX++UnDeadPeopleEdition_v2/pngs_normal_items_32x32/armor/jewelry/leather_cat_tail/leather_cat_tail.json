@@ -1,0 +1,10 @@
+{
+  "id": "leather_cat_tail",
+  "fg": [
+    "leather_cat_tail"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

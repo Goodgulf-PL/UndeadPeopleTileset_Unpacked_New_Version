@@ -1,0 +1,8 @@
+{
+  "id": "schematics_antimateriel",
+  "fg": [
+    "schematics_temp"
+  ],
+  "bg": [],
+  "rotates": true
+}

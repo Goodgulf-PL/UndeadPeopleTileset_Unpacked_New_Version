@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_software_train_data",
+  "fg": [
+    "software_train_data"
+  ],
+  "bg": [],
+  "rotates": false
+}

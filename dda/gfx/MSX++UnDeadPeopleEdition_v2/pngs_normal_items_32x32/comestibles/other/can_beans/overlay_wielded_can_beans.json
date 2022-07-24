@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_can_beans",
+  "fg": [
+    "can_beans"
+  ],
+  "bg": [],
+  "rotates": false
+}

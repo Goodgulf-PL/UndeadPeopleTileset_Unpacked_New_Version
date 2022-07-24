@@ -1,0 +1,10 @@
+{
+  "id": "xl_helmet_plate",
+  "fg": [
+    "helmet_plate"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

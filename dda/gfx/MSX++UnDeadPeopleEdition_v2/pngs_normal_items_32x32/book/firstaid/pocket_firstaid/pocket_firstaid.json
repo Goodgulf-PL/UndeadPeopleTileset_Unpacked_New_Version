@@ -1,0 +1,10 @@
+{
+  "id": "pocket_firstaid",
+  "fg": [
+    "pocket_firstaid"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

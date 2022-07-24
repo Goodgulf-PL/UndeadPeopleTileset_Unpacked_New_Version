@@ -1,0 +1,10 @@
+{
+  "id": "40mm_smoke",
+  "fg": [
+    "40mm_smoke"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

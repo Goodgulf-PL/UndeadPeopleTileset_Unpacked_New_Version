@@ -1,0 +1,10 @@
+{
+  "id": "mess_tin",
+  "fg": [
+    "mess_tin"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

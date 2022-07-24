@@ -1,0 +1,10 @@
+{
+  "id": "whistle",
+  "fg": [
+    "whistle"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

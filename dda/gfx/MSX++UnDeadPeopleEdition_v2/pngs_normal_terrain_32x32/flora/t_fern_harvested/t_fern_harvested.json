@@ -1,0 +1,10 @@
+{
+  "id": "t_fern_harvested",
+  "fg": [
+    "t_fern_harvested"
+  ],
+  "bg": [
+    "bg_dirt"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_landmine",
+  "fg": [
+    "landmine"
+  ],
+  "bg": [],
+  "rotates": false
+}

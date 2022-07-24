@@ -1,0 +1,10 @@
+{
+  "id": "sheet_metal",
+  "fg": [
+    "sheet_metal"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

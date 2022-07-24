@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_meat_vac",
+  "fg": [
+    "meat_vac"
+  ],
+  "bg": [],
+  "rotates": false
+}

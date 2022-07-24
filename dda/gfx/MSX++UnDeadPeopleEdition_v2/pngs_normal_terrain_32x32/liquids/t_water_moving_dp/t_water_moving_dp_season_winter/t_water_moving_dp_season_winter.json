@@ -1,0 +1,43 @@
+{
+  "id": "t_water_moving_dp_season_winter",
+  "fg": [
+    {
+      "weight": 100,
+      "sprite": "t_water_moving_dp_center_1"
+    },
+    {
+      "weight": 100,
+      "sprite": "t_water_moving_dp_center_2"
+    },
+    {
+      "weight": 100,
+      "sprite": "t_water_moving_dp_center_3"
+    },   
+	{
+      "weight": 100,
+      "sprite": "t_water_moving_dp_center_4"
+    },   
+	{
+      "weight": 100,
+      "sprite": "t_water_moving_dp_center_5"
+    },
+    {
+      "weight": 100,
+      "sprite": "t_water_moving_dp_center_6"
+    },
+    {
+      "weight": 100,
+      "sprite": "t_water_moving_dp_center_7"
+    },   
+	{
+      "weight": 100,
+      "sprite": "t_water_moving_dp_center_8"
+    },   
+	{
+      "weight": 100,
+      "sprite": "t_water_moving_dp_center_9"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

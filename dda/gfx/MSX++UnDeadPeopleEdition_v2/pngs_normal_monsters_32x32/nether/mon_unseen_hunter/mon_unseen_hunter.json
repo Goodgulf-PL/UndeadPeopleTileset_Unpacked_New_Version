@@ -1,0 +1,31 @@
+{
+  "id": "mon_unseen_hunter",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_unseen_hunter_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_unseen_hunter_2"
+    }, 
+	{
+      "weight": 10,
+      "sprite": "mon_unseen_hunter_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_unseen_hunter_4"
+    }, 
+	{
+      "weight": 10,
+      "sprite": "mon_unseen_hunter_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_unseen_hunter_2"
+    }
+  ],
+  "bg": ["bg_shadow_normal"],
+  "animated": true
+}

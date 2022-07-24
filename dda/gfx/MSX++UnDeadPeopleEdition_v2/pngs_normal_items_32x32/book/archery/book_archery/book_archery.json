@@ -1,0 +1,10 @@
+{
+  "id": "book_archery",
+  "fg": [
+    "book_archery"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

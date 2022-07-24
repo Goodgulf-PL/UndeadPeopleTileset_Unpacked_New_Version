@@ -1,0 +1,10 @@
+{
+  "id": "t_chainfence_posts_season_winter",
+  "fg": [
+    "t_chainfence_posts"
+  ],
+  "bg": [
+    "bg_dirt_season_winter"
+  ],
+  "rotates": false
+}

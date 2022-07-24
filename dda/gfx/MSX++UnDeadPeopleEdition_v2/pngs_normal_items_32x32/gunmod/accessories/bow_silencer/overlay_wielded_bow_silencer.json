@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bow_silencer",
+  "fg": [
+    "bow_silencer"
+  ],
+  "bg": [],
+  "rotates": false
+}

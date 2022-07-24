@@ -1,0 +1,9 @@
+{
+  "id": "npc_female",
+  "fg": [
+    "npc_female"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ]
+}

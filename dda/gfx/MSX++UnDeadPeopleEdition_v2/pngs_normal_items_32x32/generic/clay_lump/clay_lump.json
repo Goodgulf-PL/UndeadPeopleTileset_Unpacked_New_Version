@@ -1,0 +1,10 @@
+{
+  "id": "clay_lump",
+  "fg": [
+    "clay_lump"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

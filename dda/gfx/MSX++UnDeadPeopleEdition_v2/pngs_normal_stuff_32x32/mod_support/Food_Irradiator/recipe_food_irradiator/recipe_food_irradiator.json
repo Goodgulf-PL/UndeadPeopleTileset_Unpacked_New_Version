@@ -1,0 +1,10 @@
+{
+  "id": "recipe_food_irradiator",
+  "fg": [
+    "recipe_food_irradiator"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

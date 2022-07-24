@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_gunpowder",
+  "fg": [
+    "gunpowder"
+  ],
+  "bg": [],
+  "rotates": false
+}

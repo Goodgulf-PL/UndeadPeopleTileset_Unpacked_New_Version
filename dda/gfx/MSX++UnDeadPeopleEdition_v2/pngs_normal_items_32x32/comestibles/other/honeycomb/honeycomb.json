@@ -1,0 +1,10 @@
+{
+  "id": "honeycomb",
+  "fg": [
+    "honeycomb"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

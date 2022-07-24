@@ -1,0 +1,14 @@
+{
+  "id": [
+    "farm_1",
+    "farm_4",
+    "farm_5",
+    "farm_6",
+    "farm_7",
+    "farm_8",
+    "farm_9"
+  ],
+  "fg": ["generic_pasture"],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_mushroom_poison",
+  "fg": [
+    "mushroom_poison"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_leg",
+  "fg": [
+    "leg"
+  ],
+  "bg": [],
+  "rotates": false
+}

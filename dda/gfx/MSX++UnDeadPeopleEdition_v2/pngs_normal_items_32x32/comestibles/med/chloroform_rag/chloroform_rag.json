@@ -1,0 +1,10 @@
+{
+  "id": "chloroform_rag",
+  "fg": [
+    "chloroform_rag"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

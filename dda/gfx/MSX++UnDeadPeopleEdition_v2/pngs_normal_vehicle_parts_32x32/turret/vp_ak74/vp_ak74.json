@@ -1,0 +1,18 @@
+{
+  "id": "vp_ak74",
+  "fg": [
+    "vp_ak74"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_ak74_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

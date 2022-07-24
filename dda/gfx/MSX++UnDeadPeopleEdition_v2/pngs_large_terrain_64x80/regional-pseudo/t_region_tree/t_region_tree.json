@@ -1,0 +1,10 @@
+{
+  "id": "t_region_tree",
+  "fg": [
+    "t_region_tree"
+  ],
+  "bg": [
+    "bg_big_dirt"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_grenade_hack",
+  "fg": [
+    "mon_grenade_hack"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

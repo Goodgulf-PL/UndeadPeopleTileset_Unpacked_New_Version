@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_t_console",
+  "fg": [
+    "t_console"
+  ],
+  "bg": [],
+  "rotates": false
+}

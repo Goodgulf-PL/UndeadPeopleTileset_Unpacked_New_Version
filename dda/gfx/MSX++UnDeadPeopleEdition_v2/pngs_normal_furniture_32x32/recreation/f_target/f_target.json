@@ -1,0 +1,17 @@
+{
+  "id": "f_target",
+  "fg": [
+    {
+      "weight": 11,
+      "sprite": "f_target_1"
+    },
+    {
+      "weight": 11,
+      "sprite": "f_target_2"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

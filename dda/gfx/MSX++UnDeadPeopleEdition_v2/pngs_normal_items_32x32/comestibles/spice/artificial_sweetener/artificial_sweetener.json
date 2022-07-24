@@ -1,0 +1,10 @@
+{
+  "id": "artificial_sweetener",
+  "fg": [
+    "sugar"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

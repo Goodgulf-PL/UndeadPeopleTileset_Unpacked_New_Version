@@ -1,0 +1,10 @@
+{
+  "id": "metal_tank_small",
+  "fg": [
+    "metal_tank_small"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

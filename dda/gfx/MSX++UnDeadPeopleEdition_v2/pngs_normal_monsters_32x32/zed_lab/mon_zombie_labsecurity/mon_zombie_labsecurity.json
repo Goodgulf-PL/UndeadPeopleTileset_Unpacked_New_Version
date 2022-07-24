@@ -1,0 +1,37 @@
+{
+  "id": "mon_zombie_labsecurity",
+  "fg": [
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_labsecurity_1"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_labsecurity_2"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_labsecurity_3"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_labsecurity_4"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_labsecurity_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_labsecurity_6"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_labsecurity_7"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "40mm_flare",
+  "fg": [
+    "40mm_flare"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

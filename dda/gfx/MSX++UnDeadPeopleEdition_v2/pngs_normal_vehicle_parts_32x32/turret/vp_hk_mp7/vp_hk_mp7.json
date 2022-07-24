@@ -1,0 +1,18 @@
+{
+  "id": "vp_hk_mp7",
+  "fg": [
+    "vp_hk_mp7"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_hk_mp7_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

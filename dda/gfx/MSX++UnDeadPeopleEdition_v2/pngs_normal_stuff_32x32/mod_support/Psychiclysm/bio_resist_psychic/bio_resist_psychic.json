@@ -1,0 +1,10 @@
+{
+  "id": "bio_resist_psychic",
+  "fg": [
+    "cbm_temp"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "sharp_toothbrush",
+  "fg": [
+    "sharp_toothbrush"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

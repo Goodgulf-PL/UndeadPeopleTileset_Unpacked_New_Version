@@ -1,0 +1,14 @@
+{
+          "id": ["road", "generic_road", "generic_mall_road", "generic_necropolis_road", "robofachq_surface_parking"],
+          "fg": "road",
+		  "bg": "",
+          "multitile": true,
+          "additional_tiles": [
+            { "id": "center", "fg": "road_center", "bg": "" },
+            { "id": "corner", "fg": [ "road_corner_1", "road_corner_2", "road_corner_3", "road_corner_4" ], "bg": "" },
+            { "id": "t_connection", "fg": [ "road_t_connection_1", "road_t_connection_2", "road_t_connection_3", "road_t_connection_4" ], "bg": "" },
+            { "id": "edge", "fg": [ "road_edge_1", "road_edge_2" ], "bg": "" },
+            { "id": "end_piece", "fg": [ "road_end_piece_1", "road_end_piece_2", "road_end_piece_3", "road_end_piece_4" ], "bg": "" },
+            { "id": "unconnected", "fg": "road", "bg": "" }
+          ]
+}

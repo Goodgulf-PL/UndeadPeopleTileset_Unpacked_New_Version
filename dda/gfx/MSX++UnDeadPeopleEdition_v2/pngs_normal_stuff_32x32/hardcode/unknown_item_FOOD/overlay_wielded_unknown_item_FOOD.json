@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_unknown_item_FOOD",
+  "fg": [],
+  "bg": [
+    "unknown_item_FOOD"
+  ],
+  "rotates": false
+}

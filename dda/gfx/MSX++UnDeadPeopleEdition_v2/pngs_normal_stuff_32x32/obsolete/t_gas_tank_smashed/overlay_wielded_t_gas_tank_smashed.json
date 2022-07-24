@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_t_gas_tank_smashed",
+  "fg": [
+    "t_gas_tank_smashed"
+  ],
+  "bg": [],
+  "rotates": false
+}

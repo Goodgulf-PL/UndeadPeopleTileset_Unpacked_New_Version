@@ -1,0 +1,10 @@
+{
+  "id": "bowling_ball",
+  "fg": [
+    "bowling_ball"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

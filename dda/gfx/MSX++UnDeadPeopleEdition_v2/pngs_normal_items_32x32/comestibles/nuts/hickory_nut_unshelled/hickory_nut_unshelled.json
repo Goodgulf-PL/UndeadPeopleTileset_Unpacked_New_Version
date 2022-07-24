@@ -1,0 +1,10 @@
+{
+  "id": "hickory_nut_unshelled",
+  "fg": [
+    "hickory_nut_unshelled"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

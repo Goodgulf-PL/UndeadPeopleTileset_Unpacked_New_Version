@@ -1,0 +1,10 @@
+{
+  "id": "t_screen_door_c",
+  "fg": [
+    "t_screen_door_c"
+  ],
+  "bg": [
+    "bg_mesh_wall_bg"
+  ],
+  "rotates": false
+}

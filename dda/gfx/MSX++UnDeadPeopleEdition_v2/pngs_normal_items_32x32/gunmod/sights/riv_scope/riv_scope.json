@@ -1,0 +1,10 @@
+{
+  "id": "riv_scope",
+  "fg": [
+    "riv_scope"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "lemat_revolver",
+  "fg": [
+    "lemat_revolver"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

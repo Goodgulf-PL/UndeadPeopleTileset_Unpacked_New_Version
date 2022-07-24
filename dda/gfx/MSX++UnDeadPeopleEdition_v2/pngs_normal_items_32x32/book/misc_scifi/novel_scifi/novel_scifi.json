@@ -1,0 +1,10 @@
+{
+  "id": "novel_scifi",
+  "fg": [
+    "novel_scifi"
+  ],
+  "bg": [
+    "bg_book_manual"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "wheat",
+  "fg": [
+    "wheat"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

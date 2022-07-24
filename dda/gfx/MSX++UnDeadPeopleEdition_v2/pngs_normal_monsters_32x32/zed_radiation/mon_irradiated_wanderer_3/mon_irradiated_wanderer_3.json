@@ -1,0 +1,24 @@
+{
+  "id": "mon_irradiated_wanderer_3",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "mon_irradiated_wanderer_3_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_irradiated_wanderer_3_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_irradiated_wanderer_3_3"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_irradiated_wanderer_3_4"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ]
+}

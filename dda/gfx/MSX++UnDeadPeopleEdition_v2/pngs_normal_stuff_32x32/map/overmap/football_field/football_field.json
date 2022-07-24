@@ -1,0 +1,36 @@
+[{
+  "id": "football_field_a1",
+  "fg": ["football_field_corner_1","football_field_corner_4","football_field_corner_3","football_field_corner_2"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": "football_field_a5",
+  "fg": ["football_field_corner_4","football_field_corner_3","football_field_corner_2","football_field_corner_1"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": "football_field_c1",
+  "fg": ["football_field_corner_2","football_field_corner_1","football_field_corner_4","football_field_corner_3"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": "football_field_c5",
+  "fg": ["football_field_corner_3","football_field_corner_2","football_field_corner_1","football_field_corner_4"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": ["football_field_a2", "football_field_a3", "football_field_a4","football_field_c2", "football_field_c3", "football_field_c4"],
+  "fg": ["football_field_edge_1","football_field_edge_2","football_field_edge_1","football_field_edge_2"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": ["football_field_b1", "football_field_b5"],
+  "fg": ["football_field_edge_2","football_field_edge_1","football_field_edge_2","football_field_edge_1"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": ["football_field_b2", "football_field_b3", "football_field_b4"],
+  "fg": ["football_field_2","football_field_1","football_field_2","football_field_1"],
+  "bg": [],
+  "rotates": true
+}]

@@ -1,0 +1,10 @@
+{
+  "id": "plasma_engine",
+  "fg": [
+    "plasma_engine"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

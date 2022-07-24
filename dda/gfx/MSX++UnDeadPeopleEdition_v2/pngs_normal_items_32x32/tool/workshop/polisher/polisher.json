@@ -1,0 +1,10 @@
+{
+  "id": "polisher",
+  "fg": [
+    "polisher"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

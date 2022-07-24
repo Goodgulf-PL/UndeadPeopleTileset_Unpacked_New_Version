@@ -1,0 +1,10 @@
+{
+  "id": "t_centrifuge",
+  "fg": [
+    "t_centrifuge"
+  ],
+  "bg": [
+    "bg_metal_block"
+  ],
+  "rotates": false
+}

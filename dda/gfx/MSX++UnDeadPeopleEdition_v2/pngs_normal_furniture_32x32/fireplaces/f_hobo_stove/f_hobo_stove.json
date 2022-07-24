@@ -1,0 +1,10 @@
+{
+  "id": "f_hobo_stove",
+  "fg": [
+    "f_hobo_stove"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_large_cockroach",
+  "fg": [
+    "mon_large_cockroach"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "radio_mod",
+  "fg": [
+    "radio_mod"
+  ],
+  "bg": [
+    "transponder",
+    "battery_atomic"
+  ]
+}

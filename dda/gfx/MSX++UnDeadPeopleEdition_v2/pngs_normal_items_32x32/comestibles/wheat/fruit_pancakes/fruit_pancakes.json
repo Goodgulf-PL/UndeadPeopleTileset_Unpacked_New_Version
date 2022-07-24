@@ -1,0 +1,10 @@
+{
+  "id": "fruit_pancakes",
+  "fg": [
+    "fruit_pancakes"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

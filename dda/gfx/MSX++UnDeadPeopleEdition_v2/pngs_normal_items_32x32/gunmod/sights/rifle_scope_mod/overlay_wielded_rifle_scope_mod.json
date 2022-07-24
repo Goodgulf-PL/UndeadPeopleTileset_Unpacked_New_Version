@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_rifle_scope_mod",
+  "fg": [
+    "rifle_scope_mod"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_avgas",
+  "fg": [
+    "avgas"
+  ],
+  "bg": [],
+  "rotates": false
+}

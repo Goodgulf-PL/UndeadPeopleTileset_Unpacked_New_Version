@@ -1,0 +1,10 @@
+{
+  "id": "thermal_suit_ups",
+  "fg": [
+    "thermal_suit_ups"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

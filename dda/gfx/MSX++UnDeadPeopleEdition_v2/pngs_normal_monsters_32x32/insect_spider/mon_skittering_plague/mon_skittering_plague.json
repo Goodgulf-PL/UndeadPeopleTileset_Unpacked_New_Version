@@ -1,0 +1,10 @@
+{
+  "id": "mon_skittering_plague",
+  "fg": [
+    "mon_skittering_plague"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

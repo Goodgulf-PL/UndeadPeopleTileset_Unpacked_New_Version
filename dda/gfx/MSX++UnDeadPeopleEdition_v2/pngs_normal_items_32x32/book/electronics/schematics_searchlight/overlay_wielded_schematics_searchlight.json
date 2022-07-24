@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_schematics_searchlight",
+  "fg": [
+    "overlay_wielded_schematics_temp"
+  ],
+  "bg": [],
+  "rotates": true
+}

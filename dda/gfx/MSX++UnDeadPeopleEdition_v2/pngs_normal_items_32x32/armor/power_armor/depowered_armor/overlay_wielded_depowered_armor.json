@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_depowered_armor",
+  "fg": [
+    "depowered_armor"
+  ],
+  "bg": [],
+  "rotates": false
+}

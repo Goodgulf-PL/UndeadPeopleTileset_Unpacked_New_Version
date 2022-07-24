@@ -1,0 +1,10 @@
+{
+  "id": "choco_coffee_beans",
+  "fg": [
+    "choco_coffee_beans"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

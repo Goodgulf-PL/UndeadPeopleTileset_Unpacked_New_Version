@@ -1,0 +1,10 @@
+{
+  "id": "mon_molebot",
+  "fg": [
+    "mon_molebot"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

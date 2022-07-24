@@ -1,0 +1,8 @@
+{
+  "id": "corpse_mon_zombie_2",
+  "fg": [
+    "corpse_mon_zombie"
+  ],
+  "bg": [],
+  "rotates": false
+}

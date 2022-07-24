@@ -1,0 +1,10 @@
+{
+  "id": "craftrig",
+  "fg": [
+    "craftrig"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

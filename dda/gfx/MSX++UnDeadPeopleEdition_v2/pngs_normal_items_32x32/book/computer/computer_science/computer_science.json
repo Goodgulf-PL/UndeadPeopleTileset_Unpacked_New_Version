@@ -1,0 +1,10 @@
+{
+  "id": "computer_science",
+  "fg": [
+    "computer_science"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

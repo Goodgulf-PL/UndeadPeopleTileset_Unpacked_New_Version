@@ -1,0 +1,10 @@
+{
+  "id": "t_shrub_hydrangea",
+  "fg": [
+    "t_shrub_hydrangea"
+  ],
+  "bg": [
+    "bg_dirt"
+  ],
+  "rotates": false
+}

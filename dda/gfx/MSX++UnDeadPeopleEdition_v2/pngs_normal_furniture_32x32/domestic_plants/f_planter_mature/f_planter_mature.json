@@ -1,0 +1,10 @@
+{
+  "id": "f_planter_mature",
+  "fg": [
+    "f_planter_mature"
+  ],
+  "bg": [
+    "f_planter"
+  ],
+  "rotates": false
+}

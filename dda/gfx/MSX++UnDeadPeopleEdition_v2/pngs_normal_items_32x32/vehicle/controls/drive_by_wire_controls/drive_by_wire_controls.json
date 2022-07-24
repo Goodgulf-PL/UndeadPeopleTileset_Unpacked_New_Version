@@ -1,0 +1,10 @@
+{
+  "id": "drive_by_wire_controls",
+  "fg": [
+    "drive_by_wire_controls"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

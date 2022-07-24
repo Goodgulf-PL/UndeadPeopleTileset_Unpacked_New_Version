@@ -1,0 +1,10 @@
+{
+  "id": "aero_engine_light",
+  "fg": [
+    "aero_engine_light"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

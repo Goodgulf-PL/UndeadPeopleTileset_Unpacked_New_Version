@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_copbot_chassis",
+  "fg": [
+    "copbot_chassis"
+  ],
+  "bg": [],
+  "rotates": false
+}

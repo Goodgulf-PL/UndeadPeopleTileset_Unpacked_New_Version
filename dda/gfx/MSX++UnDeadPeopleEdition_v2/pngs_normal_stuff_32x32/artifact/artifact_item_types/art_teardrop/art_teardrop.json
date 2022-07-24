@@ -1,0 +1,39 @@
+{
+  "id": "art_teardrop",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_teardrop_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_teardrop_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_teardrop_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "art_teardrop_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_teardrop_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_teardrop_6"
+	},
+    {
+      "weight": 10,
+      "sprite": "art_teardrop_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_teardrop_8"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

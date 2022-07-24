@@ -1,0 +1,10 @@
+{
+  "id": "wicker_backpack",
+  "fg": [
+    "wicker_backpack"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

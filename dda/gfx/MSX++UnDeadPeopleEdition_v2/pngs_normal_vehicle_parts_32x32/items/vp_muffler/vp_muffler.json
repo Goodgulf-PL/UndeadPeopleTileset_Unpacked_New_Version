@@ -1,0 +1,10 @@
+{
+  "id": "vp_muffler",
+  "fg": [
+    "vp_muffler"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

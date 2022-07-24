@@ -1,0 +1,45 @@
+{
+  "id": "mon_zombie_mancroc",
+  "fg": [
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_mancroc_1"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_mancroc_2"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_mancroc_3"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_mancroc_4"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_mancroc_5"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_mancroc_6"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_mancroc_7"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_mancroc_8"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_mancroc_9"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

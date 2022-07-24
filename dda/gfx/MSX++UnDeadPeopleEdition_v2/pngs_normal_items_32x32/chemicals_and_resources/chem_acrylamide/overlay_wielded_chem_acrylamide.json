@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_chem_acrylamide",
+  "fg": [
+    "chem_acrylamide"
+  ],
+  "bg": [],
+  "rotates": false
+}

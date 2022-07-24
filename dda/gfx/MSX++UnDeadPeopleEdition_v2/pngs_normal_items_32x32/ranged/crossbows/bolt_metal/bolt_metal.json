@@ -1,0 +1,10 @@
+{
+  "id": "bolt_metal",
+  "fg": [
+    "bolt_metal"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

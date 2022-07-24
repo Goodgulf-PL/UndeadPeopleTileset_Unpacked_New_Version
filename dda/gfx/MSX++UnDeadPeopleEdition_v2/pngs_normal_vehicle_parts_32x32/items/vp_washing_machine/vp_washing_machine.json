@@ -1,0 +1,10 @@
+{
+  "id": "vp_washing_machine",
+  "fg": [
+    "vp_washing_machine"
+  ],
+  "bg": [
+    "bg_car"
+  ],
+  "rotates": false
+}

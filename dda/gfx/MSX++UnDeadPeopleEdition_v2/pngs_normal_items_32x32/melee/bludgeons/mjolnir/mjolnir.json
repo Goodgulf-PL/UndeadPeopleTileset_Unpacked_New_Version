@@ -1,0 +1,10 @@
+{
+  "id": "mjolnir",
+  "fg": [
+    "mjolnir"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

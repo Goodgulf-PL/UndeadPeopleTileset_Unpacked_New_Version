@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_wallet_leather",
+  "fg": [
+    "wallet_leather"
+  ],
+  "bg": [],
+  "rotates": false
+}

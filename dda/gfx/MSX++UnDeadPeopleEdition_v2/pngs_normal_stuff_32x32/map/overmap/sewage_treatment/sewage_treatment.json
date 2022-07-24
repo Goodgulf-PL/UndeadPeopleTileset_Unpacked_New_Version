@@ -1,0 +1,21 @@
+[{
+  "id": "sewage_treatment_1_0_0_west",
+  "fg": ["sewage_treatment_1_0_0_west"],
+  "bg": [],
+  "rotates": false
+},{
+  "id": "sewage_treatment_1_1_0_west",
+  "fg": ["sewage_treatment_1_1_0_west"],
+  "bg": [],
+  "rotates": false
+},{
+  "id": "sewage_treatment_0_1_0_west",
+  "fg": ["sewage_treatment_0_1_0_west"],
+  "bg": [],
+  "rotates": false
+},{
+  "id": "sewage_treatment_0_0_0_west",
+  "fg": ["sewage_treatment_0_0_0_west"],
+  "bg": [],
+  "rotates": false
+}]

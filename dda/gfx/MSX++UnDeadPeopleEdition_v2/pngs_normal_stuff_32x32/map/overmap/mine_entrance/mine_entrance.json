@@ -1,0 +1,11 @@
+[{
+  "id": ["mine_entrance"],
+  "fg": ["mine_entrance"],
+  "bg": [],
+  "rotates": false
+},{
+  "id": ["mine_entrance_loading_zone"],
+  "fg": ["mine_entrance_loading_zone"],
+  "bg": [],
+  "rotates": false
+}]

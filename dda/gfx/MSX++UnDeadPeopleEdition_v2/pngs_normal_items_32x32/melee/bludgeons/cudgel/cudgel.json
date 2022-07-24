@@ -1,0 +1,10 @@
+{
+  "id": "cudgel",
+  "fg": [
+    "cudgel"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

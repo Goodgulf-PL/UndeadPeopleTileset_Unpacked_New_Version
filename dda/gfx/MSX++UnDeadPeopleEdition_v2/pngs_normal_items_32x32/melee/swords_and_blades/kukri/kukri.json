@@ -1,0 +1,10 @@
+{
+  "id": "kukri",
+  "fg": [
+    "kukri"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

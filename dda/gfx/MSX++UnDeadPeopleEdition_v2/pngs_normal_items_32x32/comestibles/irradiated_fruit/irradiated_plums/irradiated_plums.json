@@ -1,0 +1,8 @@
+{
+  "id": "irradiated_plums",
+  "fg": [
+    "plums"
+  ],
+  "bg": ["bg_irradiated"],
+  "rotates": false
+}

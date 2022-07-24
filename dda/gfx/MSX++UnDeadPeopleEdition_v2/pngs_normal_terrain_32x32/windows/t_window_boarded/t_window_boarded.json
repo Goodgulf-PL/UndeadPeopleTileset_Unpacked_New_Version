@@ -1,0 +1,10 @@
+{
+  "id": "t_window_boarded",
+  "fg": [
+    "t_window_boarded"
+  ],
+  "bg": [
+    "bg_t_floor"
+  ],
+  "rotates": false
+}

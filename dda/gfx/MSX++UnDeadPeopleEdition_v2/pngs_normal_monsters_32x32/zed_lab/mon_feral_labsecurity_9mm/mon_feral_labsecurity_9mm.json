@@ -1,0 +1,9 @@
+{
+  "id": "mon_feral_labsecurity_9mm",
+  "fg": ["mon_feral_labsecurity_9mm"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

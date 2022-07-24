@@ -1,0 +1,10 @@
+{
+  "id": "brazier",
+  "fg": [
+    "brazier"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

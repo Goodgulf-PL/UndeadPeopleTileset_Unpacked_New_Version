@@ -1,0 +1,10 @@
+{
+  "id": "aluminumbattletorch_done",
+  "fg": [
+    "aluminumbattletorch_done"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

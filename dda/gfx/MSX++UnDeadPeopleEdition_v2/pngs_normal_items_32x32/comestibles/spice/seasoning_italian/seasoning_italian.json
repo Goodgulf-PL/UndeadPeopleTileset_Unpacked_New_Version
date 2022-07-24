@@ -1,0 +1,10 @@
+{
+  "id": "seasoning_italian",
+  "fg": [
+    "seasoning_italian"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

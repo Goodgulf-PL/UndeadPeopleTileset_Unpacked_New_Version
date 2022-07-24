@@ -1,0 +1,10 @@
+{
+  "id": "flotation_vest",
+  "fg": [
+    "flotation_vest"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

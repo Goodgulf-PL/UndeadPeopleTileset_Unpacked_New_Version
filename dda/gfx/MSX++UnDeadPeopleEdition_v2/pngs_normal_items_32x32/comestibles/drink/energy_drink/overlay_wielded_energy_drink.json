@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_energy_drink",
+  "fg": [
+    "energy_drink"
+  ],
+  "bg": [],
+  "rotates": false
+}

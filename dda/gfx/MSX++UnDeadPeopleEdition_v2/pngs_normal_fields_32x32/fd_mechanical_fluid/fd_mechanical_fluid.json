@@ -1,0 +1,63 @@
+{
+  "id": "fd_mechanical_fluid",
+  "fg": [
+    "fd_mechanical_fluid"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "fd_mechanical_fluid_center"
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "fd_mechanical_fluid_corner_1",
+        "fd_mechanical_fluid_corner_2",
+        "fd_mechanical_fluid_corner_3",
+        "fd_mechanical_fluid_corner_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "fd_mechanical_fluid_t_connection_1",
+        "fd_mechanical_fluid_t_connection_2",
+        "fd_mechanical_fluid_t_connection_3",
+        "fd_mechanical_fluid_t_connection_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "fd_mechanical_fluid_edge_1",
+        "fd_mechanical_fluid_edge_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "fd_mechanical_fluid_end_piece_1",
+        "fd_mechanical_fluid_end_piece_2",
+        "fd_mechanical_fluid_end_piece_3",
+        "fd_mechanical_fluid_end_piece_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "fd_mechanical_fluid_unconnected"
+      ],
+      "bg": []
+    }
+  ]
+}

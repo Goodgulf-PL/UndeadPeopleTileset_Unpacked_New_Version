@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_beverage_bag",
+  "fg": [
+    "beverage_bag"
+  ],
+  "bg": [],
+  "rotates": false
+}

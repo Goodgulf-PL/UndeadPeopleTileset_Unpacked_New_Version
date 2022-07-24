@@ -1,0 +1,10 @@
+{
+  "id": "software_train_data",
+  "fg": [
+    "software_train_data"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

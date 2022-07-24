@@ -1,0 +1,10 @@
+{
+  "id": "mutant_bug_hydrogen_sacs",
+  "fg": [
+    "mutant_bug_hydrogen_sacs"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

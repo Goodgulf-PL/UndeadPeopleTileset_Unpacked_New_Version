@@ -1,0 +1,9 @@
+{
+  "id": "greatcoat",
+  "fg": [
+    "greatcoat"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

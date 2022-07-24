@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_barrel_rifled",
+  "fg": [
+    "barrel_rifled"
+  ],
+  "bg": [],
+  "rotates": false
+}

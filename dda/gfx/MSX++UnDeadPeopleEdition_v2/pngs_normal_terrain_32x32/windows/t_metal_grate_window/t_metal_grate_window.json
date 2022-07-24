@@ -1,0 +1,9 @@
+{
+  "id": "t_metal_grate_window",
+  "fg": [
+    "t_metal_grate_window"
+  ],
+  "bg": [
+    "bg_t_floor"
+  ]
+}

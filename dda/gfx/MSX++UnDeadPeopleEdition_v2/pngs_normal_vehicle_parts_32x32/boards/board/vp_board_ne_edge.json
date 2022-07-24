@@ -1,0 +1,14 @@
+{
+    "id": "vp_board_ne_edge",
+    "fg": "vp_board_ne_edge",
+    "bg": [],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+        {
+            "id": "broken",
+            "fg": "vp_board_ne_edge_broken",
+            "bg": []
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "chisel",
+  "fg": [
+    "chisel"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "t_window_boarded_noglass",
+  "fg": [
+    "t_window_boarded_noglass"
+  ],
+  "bg": [
+    "bg_t_floor"
+  ],
+  "rotates": false
+}

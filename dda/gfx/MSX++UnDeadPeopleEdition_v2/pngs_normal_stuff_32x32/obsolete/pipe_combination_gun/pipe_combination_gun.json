@@ -1,0 +1,10 @@
+{
+  "id": "pipe_combination_gun",
+  "fg": [
+    "pipe_combination_gun"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

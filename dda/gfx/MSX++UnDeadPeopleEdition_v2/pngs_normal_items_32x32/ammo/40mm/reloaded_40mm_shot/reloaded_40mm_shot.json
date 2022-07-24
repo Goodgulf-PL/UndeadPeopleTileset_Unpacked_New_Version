@@ -1,0 +1,10 @@
+{
+  "id": "reloaded_40mm_shot",
+  "fg": [
+    "reloaded_40mm_shot"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cow_bell",
+  "fg": [
+    "cow_bell"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

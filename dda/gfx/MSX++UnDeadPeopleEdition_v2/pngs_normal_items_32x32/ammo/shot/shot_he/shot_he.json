@@ -1,0 +1,10 @@
+{
+  "id": "shot_he",
+  "fg": [
+    "shot_he"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

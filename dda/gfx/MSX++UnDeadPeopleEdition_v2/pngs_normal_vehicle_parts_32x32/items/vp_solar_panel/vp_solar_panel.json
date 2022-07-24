@@ -1,0 +1,18 @@
+{
+  "id": "vp_solar_panel",
+  "fg": [
+    "vp_solar_panel"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_solar_panel_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

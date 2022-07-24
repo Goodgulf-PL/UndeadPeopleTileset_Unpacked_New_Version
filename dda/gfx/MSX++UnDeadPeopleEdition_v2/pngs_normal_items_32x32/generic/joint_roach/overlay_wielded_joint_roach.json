@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_joint_roach",
+  "fg": [
+    "joint_roach"
+  ],
+  "bg": [],
+  "rotates": false
+}

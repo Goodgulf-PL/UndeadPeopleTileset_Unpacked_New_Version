@@ -1,0 +1,10 @@
+{
+  "id": "metal_funnel",
+  "fg": [
+    "metal_funnel"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

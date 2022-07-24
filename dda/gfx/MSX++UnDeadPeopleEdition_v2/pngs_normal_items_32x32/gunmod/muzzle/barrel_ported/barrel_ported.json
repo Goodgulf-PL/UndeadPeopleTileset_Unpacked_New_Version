@@ -1,0 +1,10 @@
+{
+  "id": "barrel_ported",
+  "fg": [
+    "barrel_ported"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

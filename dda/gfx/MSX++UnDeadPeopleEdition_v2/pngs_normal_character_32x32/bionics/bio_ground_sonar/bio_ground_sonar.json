@@ -1,0 +1,8 @@
+{
+  "id": "bio_ground_sonar",
+  "fg": [
+    "cbm_temp"
+  ],
+  "bg": [],
+  "rotates": false
+}

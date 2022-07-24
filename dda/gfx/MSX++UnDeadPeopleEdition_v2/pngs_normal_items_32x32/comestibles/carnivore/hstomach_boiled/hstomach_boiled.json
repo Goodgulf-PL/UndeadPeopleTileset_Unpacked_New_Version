@@ -1,0 +1,10 @@
+{
+  "id": "hstomach_boiled",
+  "fg": [
+    "hstomach_boiled"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

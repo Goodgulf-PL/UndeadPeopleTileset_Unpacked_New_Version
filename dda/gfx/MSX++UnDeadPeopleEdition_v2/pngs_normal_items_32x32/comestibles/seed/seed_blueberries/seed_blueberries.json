@@ -1,0 +1,10 @@
+{
+  "id": "seed_blueberries",
+  "fg": [
+    "seed_blueberries"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

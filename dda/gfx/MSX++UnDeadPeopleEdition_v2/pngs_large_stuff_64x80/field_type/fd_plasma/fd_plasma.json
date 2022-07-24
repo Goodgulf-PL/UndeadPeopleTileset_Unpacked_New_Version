@@ -1,0 +1,32 @@
+{
+  "id": "fd_plasma",
+  "fg": [
+    {
+      "weight": 11,
+      "sprite": "fd_plasma_1"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_plasma_2"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_plasma_3"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_plasma_4"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_plasma_5"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_plasma_6"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}

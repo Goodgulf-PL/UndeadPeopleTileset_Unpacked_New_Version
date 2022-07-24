@@ -1,0 +1,10 @@
+{
+  "id": "mon_copbot",
+  "fg": [
+    "mon_copbot"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

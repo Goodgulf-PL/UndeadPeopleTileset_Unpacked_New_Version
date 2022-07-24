@@ -1,0 +1,10 @@
+{
+  "id": "mon_riotbot",
+  "fg": [
+    "mon_riotbot"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

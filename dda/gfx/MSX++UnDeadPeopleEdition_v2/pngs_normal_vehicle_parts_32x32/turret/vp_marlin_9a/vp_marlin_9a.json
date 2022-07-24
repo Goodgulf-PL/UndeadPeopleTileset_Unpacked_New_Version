@@ -1,0 +1,18 @@
+{
+  "id": "vp_marlin_9a",
+  "fg": [
+    "vp_marlin_9a"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_marlin_9a_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

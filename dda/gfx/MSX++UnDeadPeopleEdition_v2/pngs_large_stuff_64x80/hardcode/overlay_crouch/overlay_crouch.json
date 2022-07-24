@@ -1,0 +1,8 @@
+{
+  "id": "overlay_crouch",
+  "fg": [
+    "overlay_crouch"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "pine_bough",
+  "fg": [
+    "pine_bough"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "circsaw_off",
+  "fg": [
+    "circsaw_off"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

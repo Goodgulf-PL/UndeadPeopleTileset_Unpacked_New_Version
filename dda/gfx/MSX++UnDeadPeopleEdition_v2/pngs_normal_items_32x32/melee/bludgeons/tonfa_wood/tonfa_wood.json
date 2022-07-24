@@ -1,0 +1,10 @@
+{
+  "id": "tonfa_wood",
+  "fg": [
+    "tonfa_wood"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

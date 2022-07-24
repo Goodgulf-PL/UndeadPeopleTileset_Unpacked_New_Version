@@ -1,0 +1,9 @@
+{
+  "id": "overlay_wielded_broken_dimensional_anchor",
+  "fg": [
+    "broken_dimensional_anchor"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

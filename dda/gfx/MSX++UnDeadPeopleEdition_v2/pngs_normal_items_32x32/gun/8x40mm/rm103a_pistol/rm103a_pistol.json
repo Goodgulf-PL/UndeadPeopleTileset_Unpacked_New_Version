@@ -1,0 +1,10 @@
+{
+  "id": "rm103a_pistol",
+  "fg": [
+    "rm103a_pistol"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

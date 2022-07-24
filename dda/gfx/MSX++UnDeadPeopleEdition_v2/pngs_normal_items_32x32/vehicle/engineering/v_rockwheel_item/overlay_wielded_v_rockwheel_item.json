@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_v_rockwheel_item",
+  "fg": [
+    "v_rockwheel_item"
+  ],
+  "bg": [],
+  "rotates": false
+}

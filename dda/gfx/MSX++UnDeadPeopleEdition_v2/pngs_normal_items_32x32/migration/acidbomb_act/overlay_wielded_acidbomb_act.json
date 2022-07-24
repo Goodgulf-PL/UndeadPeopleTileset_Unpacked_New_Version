@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_acidbomb_act",
+  "fg": [
+    "acidbomb_act"
+  ],
+  "bg": [],
+  "rotates": false
+}

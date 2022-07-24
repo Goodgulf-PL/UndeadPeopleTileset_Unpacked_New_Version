@@ -1,0 +1,10 @@
+{
+  "id": "laser_pack",
+  "fg": [
+    "laser_pack"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "grip_mod",
+  "fg": [
+    "grip_mod"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

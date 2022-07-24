@@ -1,0 +1,10 @@
+{
+  "id": "zweihander",
+  "fg": [
+    "zweihander"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

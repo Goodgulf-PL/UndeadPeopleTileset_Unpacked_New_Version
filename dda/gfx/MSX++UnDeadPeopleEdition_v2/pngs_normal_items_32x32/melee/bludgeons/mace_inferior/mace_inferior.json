@@ -1,0 +1,10 @@
+{
+  "id": "mace_inferior",
+  "fg": [
+    "mace_inferior"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

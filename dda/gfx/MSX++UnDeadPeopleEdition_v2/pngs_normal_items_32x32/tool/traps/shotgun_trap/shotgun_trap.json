@@ -1,0 +1,12 @@
+{
+  "id": "shotgun_trap",
+  "fg": [
+    "shotgun_trap"
+  ],
+  "bg": [
+    "heavy_snare_kit",
+    "rope_makeshift_6",
+    "light_snare_kit",
+    "rope_6"
+  ]
+}

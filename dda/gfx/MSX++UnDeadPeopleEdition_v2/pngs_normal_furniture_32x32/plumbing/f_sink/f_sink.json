@@ -1,0 +1,15 @@
+{
+  "id": "f_sink",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "f_sink_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_sink_2"
+    }
+  ],
+  "bg": [],
+  "rotates": false
+}

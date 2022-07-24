@@ -1,0 +1,10 @@
+{
+  "id": "textbook_biodiesel",
+  "fg": [
+    "textbook_biodiesel"
+  ],
+  "bg": [
+    "bg_book_adv"
+  ],
+  "rotates": false
+}

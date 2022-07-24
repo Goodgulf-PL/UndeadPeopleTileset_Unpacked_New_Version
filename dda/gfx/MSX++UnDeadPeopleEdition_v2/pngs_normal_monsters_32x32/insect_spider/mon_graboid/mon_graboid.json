@@ -1,0 +1,10 @@
+{
+  "id": "mon_graboid",
+  "fg": [
+    "mon_graboid"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

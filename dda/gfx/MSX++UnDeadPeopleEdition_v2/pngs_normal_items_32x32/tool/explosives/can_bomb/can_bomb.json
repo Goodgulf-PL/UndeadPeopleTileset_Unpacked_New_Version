@@ -1,0 +1,10 @@
+{
+  "id": "can_bomb",
+  "fg": [
+    "can_bomb"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "noodles_fast",
+  "fg": [
+    "noodles_fast"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

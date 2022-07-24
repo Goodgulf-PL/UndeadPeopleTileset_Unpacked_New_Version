@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_hazmat_suit",
+  "fg": [
+    "hazmat_suit"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,50 @@
+{
+  "id": "mon_turret_riot",
+  "fg": [
+    {
+      "weight": 30,
+      "sprite": "mon_turret_riot_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_turret_riot_2"
+    },    {
+      "weight": 10,
+      "sprite": "mon_turret_riot_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_turret_riot_2"
+    },    {
+      "weight": 10,
+      "sprite": "mon_turret_riot_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_turret_riot_4"
+    },    {
+      "weight": 30,
+      "sprite": "mon_turret_riot_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_turret_riot_6"
+    },    {
+      "weight": 10,
+      "sprite": "mon_turret_riot_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_turret_riot_6"
+    },    {
+      "weight": 10,
+      "sprite": "mon_turret_riot_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_turret_riot_8"
+    }
+  ],
+  "bg": ["bg_shadow_turret_offset"],
+  "animated": true
+}

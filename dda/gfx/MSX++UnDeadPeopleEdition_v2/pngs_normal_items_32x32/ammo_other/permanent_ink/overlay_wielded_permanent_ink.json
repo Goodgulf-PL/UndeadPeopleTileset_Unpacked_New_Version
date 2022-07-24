@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_permanent_ink",
+  "fg": [
+    "permanent_ink"
+  ],
+  "bg": [],
+  "rotates": false
+}

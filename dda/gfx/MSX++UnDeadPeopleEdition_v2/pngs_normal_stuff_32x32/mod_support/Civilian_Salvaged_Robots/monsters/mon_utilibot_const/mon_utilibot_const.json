@@ -1,0 +1,10 @@
+{
+  "id": "mon_utilibot_const",
+  "fg": [
+    "mon_utilibot_const"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

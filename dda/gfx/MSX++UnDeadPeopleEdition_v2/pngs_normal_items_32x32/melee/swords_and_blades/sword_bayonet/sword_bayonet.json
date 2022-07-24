@@ -1,0 +1,10 @@
+{
+  "id": "sword_bayonet",
+  "fg": [
+    "sword_bayonet"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": ["vp_clothboard_nw", "vp_clothboard_nw_edge"],
+  "fg": [
+    "vp_clothboard_nw"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_clothboard_nw_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

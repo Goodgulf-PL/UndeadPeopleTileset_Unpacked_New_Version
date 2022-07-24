@@ -1,0 +1,10 @@
+{
+  "id": "needle_wood",
+  "fg": [
+    "needle_wood"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

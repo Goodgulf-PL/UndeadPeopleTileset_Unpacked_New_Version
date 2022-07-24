@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_battery_test",
+  "fg": [
+    "battery_test"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "filter_paper_qualitative",
+  "fg": [
+    "paper"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

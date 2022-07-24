@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_alloy_sheet",
+  "fg": [
+    "alloy_sheet"
+  ],
+  "bg": [],
+  "rotates": false
+}

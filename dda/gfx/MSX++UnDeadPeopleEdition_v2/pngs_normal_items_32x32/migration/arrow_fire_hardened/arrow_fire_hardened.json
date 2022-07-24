@@ -1,0 +1,10 @@
+{
+  "id": "arrow_fire_hardened",
+  "fg": [
+    "arrow_fire_hardened"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

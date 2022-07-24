@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_shotcanister_pebble",
+  "fg": [
+    "shotcanister_pebble"
+  ],
+  "bg": [],
+  "rotates": false
+}

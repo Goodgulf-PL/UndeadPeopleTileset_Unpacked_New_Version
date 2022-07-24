@@ -1,0 +1,10 @@
+{
+  "id": "t_palisade_pulley",
+  "fg": [
+    "t_palisade_pulley"
+  ],
+  "bg": [
+    "bg_dirt"
+  ],
+  "rotates": false
+}

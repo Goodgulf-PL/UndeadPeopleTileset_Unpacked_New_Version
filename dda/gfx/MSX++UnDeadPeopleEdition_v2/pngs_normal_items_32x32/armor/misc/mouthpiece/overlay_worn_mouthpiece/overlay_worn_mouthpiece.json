@@ -1,0 +1,10 @@
+{
+  "id": "overlay_worn_mouthpiece",
+  "fg": [
+    "overlay_worn_mouthpiece"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

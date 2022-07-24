@@ -1,0 +1,10 @@
+{
+  "id": "manual_dragon",
+  "fg": [
+    "manual_cover_hand"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

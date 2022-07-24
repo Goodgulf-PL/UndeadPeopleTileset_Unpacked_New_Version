@@ -1,0 +1,10 @@
+{
+  "id": "mango",
+  "fg": [
+    "mango"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

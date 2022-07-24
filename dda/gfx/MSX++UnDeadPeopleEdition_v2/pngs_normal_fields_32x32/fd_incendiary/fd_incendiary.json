@@ -1,0 +1,47 @@
+{
+  "id": "fd_incendiary",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "fd_incendiary_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_incendiary_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_incendiary_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_incendiary_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_incendiary_5"
+    },    
+	{
+      "weight": 10,
+      "sprite": "fd_incendiary_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_incendiary_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_incendiary_8"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_incendiary_9"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_incendiary_10"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

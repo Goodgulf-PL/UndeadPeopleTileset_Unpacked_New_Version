@@ -1,0 +1,10 @@
+{
+  "id": "t_underbrush_harvested_autumn",
+  "fg": [
+    "t_underbrush_harvested_autumn"
+  ],
+  "bg": [
+    "bg_big_dirt"
+  ],
+  "rotates": false
+}

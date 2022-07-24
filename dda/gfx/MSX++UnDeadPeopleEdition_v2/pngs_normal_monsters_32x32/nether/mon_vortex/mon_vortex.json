@@ -1,0 +1,72 @@
+{
+  "id": "mon_vortex",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_vortex_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_vortex_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_vortex_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_vortex_4"
+    },
+	{
+      "weight": 10,
+      "sprite": "mon_vortex_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_vortex_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_vortex_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_vortex_8"
+    },
+	{
+      "weight": 10,
+      "sprite": "mon_vortex_9"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_vortex_10"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_vortex_11"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_vortex_12"
+    },
+	{
+      "weight": 10,
+      "sprite": "mon_vortex_13"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_vortex_14"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_vortex_15"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_vortex_16"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_screen_mesh",
+  "fg": [
+    "screen_mesh"
+  ],
+  "bg": [],
+  "rotates": false
+}

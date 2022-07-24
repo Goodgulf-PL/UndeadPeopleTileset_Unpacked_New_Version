@@ -1,0 +1,10 @@
+{
+  "id": "chestrig",
+  "fg": [
+    "chestrig"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

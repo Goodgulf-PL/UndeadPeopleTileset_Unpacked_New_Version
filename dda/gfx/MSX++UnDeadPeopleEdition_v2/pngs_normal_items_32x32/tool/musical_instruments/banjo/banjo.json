@@ -1,0 +1,10 @@
+{
+  "id": "banjo",
+  "fg": [
+    "banjo"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

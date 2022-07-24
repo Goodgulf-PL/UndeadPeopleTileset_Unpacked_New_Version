@@ -1,0 +1,8 @@
+{
+  "id": "bio_geiger",
+  "fg": [
+    "cbm_temp"
+  ],
+  "bg": [],
+  "rotates": false
+}

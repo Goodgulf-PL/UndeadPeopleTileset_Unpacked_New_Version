@@ -1,0 +1,10 @@
+{
+  "id": "acidbomb_act",
+  "fg": [
+    "acidbomb_act"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

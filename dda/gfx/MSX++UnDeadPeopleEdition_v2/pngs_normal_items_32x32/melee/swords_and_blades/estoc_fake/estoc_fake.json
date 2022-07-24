@@ -1,0 +1,10 @@
+{
+  "id": "estoc_fake",
+  "fg": [
+    "estoc_fake"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

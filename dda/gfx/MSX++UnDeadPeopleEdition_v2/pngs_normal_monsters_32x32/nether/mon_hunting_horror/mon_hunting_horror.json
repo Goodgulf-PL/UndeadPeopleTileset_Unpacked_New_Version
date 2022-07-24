@@ -1,0 +1,10 @@
+{
+  "id": "mon_hunting_horror",
+  "fg": [
+    "mon_hunting_horror"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

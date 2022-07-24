@@ -1,0 +1,10 @@
+{
+  "id": "marloss_berry",
+  "fg": [
+    "marloss_berry"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

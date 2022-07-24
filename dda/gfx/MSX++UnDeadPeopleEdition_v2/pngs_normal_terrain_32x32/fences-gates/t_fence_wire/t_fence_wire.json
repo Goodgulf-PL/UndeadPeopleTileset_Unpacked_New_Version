@@ -1,0 +1,10 @@
+{
+  "id": "t_fence_wire",
+  "fg": [
+    "t_fence_wire"
+  ],
+  "bg": [
+    "bg_dirt"
+  ],
+  "rotates": false
+}

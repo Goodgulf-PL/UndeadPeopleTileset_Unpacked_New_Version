@@ -1,0 +1,10 @@
+{
+  "id": "grenade_inc_act",
+  "fg": [
+    "grenade_inc_act"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

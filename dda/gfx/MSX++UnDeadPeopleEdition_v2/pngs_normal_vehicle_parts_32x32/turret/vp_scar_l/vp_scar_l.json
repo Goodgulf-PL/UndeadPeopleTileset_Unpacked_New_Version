@@ -1,0 +1,18 @@
+{
+  "id": "vp_scar_l",
+  "fg": [
+    "vp_scar_l"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_scar_l_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

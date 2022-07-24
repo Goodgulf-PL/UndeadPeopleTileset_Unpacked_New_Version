@@ -1,0 +1,47 @@
+{
+  "id": "fd_pollen_triffid",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "fd_pollen_triffid_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_pollen_triffid_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_pollen_triffid_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_pollen_triffid_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_pollen_triffid_5"
+    },    
+	{
+      "weight": 10,
+      "sprite": "fd_pollen_triffid_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_pollen_triffid_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_pollen_triffid_8"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_pollen_triffid_9"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_pollen_triffid_10"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

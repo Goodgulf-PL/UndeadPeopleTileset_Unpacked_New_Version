@@ -1,0 +1,21 @@
+{
+  "id": "vp_seat_back_left",
+  "fg": [
+    "vp_seat_back_left"
+  ],
+  "bg": [
+    "bg_car"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_seat_back_left_broken"
+      ],
+      "bg": [
+        "bg_car"
+      ]    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_camera_bag",
+  "fg": [
+    "camera_bag"
+  ],
+  "bg": [],
+  "rotates": false
+}

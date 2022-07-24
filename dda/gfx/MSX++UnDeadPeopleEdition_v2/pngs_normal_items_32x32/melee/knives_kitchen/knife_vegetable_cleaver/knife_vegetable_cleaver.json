@@ -1,0 +1,10 @@
+{
+  "id": "knife_vegetable_cleaver",
+  "fg": [
+    "knife_vegetable_cleaver"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

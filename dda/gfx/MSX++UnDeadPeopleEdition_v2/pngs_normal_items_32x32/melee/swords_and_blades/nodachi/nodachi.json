@@ -1,0 +1,10 @@
+{
+  "id": "nodachi",
+  "fg": [
+    "nodachi"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

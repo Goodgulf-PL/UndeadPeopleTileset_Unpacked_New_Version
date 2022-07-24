@@ -1,0 +1,10 @@
+{
+  "id": "bp_shot_flechette",
+  "fg": [
+    "bp_shot_flechette"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

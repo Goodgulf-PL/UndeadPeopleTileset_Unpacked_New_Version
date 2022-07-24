@@ -1,0 +1,10 @@
+{
+  "id": "engine_block_tiny",
+  "fg": [
+    "engine_block_tiny"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": true
+}

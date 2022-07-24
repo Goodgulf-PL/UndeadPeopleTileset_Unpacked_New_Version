@@ -1,0 +1,8 @@
+{
+  "id": "bio_time_freeze",
+  "fg": [
+    "cbm_temp"
+  ],
+  "bg": [],
+  "rotates": false
+}

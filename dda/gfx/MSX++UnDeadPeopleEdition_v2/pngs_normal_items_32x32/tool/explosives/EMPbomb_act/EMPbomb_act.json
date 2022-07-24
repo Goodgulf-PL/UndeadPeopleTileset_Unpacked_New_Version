@@ -1,0 +1,10 @@
+{
+  "id": "EMPbomb_act",
+  "fg": [
+    "EMPbomb_act"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

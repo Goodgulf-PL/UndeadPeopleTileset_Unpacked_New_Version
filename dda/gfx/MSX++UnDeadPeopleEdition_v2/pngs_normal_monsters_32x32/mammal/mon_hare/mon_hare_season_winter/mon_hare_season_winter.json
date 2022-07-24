@@ -1,0 +1,10 @@
+{
+  "id": "mon_hare_season_winter",
+  "fg": [
+    "mon_hare_season_winter"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

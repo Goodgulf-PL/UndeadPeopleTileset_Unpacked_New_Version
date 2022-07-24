@@ -1,0 +1,6 @@
+{
+  "id": "overlay_wielded_debug_active_relic_test",
+  "fg": ["debug_active_relic_test"],
+  "bg": [],
+  "animated": true
+}

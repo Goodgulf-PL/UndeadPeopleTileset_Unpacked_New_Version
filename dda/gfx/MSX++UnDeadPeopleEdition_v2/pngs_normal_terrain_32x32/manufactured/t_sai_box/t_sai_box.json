@@ -1,0 +1,10 @@
+{
+  "id": "t_sai_box",
+  "fg": [
+    "t_sai_box"
+  ],
+  "bg": [
+    "bg_metal_block"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,21 @@
+[{
+  "id": ["apartments_mod_tower_000", "apartments_mod_tower_001", "apartments_mod_tower_003"],
+  "fg": ["apartments_mod_tower_000_1", "apartments_mod_tower_000_2", "apartments_mod_tower_000_3", "apartments_mod_tower_000_4"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": ["apartments_mod_tower_100", "apartments_mod_tower_101", "apartments_mod_tower_103"],
+  "fg": ["apartments_mod_tower_100_1", "apartments_mod_tower_100_2", "apartments_mod_tower_100_3", "apartments_mod_tower_100_4"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": ["apartments_mod_tower_110", "apartments_mod_tower_111", "apartments_mod_tower_113"],
+  "fg": ["apartments_mod_tower_110_1", "apartments_mod_tower_110_2", "apartments_mod_tower_110_3", "apartments_mod_tower_110_4"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": ["apartments_mod_tower_010", "apartments_mod_tower_011", "apartments_mod_tower_013"],
+  "fg": ["apartments_mod_tower_010_1", "apartments_mod_tower_010_2", "apartments_mod_tower_010_3", "apartments_mod_tower_010_4"],
+  "bg": [],
+  "rotates": true
+}]

@@ -1,0 +1,10 @@
+{
+  "id": "tailor_japanese",
+  "fg": [
+    "tailor_japanese"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "bio_tattoo_led",
+  "fg": [
+    "cbm_temp"
+  ],
+  "bg": [],
+  "rotates": false
+}

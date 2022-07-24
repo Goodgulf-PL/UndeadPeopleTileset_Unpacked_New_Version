@@ -1,0 +1,6 @@
+{
+  "id": ["trailerparksmall0", "trailerparksmall1", "trailerparksmall2", "trailerparksmall0_roof", "trailerparksmall1_roof", "trailerparksmall2_roof"],
+  "fg": ["plug_trailer_park"],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "can_salmon",
+  "fg": [
+    "can_salmon"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "novel_satire",
+  "fg": [
+    "novel_satire"
+  ],
+  "bg": [
+    "bg_book_manual"
+  ],
+  "rotates": false
+}

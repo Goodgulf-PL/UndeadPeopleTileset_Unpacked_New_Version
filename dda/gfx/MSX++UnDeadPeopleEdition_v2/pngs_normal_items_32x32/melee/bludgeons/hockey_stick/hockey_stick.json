@@ -1,0 +1,10 @@
+{
+  "id": "hockey_stick",
+  "fg": [
+    "hockey_stick"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

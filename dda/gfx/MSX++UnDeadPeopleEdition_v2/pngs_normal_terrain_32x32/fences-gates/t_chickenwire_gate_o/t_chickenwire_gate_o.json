@@ -1,0 +1,10 @@
+{
+  "id": "t_chickenwire_gate_o",
+  "fg": [
+    "t_chickenwire_gate_o"
+  ],
+  "bg": [
+    "bg_pavement"
+  ],
+  "rotates": false
+}

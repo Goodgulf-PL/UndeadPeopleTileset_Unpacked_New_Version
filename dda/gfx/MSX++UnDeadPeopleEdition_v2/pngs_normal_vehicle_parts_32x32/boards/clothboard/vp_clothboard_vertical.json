@@ -1,0 +1,18 @@
+{
+  "id": "vp_clothboard_vertical",
+  "fg": [
+    "vp_clothboard_vertical"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_clothboard_vertical_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

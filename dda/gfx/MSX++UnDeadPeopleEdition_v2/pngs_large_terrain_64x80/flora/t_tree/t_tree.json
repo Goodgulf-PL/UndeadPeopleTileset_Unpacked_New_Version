@@ -1,0 +1,10 @@
+{
+  "id": "t_tree",
+  "fg": [
+    "t_tree"
+  ],
+  "bg": [
+    "bg_big_dirt"
+  ],
+  "rotates": false
+}

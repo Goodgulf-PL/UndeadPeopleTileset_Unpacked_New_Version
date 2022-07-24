@@ -1,0 +1,10 @@
+{
+  "id": "tire_iron",
+  "fg": [
+    "tire_iron"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

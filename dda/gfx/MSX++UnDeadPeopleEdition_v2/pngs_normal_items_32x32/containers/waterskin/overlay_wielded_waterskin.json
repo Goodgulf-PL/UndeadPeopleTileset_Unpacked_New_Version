@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_waterskin",
+  "fg": [
+    "waterskin"
+  ],
+  "bg": [],
+  "rotates": false
+}

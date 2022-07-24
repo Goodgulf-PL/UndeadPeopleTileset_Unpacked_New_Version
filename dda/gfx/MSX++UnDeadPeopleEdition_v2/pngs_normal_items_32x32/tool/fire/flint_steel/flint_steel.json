@@ -1,0 +1,10 @@
+{
+  "id": "flint_steel",
+  "fg": [
+    "flint_steel"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

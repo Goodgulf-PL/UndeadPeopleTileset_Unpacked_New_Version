@@ -1,0 +1,10 @@
+{
+  "id": "ceramic_shard",
+  "fg": [
+    "ceramic_shard"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

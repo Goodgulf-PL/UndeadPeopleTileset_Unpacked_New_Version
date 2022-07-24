@@ -1,0 +1,30 @@
+[{
+  "id": ["farm_lot_M", "farm_lot_M1"],
+  "fg": ["farm_lot"],
+  "bg": [],
+  "rotates": false
+},
+{
+  "id": ["farm_lot_wire_turn_v", "farm_lot_wire_turn_v_open"],
+  "fg": ["wire_corner_2", "wire_corner_1", "wire_corner_4", "wire_corner_3"],
+  "bg": [""],
+  "rotates": true
+},
+{
+  "id": ["farm_lot_wire_turn_h", "farm_lot_wire_turn_h_open"],
+  "fg": ["wire_corner_2", "wire_corner_1", "wire_corner_4", "wire_corner_3"],
+  "bg": [""],
+  "rotates": true
+},
+{
+  "id": ["farm_lot_wire_straight_v", "farm_lot_wire_straight_v_open"],
+  "fg": ["farm_lot_wire_t_connection_3", "farm_lot_wire_t_connection_2", "farm_lot_wire_t_connection_1", "farm_lot_wire_t_connection_4"],
+  "bg": [""],
+  "rotates": true
+},
+{
+  "id": ["farm_lot_wire_straight_h", "farm_lot_wire_straight_h_open"],
+  "fg": ["farm_lot_wire_t_connection_1", "farm_lot_wire_t_connection_4", "farm_lot_wire_t_connection_3", "farm_lot_wire_t_connection_2"],
+  "bg": [""],
+  "rotates": true
+}]

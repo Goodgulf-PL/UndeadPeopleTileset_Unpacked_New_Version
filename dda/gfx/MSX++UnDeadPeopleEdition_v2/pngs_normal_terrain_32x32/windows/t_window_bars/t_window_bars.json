@@ -1,0 +1,10 @@
+{
+  "id": "t_window_bars",
+  "fg": [
+    "t_window_bars"
+  ],
+  "bg": [
+    "bg_t_floor"
+  ],
+  "rotates": false
+}

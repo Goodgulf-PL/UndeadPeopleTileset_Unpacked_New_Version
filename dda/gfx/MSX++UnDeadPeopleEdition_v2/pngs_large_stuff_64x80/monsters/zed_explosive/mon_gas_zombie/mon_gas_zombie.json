@@ -1,0 +1,32 @@
+{
+  "id": "mon_gas_zombie",
+  "fg": [
+    {
+      "weight": 11,
+      "sprite": "mon_gas_zombie_1"
+    },
+    {
+      "weight": 11,
+      "sprite": "mon_gas_zombie_2"
+    },
+    {
+      "weight": 11,
+      "sprite": "mon_gas_zombie_3"
+    }, 
+	{
+      "weight": 11,
+      "sprite": "mon_gas_zombie_4"
+    },
+    {
+      "weight": 11,
+      "sprite": "mon_gas_zombie_5"
+    },
+    {
+      "weight": 11,
+      "sprite": "mon_gas_zombie_6"
+    }
+  ],
+  "bg": ["bg_big_normal_shadow"],
+  "rotates": false,
+  "animated": true
+}

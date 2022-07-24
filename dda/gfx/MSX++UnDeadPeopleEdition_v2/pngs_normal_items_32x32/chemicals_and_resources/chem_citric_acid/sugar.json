@@ -1,0 +1,10 @@
+{
+  "id": "chem_citric_acid",
+  "fg": [
+    "chem_citric_acid"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

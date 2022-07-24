@@ -1,0 +1,10 @@
+{
+  "id": "tool_bootleg_barrel_bomb",
+  "fg": [
+    "tool_rdx_charge"
+  ],
+  "bg": [
+    "keg",
+    "keg_steel"
+  ]
+}

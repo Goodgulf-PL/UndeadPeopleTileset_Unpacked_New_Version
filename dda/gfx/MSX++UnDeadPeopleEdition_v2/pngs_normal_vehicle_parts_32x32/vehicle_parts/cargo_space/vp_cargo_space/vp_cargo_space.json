@@ -1,0 +1,20 @@
+{
+  "id": "vp_cargo_space",
+  "fg": [
+    "vp_cargo_space"
+  ],
+  "bg": [
+    "bg_car"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_cargo_space_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

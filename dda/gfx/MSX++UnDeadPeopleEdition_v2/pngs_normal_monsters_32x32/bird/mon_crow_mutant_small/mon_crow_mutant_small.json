@@ -1,0 +1,10 @@
+{
+  "id": "mon_crow_mutant_small",
+  "fg": [
+    "mon_crow_mutant_small"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

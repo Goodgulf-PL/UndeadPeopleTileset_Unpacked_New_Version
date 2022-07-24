@@ -1,0 +1,77 @@
+{
+  "id": "t_fence_rope_season_winter",
+  "fg": [
+    "t_fence_rope"
+  ],
+  "bg": [
+    "bg_dirt_season_winter"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_fence_rope_center"
+      ],
+      "bg": [
+        "bg_dirt_season_winter"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_fence_rope_corner_1",
+        "t_fence_rope_corner_2",
+        "t_fence_rope_corner_3",
+        "t_fence_rope_corner_4"
+      ],
+      "bg": [
+        "bg_dirt_season_winter"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_fence_rope_t_connection_1",
+        "t_fence_rope_t_connection_2",
+        "t_fence_rope_t_connection_3",
+        "t_fence_rope_t_connection_4"
+      ],
+      "bg": [
+        "bg_dirt_season_winter"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_fence_rope_edge_1",
+        "t_fence_rope_edge_2"
+      ],
+      "bg": [
+        "bg_dirt_season_winter"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_fence_rope_end_piece_1",
+        "t_fence_rope_end_piece_2",
+        "t_fence_rope_end_piece_3",
+        "t_fence_rope_end_piece_4"
+      ],
+      "bg": [
+        "bg_dirt_season_winter"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_fence_rope_unconnected"
+      ],
+      "bg": [
+        "bg_dirt_season_winter"
+      ]
+    }
+  ]
+}

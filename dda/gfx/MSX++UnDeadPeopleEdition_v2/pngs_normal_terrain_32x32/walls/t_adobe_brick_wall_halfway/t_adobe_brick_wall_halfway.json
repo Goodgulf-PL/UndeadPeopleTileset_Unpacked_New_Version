@@ -1,0 +1,10 @@
+{
+  "id": "t_adobe_brick_wall_halfway",
+  "fg": [
+    "t_adobe_brick_wall_halfway"
+  ],
+  "bg": [
+    "bg_dirt"
+  ],
+  "rotates": false
+}

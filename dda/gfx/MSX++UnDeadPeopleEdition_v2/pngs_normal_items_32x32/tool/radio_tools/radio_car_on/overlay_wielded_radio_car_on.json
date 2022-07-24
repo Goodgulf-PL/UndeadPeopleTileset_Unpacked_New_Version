@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_radio_car_on",
+  "fg": [
+    "radio_car_on"
+  ],
+  "bg": [],
+  "rotates": false
+}

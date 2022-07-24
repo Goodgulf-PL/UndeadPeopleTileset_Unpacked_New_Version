@@ -1,0 +1,10 @@
+{
+  "id": "fancy_sunglasses",
+  "fg": [
+    "fancy_sunglasses"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

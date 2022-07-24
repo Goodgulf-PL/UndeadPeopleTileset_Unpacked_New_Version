@@ -1,0 +1,10 @@
+{
+  "id": "wakizashi_inferior",
+  "fg": [
+    "wakizashi_inferior"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

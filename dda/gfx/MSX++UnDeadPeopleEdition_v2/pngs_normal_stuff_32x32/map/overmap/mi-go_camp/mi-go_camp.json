@@ -1,0 +1,16 @@
+[{
+  "id": ["mi-go_camp1"],
+  "fg": ["mi-go_camp_1", "mi-go_camp_2", "mi-go_camp_3", "mi-go_camp_4"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": ["mi-go_camp2"],
+  "fg": ["mi-go_camp_3", "mi-go_camp_4", "mi-go_camp_1", "mi-go_camp_2"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": ["mi-go_camp2-1", "mi-go_camp2-2"],
+  "fg": ["mi-go_roof"],
+  "bg": [],
+  "rotates": true
+}]

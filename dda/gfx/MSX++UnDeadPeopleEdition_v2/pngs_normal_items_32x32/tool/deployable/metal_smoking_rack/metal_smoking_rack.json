@@ -1,0 +1,10 @@
+{
+  "id": "metal_smoking_rack",
+  "fg": [
+    "metal_smoking_rack"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

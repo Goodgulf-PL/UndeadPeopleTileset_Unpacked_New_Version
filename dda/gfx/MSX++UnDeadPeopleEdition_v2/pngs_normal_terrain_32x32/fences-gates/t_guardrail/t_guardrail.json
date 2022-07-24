@@ -1,0 +1,75 @@
+{
+  "id": "t_guardrail",
+  "fg": [
+    "t_guardrail"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_guardrail_center"
+      ],
+      "bg": [
+        "bg_cement_electro"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_guardrail_corner_1",
+        "t_guardrail_corner_2",
+        "t_guardrail_corner_3",
+        "t_guardrail_corner_4"
+      ],
+      "bg": [
+        "bg_cement_electro"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_guardrail_t_connection_1",
+        "t_guardrail_t_connection_2",
+        "t_guardrail_t_connection_3",
+        "t_guardrail_t_connection_4"
+      ],
+      "bg": [
+        "bg_cement_electro"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_guardrail_edge_1",
+        "t_guardrail_edge_2"
+      ],
+      "bg": [
+        "bg_cement_electro"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_guardrail_end_piece_1",
+        "t_guardrail_end_piece_2",
+        "t_guardrail_end_piece_3",
+        "t_guardrail_end_piece_4"
+      ],
+      "bg": [
+        "bg_cement_electro"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_guardrail_unconnected"
+      ],
+      "bg": [
+        "bg_cement_electro"
+      ]
+    }
+  ]
+}

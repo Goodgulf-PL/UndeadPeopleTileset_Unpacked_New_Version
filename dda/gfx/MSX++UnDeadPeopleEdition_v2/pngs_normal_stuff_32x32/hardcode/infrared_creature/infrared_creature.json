@@ -1,0 +1,31 @@
+{
+  "id": "infrared_creature",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "infrared_creature_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "infrared_creature_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "infrared_creature_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "infrared_creature_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "infrared_creature_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "infrared_creature_6"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

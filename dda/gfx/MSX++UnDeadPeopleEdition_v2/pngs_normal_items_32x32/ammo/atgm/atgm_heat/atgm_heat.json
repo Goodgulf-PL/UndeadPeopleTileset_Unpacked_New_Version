@@ -1,0 +1,9 @@
+{
+  "id": "atgm_heat",
+  "fg": [
+    "atgm_heat"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

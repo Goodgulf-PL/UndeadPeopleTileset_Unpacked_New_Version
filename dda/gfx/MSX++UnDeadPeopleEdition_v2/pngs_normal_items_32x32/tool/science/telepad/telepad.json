@@ -1,0 +1,10 @@
+{
+  "id": "telepad",
+  "fg": [
+    "telepad"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

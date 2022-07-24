@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_recharge_station",
+  "fg": [
+    "recharge_station"
+  ],
+  "bg": [],
+  "rotates": false
+}

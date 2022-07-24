@@ -1,0 +1,64 @@
+{
+  "id": "mon_zpider_mass",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_zpider_mass_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zpider_mass_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zpider_mass_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zpider_mass_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zpider_mass_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zpider_mass_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zpider_mass_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zpider_mass_8"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zpider_mass_9"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zpider_mass_10"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zpider_mass_11"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zpider_mass_12"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zpider_mass_13"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zpider_mass_14"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "trenchcoat_leather",
+  "fg": [
+    "trenchcoat_leather"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_zombie_flamer",
+  "fg": [
+    "mon_zombie_flamer"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

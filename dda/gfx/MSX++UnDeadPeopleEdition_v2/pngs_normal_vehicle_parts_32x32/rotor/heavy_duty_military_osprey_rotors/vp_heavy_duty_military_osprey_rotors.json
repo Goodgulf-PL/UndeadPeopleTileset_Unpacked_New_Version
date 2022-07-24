@@ -1,0 +1,18 @@
+{
+  "id": "vp_heavy_duty_military_osprey_rotors",
+  "fg": [
+    "vp_heavy_duty_military_osprey_rotors"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_heavy_duty_military_osprey_rotors_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

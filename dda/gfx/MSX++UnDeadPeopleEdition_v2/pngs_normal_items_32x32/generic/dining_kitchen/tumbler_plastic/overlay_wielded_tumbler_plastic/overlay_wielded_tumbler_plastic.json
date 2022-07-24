@@ -1,0 +1,10 @@
+{
+  "id": "overlay_wielded_tumbler_plastic",
+  "fg": [
+    "overlay_wielded_tumbler_plastic"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

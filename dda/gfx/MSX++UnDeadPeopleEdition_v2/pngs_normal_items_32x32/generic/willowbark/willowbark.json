@@ -1,0 +1,10 @@
+{
+  "id": "willowbark",
+  "fg": [
+    "willowbark"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

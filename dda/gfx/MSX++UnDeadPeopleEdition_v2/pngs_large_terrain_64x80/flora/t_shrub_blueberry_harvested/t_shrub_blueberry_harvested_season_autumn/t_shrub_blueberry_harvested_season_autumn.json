@@ -1,0 +1,10 @@
+{
+  "id": "t_shrub_blueberry_harvested_season_autumn",
+  "fg": [
+    "t_shrub_blueberry_harvested_season_autumn"
+  ],
+  "bg": [
+    "bg_big_dirt"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cake2",
+  "fg": [
+    "cake2"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

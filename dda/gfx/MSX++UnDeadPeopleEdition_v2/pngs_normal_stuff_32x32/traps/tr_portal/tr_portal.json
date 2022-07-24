@@ -1,0 +1,10 @@
+{
+  "id": "tr_portal",
+  "fg": [
+    "tr_portal"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

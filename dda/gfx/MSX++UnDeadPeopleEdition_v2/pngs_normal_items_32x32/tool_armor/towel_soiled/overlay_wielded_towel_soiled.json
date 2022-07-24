@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_towel_soiled",
+  "fg": [
+    "towel_soiled"
+  ],
+  "bg": [],
+  "rotates": false
+}

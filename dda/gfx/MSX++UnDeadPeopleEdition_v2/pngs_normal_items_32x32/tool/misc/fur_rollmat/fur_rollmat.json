@@ -1,0 +1,10 @@
+{
+  "id": "fur_rollmat",
+  "fg": [
+    "fur_rollmat"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

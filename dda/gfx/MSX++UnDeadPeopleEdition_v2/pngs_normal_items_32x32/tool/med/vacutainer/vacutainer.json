@@ -1,0 +1,10 @@
+{
+  "id": "vacutainer",
+  "fg": [
+    "vacutainer"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,99 @@
+{
+  "id": "f_ash",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_3"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_4"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_5"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_6"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_7"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_8"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_9"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_10"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_11"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_12"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_13"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_14"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_15"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_16"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_17"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_18"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_19"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_20"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_21"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_22"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_ash_unconnected_23"
+    }
+  ],
+  "bg": [],
+  "rotates": false
+}

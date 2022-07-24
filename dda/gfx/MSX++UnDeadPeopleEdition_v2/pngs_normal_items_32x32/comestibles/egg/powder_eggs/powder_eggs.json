@@ -1,0 +1,10 @@
+{
+  "id": "powder_eggs",
+  "fg": [
+    "powder_eggs"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

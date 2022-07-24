@@ -1,0 +1,10 @@
+{
+  "id": "homemade_hotdogs",
+  "fg": [
+    "homemade_hotdogs"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

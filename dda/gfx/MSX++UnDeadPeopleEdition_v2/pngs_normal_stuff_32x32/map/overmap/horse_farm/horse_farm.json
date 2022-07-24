@@ -1,0 +1,17 @@
+{
+  "id": [
+    "horse_farm_1",
+    "horse_farm_11",
+    "horse_farm_12",
+    "horse_farm_14",
+    "horse_farm_15",
+    "horse_farm_16",
+    "horse_farm_3",
+    "horse_farm_5",
+    "horse_farm_6",
+    "horse_farm_8"
+  ],
+  "fg": ["generic_pasture"],
+  "bg": [],
+  "rotates": false
+}

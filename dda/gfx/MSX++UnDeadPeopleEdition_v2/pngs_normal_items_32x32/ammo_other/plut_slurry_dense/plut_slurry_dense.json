@@ -1,0 +1,15 @@
+{
+  "id": "plut_slurry_dense",
+  "fg": [
+    "plut_slurry_dense"
+  ],
+  "bg": [
+    "acid",
+    "energy_drink_atomic",
+    "lemonlime",
+    "sewage",
+    "water_sewage",
+    "plut_slurry",
+    "plut_slurry_dense"
+  ]
+}

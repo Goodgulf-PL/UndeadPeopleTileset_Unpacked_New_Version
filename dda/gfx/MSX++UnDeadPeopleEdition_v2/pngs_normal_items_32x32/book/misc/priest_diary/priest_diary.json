@@ -1,0 +1,10 @@
+{
+  "id": "priest_diary",
+  "fg": [
+    "priest_diary"
+  ],
+  "bg": [
+    "bg_book_manual"
+  ],
+  "rotates": false
+}

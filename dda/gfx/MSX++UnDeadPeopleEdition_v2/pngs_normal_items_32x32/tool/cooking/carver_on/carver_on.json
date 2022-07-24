@@ -1,0 +1,10 @@
+{
+  "id": "carver_on",
+  "fg": [
+    "carver_on"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "t_tree_walnut_harvested",
+  "fg": [
+    "t_tree_walnut_harvested"
+  ],
+  "bg": [
+    "bg_big_dirt"
+  ],
+  "rotates": false
+}

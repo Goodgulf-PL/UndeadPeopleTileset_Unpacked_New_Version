@@ -1,0 +1,10 @@
+{
+  "id": "vp_engine_1cyl",
+  "fg": [
+    "vp_engine_1cyl"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": true
+}

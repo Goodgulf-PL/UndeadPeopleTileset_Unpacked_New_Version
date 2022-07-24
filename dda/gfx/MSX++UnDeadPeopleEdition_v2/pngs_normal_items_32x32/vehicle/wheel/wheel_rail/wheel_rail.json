@@ -1,0 +1,10 @@
+{
+  "id": "wheel_rail",
+  "fg": [
+    "wheel_rail"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

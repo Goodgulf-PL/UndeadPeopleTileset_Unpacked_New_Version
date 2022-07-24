@@ -1,0 +1,10 @@
+{
+  "id": "mask_survivorxl",
+  "fg": [
+    "mask_survivorxl"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

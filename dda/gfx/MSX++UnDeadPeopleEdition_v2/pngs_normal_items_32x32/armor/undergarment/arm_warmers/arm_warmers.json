@@ -1,0 +1,10 @@
+{
+  "id": "arm_warmers",
+  "fg": [
+    "arm_warmers"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

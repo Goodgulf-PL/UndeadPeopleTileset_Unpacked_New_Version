@@ -1,0 +1,10 @@
+{
+  "id": "switchblade",
+  "fg": [
+    "switchblade"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

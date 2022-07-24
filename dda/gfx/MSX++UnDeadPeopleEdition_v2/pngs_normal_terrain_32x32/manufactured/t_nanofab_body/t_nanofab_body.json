@@ -1,0 +1,81 @@
+{
+  "id": "t_nanofab_body",
+  "fg": [
+    "t_nanofab_body"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_nanofab_body_center"
+      ],
+      "bg": [
+        "t_metal_floor",
+        "t_secretdoor_metal_o"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_nanofab_body_corner_1",
+        "t_nanofab_body_corner_2",
+        "t_nanofab_body_corner_3",
+        "t_nanofab_body_corner_4"
+      ],
+      "bg": [
+        "t_metal_floor",
+        "t_secretdoor_metal_o"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_nanofab_body_t_connection_1",
+        "t_nanofab_body_t_connection_2",
+        "t_nanofab_body_t_connection_3",
+        "t_nanofab_body_t_connection_4"
+      ],
+      "bg": [
+        "t_metal_floor",
+        "t_secretdoor_metal_o"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_nanofab_body_edge_1",
+        "t_nanofab_body_edge_2"
+      ],
+      "bg": [
+        "t_metal_floor",
+        "t_secretdoor_metal_o"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_nanofab_body_end_piece_1",
+        "t_nanofab_body_end_piece_2",
+        "t_nanofab_body_end_piece_3",
+        "t_nanofab_body_end_piece_4"
+      ],
+      "bg": [
+        "t_metal_floor",
+        "t_secretdoor_metal_o"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_nanofab_body_unconnected"
+      ],
+      "bg": [
+        "t_metal_floor",
+        "t_secretdoor_metal_o"
+      ]
+    }
+  ]
+}

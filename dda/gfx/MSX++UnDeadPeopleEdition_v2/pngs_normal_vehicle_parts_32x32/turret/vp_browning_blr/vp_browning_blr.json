@@ -1,0 +1,18 @@
+{
+  "id": "vp_browning_blr",
+  "fg": [
+    "vp_browning_blr"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_browning_blr_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

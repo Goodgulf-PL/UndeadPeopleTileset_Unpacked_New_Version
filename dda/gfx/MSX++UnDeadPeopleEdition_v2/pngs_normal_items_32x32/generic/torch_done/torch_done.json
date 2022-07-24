@@ -1,0 +1,10 @@
+{
+  "id": "torch_done",
+  "fg": [
+    "torch_done"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

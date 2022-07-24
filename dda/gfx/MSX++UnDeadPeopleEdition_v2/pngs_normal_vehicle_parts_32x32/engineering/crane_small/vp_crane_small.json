@@ -1,0 +1,18 @@
+{
+  "id": "vp_crane_small",
+  "fg": [
+    "vp_crane_small"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_crane_small_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

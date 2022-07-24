@@ -1,0 +1,10 @@
+{
+  "id": "vp_battery_car",
+  "fg": [
+    "vp_battery_car"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": true
+}

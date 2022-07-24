@@ -1,0 +1,11 @@
+[{
+  "id": ["homeless_0_0_0", "homeless_0_0_1", "homeless_0_0_2"],
+  "fg": ["homeless_shelter_2", "homeless_shelter_3", "homeless_shelter_4", "homeless_shelter_1"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": ["homeless_1_0_0", "homeless_1_0_1", "homeless_1_0_2"],
+  "fg": ["homeless_shelter_4", "homeless_shelter_1", "homeless_shelter_2", "homeless_shelter_3"],
+  "bg": [],
+  "rotates": true
+}]

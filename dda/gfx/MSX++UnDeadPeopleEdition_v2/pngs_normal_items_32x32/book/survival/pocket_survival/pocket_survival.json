@@ -1,0 +1,10 @@
+{
+  "id": "pocket_survival",
+  "fg": [
+    "pocket_survival"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

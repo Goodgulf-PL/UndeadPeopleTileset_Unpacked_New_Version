@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_rslauncher",
+  "fg": [
+    "rslauncher"
+  ],
+  "bg": [],
+  "rotates": true
+}

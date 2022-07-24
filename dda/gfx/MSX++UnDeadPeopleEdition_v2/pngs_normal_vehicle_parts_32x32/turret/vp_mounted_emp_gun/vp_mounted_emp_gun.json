@@ -1,0 +1,18 @@
+{
+  "id": "vp_mounted_emp_gun",
+  "fg": [
+    "vp_mounted_emp_gun"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_mounted_emp_gun_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

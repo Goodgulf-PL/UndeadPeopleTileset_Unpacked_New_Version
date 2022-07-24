@@ -1,0 +1,10 @@
+{
+  "id": "flamethrower_simple",
+  "fg": [
+    "flamethrower_simple"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

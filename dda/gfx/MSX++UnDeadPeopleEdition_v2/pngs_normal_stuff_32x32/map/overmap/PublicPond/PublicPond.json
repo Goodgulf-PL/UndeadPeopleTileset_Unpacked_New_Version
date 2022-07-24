@@ -1,0 +1,11 @@
+[{
+  "id": ["PublicPond_1a"],
+  "fg": ["PublicPond_1", "PublicPond_2", "PublicPond_3", "PublicPond_4"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": ["PublicPond_1b"],
+  "fg": ["PublicPond_3", "PublicPond_4", "PublicPond_1", "PublicPond_2"],
+  "bg": [],
+  "rotates": true
+}]

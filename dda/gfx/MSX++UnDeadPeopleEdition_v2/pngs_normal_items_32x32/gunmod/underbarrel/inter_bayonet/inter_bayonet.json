@@ -1,0 +1,10 @@
+{
+  "id": "inter_bayonet",
+  "fg": [
+    "inter_bayonet"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

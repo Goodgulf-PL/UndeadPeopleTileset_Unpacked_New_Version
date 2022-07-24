@@ -1,0 +1,10 @@
+{
+  "id": "raw_demihumanleather",
+  "fg": [
+    "raw_leather"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

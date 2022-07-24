@@ -1,0 +1,10 @@
+{
+  "id": "bolt_steel_bodkin",
+  "fg": [
+    "bolt_steel_bodkin"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

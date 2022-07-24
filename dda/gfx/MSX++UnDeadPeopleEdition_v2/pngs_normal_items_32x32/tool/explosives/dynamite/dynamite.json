@@ -1,0 +1,10 @@
+{
+  "id": "dynamite",
+  "fg": [
+    "dynamite"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

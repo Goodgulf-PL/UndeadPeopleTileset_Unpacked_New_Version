@@ -1,0 +1,8 @@
+{
+  "id": "primitive_demolition_charge_act",
+  "fg": [
+    "fertilizer_bomb_act"
+  ],
+  "bg": [],
+  "rotates": false
+}

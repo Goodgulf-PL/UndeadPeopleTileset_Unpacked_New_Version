@@ -1,0 +1,8 @@
+{
+  "id": "t_bramble_door_c",
+  "fg": [
+    "t_bramble_door_c"
+  ],
+  "bg": ["t_root_floor"],
+  "rotates": false
+}

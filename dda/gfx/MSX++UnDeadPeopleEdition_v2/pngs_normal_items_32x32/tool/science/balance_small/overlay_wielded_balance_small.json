@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_balance_small",
+  "fg": [
+    "balance_small"
+  ],
+  "bg": [],
+  "rotates": false
+}

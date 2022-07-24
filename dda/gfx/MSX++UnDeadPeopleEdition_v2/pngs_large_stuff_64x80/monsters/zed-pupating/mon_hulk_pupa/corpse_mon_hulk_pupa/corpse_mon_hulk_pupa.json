@@ -1,0 +1,8 @@
+{
+  "id": ["corpse_mon_hulk_pupa", "corpse_mon_hulk_pupa_decoy"],
+  "fg": [
+    "corpse_mon_hulk_pupa"
+  ],
+  "bg": [],
+  "rotates": false
+}

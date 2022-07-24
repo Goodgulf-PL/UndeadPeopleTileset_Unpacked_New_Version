@@ -1,0 +1,10 @@
+{
+  "id": "seed_cotton_boll",
+  "fg": [
+    "seed_cotton_boll"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

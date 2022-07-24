@@ -1,0 +1,10 @@
+{
+  "id": "pizza_cutter",
+  "fg": [
+    "pizza_cutter"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

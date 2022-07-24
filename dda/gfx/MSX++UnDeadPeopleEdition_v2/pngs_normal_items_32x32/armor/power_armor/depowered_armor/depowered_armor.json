@@ -1,0 +1,10 @@
+{
+  "id": "depowered_armor",
+  "fg": [
+    "depowered_armor"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

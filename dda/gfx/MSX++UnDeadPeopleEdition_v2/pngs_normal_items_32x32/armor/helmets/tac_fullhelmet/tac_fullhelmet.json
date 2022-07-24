@@ -1,0 +1,10 @@
+{
+  "id": "tac_fullhelmet",
+  "fg": [
+    "tac_fullhelmet"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

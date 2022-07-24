@@ -1,0 +1,6 @@
+{
+          "id": ["bridgehead_ground"],
+          "fg": ["bridgehead_ground_1", "bridgehead_ground_2", "bridgehead_ground_3", "bridgehead_ground_4"],
+		  "bg": "river_center",
+		  "rotates": true
+}

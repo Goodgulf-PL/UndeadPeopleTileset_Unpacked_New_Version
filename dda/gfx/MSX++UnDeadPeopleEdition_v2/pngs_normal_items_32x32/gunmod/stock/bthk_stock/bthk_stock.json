@@ -1,0 +1,10 @@
+{
+  "id": "bthk_stock",
+  "fg": [
+    "bthk_stock"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

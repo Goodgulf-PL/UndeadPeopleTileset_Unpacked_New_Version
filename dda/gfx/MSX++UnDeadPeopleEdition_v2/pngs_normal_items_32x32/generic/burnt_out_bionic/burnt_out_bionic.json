@@ -1,0 +1,10 @@
+{
+  "id": "burnt_out_bionic",
+  "fg": [
+    "burnt_out_bionic"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

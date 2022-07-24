@@ -1,0 +1,27 @@
+{
+  "id": "mon_flaming_eye",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_flaming_eye_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_flaming_eye_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_flaming_eye_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "mon_flaming_eye_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_flaming_eye_5"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

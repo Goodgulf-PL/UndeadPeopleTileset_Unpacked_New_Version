@@ -1,0 +1,10 @@
+{
+  "id": "holybook_mormon",
+  "fg": [
+    "holybook_mormon"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

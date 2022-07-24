@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_transition_glasses_reading",
+  "fg": [
+    "transition_glasses_reading"
+  ],
+  "bg": [],
+  "rotates": false
+}

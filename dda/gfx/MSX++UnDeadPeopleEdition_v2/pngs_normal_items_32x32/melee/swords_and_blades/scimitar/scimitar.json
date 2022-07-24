@@ -1,0 +1,10 @@
+{
+  "id": "scimitar",
+  "fg": [
+    "scimitar"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

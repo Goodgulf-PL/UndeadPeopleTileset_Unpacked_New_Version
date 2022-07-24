@@ -1,0 +1,10 @@
+{
+  "id": "steyr_aug",
+  "fg": [
+    "steyr_aug"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

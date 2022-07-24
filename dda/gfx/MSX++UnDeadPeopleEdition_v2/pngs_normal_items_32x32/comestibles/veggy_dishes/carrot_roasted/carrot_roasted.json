@@ -1,0 +1,10 @@
+{
+  "id": "carrot_roasted",
+  "fg": [
+    "carrot_roasted"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

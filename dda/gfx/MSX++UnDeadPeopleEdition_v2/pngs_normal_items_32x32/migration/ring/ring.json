@@ -1,0 +1,9 @@
+{
+  "id": "ring",
+  "fg": [
+    "ring"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

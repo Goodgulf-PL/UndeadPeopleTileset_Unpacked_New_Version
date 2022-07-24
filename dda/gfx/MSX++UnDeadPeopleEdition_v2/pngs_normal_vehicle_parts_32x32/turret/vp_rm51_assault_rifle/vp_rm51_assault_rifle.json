@@ -1,0 +1,18 @@
+{
+  "id": "vp_rm51_assault_rifle",
+  "fg": [
+    "vp_rm51_assault_rifle"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_rm51_assault_rifle_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mask_hockey",
+  "fg": [
+    "mask_hockey"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

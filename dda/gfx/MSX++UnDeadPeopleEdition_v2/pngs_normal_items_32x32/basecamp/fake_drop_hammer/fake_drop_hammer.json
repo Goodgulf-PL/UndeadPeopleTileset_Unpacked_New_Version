@@ -1,0 +1,10 @@
+{
+  "id": "fake_drop_hammer",
+  "fg": [
+    "fake_drop_hammer"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

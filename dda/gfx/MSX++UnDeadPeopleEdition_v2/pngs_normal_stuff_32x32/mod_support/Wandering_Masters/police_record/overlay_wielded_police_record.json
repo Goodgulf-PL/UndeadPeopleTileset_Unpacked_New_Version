@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_police_record",
+  "fg": [
+    "police_record"
+  ],
+  "bg": [],
+  "rotates": false
+}

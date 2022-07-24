@@ -1,0 +1,10 @@
+{
+  "id": "coconut",
+  "fg": [
+    "coconut"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

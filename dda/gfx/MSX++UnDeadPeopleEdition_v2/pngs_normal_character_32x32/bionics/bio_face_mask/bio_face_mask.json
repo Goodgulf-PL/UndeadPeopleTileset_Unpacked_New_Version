@@ -1,0 +1,8 @@
+{
+  "id": "bio_face_mask",
+  "fg": [
+    "cbm_temp"
+  ],
+  "bg": [],
+  "rotates": false
+}

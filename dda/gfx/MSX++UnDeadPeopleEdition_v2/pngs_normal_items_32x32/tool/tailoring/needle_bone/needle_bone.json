@@ -1,0 +1,10 @@
+{
+  "id": "needle_bone",
+  "fg": [
+    "needle_bone"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

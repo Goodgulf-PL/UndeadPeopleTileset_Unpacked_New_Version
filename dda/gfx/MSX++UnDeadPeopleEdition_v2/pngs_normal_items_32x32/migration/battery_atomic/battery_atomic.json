@@ -1,0 +1,9 @@
+{
+  "id": "battery_atomic",
+  "fg": [
+    "battery_atomic"
+  ],
+  "bg": [
+    "scrambler_act"
+  ]
+}

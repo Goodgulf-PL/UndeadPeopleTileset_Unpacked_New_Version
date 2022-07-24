@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_gun_module",
+  "fg": [
+    "gun_module"
+  ],
+  "bg": [],
+  "rotates": false
+}

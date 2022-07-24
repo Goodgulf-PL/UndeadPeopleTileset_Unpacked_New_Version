@@ -1,0 +1,10 @@
+{
+  "id": "mon_gasbomb_hack",
+  "fg": [
+    "mon_gasbomb_hack"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

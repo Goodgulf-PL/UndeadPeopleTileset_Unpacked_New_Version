@@ -1,0 +1,10 @@
+{
+  "id": "gasoline_lantern",
+  "fg": [
+    "gasoline_lantern"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

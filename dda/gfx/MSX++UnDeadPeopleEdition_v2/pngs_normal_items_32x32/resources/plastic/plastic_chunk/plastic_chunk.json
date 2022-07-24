@@ -1,0 +1,10 @@
+{
+  "id": "plastic_chunk",
+  "fg": [
+    "plastic_chunk"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

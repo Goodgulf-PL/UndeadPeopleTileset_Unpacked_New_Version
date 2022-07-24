@@ -1,0 +1,20 @@
+{
+  "id": "overlay_wielded_molotov_lit",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "overlay_wielded_molotov_lit_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_wielded_molotov_lit_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_wielded_molotov_lit_3"
+    }
+  ],
+  "bg": [],
+  "animated": true,
+  "rotates": false
+}

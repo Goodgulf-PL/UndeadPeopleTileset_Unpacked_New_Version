@@ -1,0 +1,10 @@
+{
+  "id": "arrow_cf",
+  "fg": [
+    "arrow_cf"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

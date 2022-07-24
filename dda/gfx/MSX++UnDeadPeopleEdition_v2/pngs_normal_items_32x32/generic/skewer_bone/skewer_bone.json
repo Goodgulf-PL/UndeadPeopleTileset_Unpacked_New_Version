@@ -1,0 +1,10 @@
+{
+  "id": "skewer_bone",
+  "fg": [
+    "skewer_bone"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

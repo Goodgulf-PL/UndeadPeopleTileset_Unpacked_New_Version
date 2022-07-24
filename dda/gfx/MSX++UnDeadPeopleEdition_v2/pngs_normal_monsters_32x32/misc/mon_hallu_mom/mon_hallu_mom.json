@@ -1,0 +1,10 @@
+{
+  "id": "mon_hallu_mom",
+  "fg": [
+    "mon_hallu_mom"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

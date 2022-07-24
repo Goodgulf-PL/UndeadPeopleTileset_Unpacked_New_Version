@@ -1,0 +1,8 @@
+{
+  "id": "irradiated_rose_hips",
+  "fg": [
+    "rose_hips"
+  ],
+  "bg": ["bg_irradiated"],
+  "rotates": false
+}

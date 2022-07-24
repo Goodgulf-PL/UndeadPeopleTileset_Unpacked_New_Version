@@ -1,0 +1,29 @@
+{
+  "id": "mon_zombie_runner",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_runner_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_runner_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_runner_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_runner_4"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_runner_5"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

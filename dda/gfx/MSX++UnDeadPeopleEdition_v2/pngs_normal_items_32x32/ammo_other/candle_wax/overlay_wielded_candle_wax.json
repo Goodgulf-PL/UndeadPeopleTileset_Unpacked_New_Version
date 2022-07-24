@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_candle_wax",
+  "fg": [
+    "candle_wax"
+  ],
+  "bg": [],
+  "rotates": false
+}

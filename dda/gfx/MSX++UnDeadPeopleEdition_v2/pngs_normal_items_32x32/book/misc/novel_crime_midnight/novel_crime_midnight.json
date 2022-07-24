@@ -1,0 +1,10 @@
+{
+  "id": "novel_crime_midnight",
+  "fg": [
+    "story_book"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

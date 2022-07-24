@@ -1,0 +1,10 @@
+{
+  "id": "mon_exodii_quad",
+  "fg": [
+    "mon_exodii_quad"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "irradiated_lettuce",
+  "fg": [
+    "lettuce"
+  ],
+  "bg": ["bg_irradiated"],
+  "rotates": false
+}

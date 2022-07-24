@@ -1,0 +1,10 @@
+{
+  "id": "brick",
+  "fg": [
+    "brick"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

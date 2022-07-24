@@ -1,0 +1,10 @@
+{
+  "id": "t_barndoor",
+  "fg": [
+    "t_barndoor"
+  ],
+  "bg": [
+    "bg_dirt"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": "vp_door_front",
+  "fg": [
+    "vp_door_front"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_door_front_broken"
+      ],
+      "bg": []
+    },
+	{
+      "id": "open",
+      "fg": [
+        "vp_door_front_open"
+      ],
+      "bg": ["bg_car"]
+    }
+  ]
+}

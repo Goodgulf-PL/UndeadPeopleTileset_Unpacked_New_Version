@@ -1,0 +1,10 @@
+{
+  "id": "primitive_pipebomb",
+  "fg": [
+    "pipebomb"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": "vp_h&k416a5",
+  "fg": [
+    "vp_h&k416a5"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_h&k416a5_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

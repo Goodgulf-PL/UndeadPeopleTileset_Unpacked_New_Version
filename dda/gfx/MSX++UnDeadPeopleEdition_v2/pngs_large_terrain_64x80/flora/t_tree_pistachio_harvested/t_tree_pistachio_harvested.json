@@ -1,0 +1,10 @@
+{
+  "id": "t_tree_pistachio_harvested",
+  "fg": [
+    "t_tree_pistachio_harvested"
+  ],
+  "bg": [
+    "bg_big_dirt"
+  ],
+  "rotates": false
+}

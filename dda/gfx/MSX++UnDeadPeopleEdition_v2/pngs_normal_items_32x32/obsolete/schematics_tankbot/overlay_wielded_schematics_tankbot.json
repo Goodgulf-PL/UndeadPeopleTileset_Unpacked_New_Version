@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_schematics_tankbot",
+  "fg": [
+    "schematics_tankbot"
+  ],
+  "bg": [],
+  "rotates": true
+}

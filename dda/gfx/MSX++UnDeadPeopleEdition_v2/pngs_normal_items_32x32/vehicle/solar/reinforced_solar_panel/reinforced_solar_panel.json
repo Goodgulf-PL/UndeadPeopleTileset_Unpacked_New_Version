@@ -1,0 +1,10 @@
+{
+  "id": "reinforced_solar_panel",
+  "fg": [
+    "reinforced_solar_panel"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "medium_atomic_battery_cell",
+  "fg": [
+    "medium_atomic_battery_cell"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

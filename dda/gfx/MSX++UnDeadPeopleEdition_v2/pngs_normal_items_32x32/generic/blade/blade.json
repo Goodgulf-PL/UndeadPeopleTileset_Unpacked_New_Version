@@ -1,0 +1,10 @@
+{
+  "id": "blade",
+  "fg": [
+    "blade"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

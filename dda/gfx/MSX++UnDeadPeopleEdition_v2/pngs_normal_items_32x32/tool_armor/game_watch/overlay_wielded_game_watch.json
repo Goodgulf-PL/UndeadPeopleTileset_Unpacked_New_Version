@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_game_watch",
+  "fg": [
+    "game_watch"
+  ],
+  "bg": [],
+  "rotates": false
+}

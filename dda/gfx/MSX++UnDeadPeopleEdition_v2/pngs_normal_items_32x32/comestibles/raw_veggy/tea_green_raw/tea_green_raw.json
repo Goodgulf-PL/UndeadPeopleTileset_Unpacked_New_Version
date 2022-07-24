@@ -1,0 +1,10 @@
+{
+  "id": "tea_green_raw",
+  "fg": [
+    "tea_raw"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

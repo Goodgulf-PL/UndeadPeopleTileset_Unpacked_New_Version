@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_grip_mod",
+  "fg": [
+    "grip_mod"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "atgm_launcher",
+  "fg": [
+    "atgm_launcher"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

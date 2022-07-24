@@ -1,0 +1,10 @@
+{
+  "id": "textbook_toxicology",
+  "fg": [
+    "textbook_toxicology"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

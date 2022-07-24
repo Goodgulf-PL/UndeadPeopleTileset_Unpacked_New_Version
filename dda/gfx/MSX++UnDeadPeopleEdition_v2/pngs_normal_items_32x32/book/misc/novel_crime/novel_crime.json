@@ -1,0 +1,10 @@
+{
+  "id": "novel_crime",
+  "fg": [
+    "novel_crime"
+  ],
+  "bg": [
+    "bg_book_manual"
+  ],
+  "rotates": false
+}

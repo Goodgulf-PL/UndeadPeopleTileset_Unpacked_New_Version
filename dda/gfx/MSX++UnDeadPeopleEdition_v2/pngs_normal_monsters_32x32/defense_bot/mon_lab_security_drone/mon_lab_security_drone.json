@@ -1,0 +1,38 @@
+[
+    {
+        "id": "mon_lab_security_drone_BM",
+        "fg": "mon_lab_security_drone_BM",
+        "bg": "bg_shadow_normal",
+        "rotates": false
+    },
+    {
+        "id": "mon_lab_security_drone_BM2",
+        "fg": "mon_lab_security_drone_BM2",
+        "bg": "bg_shadow_normal",
+        "rotates": false
+    },
+    {
+        "id": "mon_lab_security_drone_BS",
+        "fg": "mon_lab_security_drone_BS",
+        "bg": "bg_shadow_normal",
+        "rotates": false
+    },
+    {
+        "id": "mon_lab_security_drone_GM",
+        "fg": "mon_lab_security_drone_GM",
+        "bg": "bg_shadow_normal",
+        "rotates": false
+    },
+    {
+        "id": "mon_lab_security_drone_GR",
+        "fg": "mon_lab_security_drone_GR",
+        "bg": "bg_shadow_normal",
+        "rotates": false
+    },
+    {
+        "id": "mon_lab_security_drone_YM",
+        "fg": "mon_lab_security_drone_YM",
+        "bg": "bg_shadow_normal",
+        "rotates": false
+    }
+]

@@ -1,0 +1,10 @@
+{
+  "id": "ant_egg",
+  "fg": [
+    "ant_egg"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

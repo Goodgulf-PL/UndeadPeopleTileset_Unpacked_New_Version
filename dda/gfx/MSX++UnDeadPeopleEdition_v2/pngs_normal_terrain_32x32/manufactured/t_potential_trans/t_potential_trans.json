@@ -1,0 +1,10 @@
+{
+  "id": "t_potential_trans",
+  "fg": [
+    "t_potential_trans"
+  ],
+  "bg": [
+    "bg_cement_electro"
+  ],
+  "rotates": false
+}

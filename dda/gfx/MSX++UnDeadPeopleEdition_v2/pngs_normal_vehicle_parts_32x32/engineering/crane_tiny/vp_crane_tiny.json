@@ -1,0 +1,11 @@
+{
+  "id": "vp_crane_tiny",
+  "fg": [
+    "vp_crane_tiny"
+  ],
+  "bg": [
+    "bg_carcargo",
+    "vp_trunk"
+  ],
+  "rotates": false
+}

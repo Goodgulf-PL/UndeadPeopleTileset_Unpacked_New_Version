@@ -1,0 +1,10 @@
+{
+  "id": "tin_plate",
+  "fg": [
+    "tin_plate"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

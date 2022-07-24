@@ -1,0 +1,10 @@
+{
+  "id": "book_icef",
+  "fg": [
+    "book_icef"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "water_purifier",
+  "fg": [
+    "water_purifier"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "miner_hat",
+  "fg": [
+    "miner_hat"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_mask_bunker",
+  "fg": [
+    "mask_bunker"
+  ],
+  "bg": [],
+  "rotates": false
+}

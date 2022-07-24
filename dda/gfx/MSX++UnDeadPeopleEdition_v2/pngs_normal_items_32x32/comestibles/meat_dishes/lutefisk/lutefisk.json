@@ -1,0 +1,10 @@
+{
+  "id": "lutefisk",
+  "fg": [
+    "lutefisk"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

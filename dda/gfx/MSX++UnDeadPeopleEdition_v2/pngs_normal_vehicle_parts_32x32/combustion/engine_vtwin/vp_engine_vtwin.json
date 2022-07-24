@@ -1,0 +1,10 @@
+{
+  "id": "vp_engine_vtwin",
+  "fg": [
+    "vp_engine_vtwin"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": true
+}

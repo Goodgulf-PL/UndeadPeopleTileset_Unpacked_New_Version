@@ -1,0 +1,8 @@
+{
+  "id": "f_armchair",
+  "fg": [
+    "f_armchair_rotat_s", "f_armchair_rotat_w", "f_armchair_rotat_n", "f_armchair_rotat_e"
+  ],
+  "bg": [],
+  "rotates": true
+}

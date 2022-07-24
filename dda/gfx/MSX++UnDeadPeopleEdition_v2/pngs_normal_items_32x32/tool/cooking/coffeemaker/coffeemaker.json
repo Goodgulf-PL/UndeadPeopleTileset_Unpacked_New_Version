@@ -1,0 +1,10 @@
+{
+  "id": "coffeemaker",
+  "fg": [
+    "coffeemaker"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

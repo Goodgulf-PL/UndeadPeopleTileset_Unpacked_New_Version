@@ -1,0 +1,10 @@
+{
+  "id": "pumpkin",
+  "fg": [
+    "pumpkin"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

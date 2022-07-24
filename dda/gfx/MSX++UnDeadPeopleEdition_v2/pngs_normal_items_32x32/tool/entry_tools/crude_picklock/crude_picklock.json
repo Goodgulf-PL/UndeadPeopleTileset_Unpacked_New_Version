@@ -1,0 +1,10 @@
+{
+  "id": "crude_picklock",
+  "fg": [
+    "crude_picklock"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

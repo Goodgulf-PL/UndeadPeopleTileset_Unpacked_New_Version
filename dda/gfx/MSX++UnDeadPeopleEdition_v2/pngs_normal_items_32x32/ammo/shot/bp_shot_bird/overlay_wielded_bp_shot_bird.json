@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bp_shot_bird",
+  "fg": [
+    "bp_shot_bird"
+  ],
+  "bg": [],
+  "rotates": false
+}

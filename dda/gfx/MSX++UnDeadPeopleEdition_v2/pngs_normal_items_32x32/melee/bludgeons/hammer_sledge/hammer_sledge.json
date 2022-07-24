@@ -1,0 +1,10 @@
+{
+  "id": "hammer_sledge",
+  "fg": [
+    "hammer_sledge"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

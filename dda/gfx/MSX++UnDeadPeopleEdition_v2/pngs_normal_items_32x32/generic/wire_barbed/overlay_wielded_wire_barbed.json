@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_wire_barbed",
+  "fg": [
+    "wire_barbed"
+  ],
+  "bg": [],
+  "rotates": false
+}

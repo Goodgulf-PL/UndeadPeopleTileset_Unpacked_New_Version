@@ -1,0 +1,10 @@
+{
+  "id": "goggles_welding_forehead",
+  "fg": [
+    "goggles_welding"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

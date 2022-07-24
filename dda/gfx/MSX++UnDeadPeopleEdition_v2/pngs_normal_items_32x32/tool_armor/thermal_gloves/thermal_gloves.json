@@ -1,0 +1,10 @@
+{
+  "id": "thermal_gloves",
+  "fg": [
+    "thermal_gloves"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

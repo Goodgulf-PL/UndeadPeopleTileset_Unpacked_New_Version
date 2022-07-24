@@ -1,0 +1,18 @@
+{
+  "id": "vp_mounted_rm51_assault_rifle",
+  "fg": [
+    "vp_bg_default_turret_2"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_bg_default_turret_2_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

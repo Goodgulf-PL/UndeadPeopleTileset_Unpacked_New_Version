@@ -1,0 +1,10 @@
+{
+  "id": "mannwurst",
+  "fg": [
+    "mannwurst"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

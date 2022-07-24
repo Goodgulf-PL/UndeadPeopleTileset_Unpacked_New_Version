@@ -1,0 +1,10 @@
+{
+  "id": "t_door_white_frame",
+  "fg": [
+    "t_door_white_frame"
+  ],
+  "bg": [
+    "t_linoleum_white"
+  ],
+  "rotates": false
+}

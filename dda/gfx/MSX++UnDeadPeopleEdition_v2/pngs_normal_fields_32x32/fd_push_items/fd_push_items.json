@@ -1,0 +1,23 @@
+{
+  "id": "fd_push_items",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "fd_push_items_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_push_items_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_push_items_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_push_items_4"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

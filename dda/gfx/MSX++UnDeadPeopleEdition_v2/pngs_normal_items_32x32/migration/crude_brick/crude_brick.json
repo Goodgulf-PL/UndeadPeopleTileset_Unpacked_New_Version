@@ -1,0 +1,10 @@
+{
+  "id": "crude_brick",
+  "fg": [
+    "crude_brick"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

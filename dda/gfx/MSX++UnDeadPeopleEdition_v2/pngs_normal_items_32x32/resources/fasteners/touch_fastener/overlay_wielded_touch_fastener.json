@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_touch_fastener",
+  "fg": [
+    "touch_fastener"
+  ],
+  "bg": [],
+  "rotates": false
+}

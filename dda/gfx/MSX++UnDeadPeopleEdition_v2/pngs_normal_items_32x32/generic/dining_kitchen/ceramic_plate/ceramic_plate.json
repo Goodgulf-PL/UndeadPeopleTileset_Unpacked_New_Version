@@ -1,0 +1,10 @@
+{
+  "id": "ceramic_plate",
+  "fg": [
+    "ceramic_plate"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

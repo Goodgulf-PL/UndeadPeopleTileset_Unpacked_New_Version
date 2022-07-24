@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_char_purifier",
+  "fg": [
+    "char_purifier"
+  ],
+  "bg": [],
+  "rotates": false
+}

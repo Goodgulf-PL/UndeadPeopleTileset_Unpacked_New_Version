@@ -1,0 +1,10 @@
+{
+  "id": "lead_laser_sight",
+  "fg": [
+    "lead_laser_sight"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

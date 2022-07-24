@@ -1,0 +1,8 @@
+{
+  "id": "battleship",
+  "fg": [
+    "battleship"
+  ],
+  "bg": [],
+  "rotates": false
+}

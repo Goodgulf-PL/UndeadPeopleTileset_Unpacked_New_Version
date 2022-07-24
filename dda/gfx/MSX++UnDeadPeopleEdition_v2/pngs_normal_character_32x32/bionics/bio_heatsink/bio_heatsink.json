@@ -1,0 +1,8 @@
+{
+  "id": "bio_heatsink",
+  "fg": [
+    "cbm_temp"
+  ],
+  "bg": [],
+  "rotates": false
+}

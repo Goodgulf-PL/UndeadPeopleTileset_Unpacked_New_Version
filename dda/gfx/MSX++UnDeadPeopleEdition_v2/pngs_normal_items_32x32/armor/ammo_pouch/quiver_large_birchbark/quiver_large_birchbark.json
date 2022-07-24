@@ -1,0 +1,10 @@
+{
+  "id": "quiver_large_birchbark",
+  "fg": [
+    "quiver_large_birchbark"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

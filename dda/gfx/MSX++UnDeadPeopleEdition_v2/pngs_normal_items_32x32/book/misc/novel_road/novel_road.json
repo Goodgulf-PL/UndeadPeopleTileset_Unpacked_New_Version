@@ -1,0 +1,10 @@
+{
+  "id": "novel_road",
+  "fg": [
+    "novel_road"
+  ],
+  "bg": [
+    "bg_book_manual"
+  ],
+  "rotates": false
+}

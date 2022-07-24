@@ -1,0 +1,10 @@
+{
+  "id": "textbook_gaswarfare",
+  "fg": [
+    "textbook_gaswarfare"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

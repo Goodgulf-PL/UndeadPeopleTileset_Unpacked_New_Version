@@ -1,0 +1,16 @@
+{
+  "id": "mon_crows_m240_ml",
+  "fg": [
+    {
+      "weight": 100,
+      "sprite": "mon_crows_m240_1"
+    },
+    {
+      "weight": 100,
+      "sprite": "mon_crows_m240_2"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}

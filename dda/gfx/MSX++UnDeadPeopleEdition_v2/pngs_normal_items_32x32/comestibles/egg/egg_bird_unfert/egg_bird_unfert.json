@@ -1,0 +1,10 @@
+{
+  "id": "egg_bird_unfert",
+  "fg": [
+    "egg_bird"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

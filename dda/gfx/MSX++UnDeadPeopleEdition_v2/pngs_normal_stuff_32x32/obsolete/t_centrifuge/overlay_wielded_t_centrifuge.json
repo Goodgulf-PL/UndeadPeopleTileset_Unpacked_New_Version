@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_t_centrifuge",
+  "fg": [
+    "t_centrifuge"
+  ],
+  "bg": [],
+  "rotates": false
+}

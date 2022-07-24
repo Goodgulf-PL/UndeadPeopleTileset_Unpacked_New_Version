@@ -1,0 +1,10 @@
+{
+  "id": "novel_war",
+  "fg": [
+    "novel_war"
+  ],
+  "bg": [
+    "bg_book_manual"
+  ],
+  "rotates": false
+}

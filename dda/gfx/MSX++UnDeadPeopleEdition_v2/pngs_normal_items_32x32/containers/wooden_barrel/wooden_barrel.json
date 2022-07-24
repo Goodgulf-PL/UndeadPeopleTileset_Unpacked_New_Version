@@ -1,0 +1,10 @@
+{
+  "id": "wooden_barrel",
+  "fg": [
+    "wooden_barrel"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

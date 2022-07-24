@@ -1,0 +1,10 @@
+{
+  "id": "mon_rat_king",
+  "fg": [
+    "mon_rat_king"
+  ],
+  "bg": [
+    "bg_big_large_shadow"
+  ],
+  "rotates": false
+}

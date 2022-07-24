@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_press",
+  "fg": [
+    "press"
+  ],
+  "bg": [],
+  "rotates": false
+}

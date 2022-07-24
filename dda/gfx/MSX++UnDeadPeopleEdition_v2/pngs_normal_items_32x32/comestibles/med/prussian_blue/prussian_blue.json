@@ -1,0 +1,10 @@
+{
+  "id": "prussian_blue",
+  "fg": [
+    "prussian_blue"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

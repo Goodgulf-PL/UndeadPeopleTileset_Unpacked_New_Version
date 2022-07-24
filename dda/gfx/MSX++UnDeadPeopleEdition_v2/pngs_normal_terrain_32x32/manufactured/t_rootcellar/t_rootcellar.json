@@ -1,0 +1,10 @@
+{
+  "id": "t_rootcellar",
+  "fg": [
+    "t_rootcellar"
+  ],
+  "bg": [
+    "bg_dirt"
+  ],
+  "rotates": false
+}

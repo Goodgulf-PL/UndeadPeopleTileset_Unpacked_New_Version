@@ -1,0 +1,10 @@
+{
+  "id": "software_hacking",
+  "fg": [
+    "software_hacking"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

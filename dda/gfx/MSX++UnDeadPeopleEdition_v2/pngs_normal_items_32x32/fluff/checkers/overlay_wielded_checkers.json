@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_checkers",
+  "fg": [
+    "checkers"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "small_storage_battery",
+  "fg": [
+    "small_storage_battery"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "rifle_scope",
+  "fg": [
+    "rifle_scope"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

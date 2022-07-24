@@ -1,0 +1,49 @@
+{
+  "id": "mon_zombie_scientist",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_scientist_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_scientist_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_scientist_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_scientist_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_scientist_5"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_scientist_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_scientist_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_scientist_8"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_scientist_9"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_scientist_10"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

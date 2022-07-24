@@ -1,0 +1,18 @@
+{
+  "id": "vp_bg_default_turret_4",
+  "fg": [
+    "vp_bg_default_turret_4"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_bg_default_turret_4_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

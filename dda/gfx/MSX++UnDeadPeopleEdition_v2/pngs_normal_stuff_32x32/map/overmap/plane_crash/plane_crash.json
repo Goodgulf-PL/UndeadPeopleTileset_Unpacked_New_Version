@@ -1,0 +1,73 @@
+[
+    {
+        "id": [
+            "airliner_1a",
+            "airliner_2a",
+            "airliner_3a",
+            "airliner_1f",
+            "airliner_1g",
+            "airliner_1i",
+            "airliner_1j",
+            "airliner_3j",
+            "airliner_3h",
+            "airliner_3g"
+        ],
+        "fg": [
+            "bg_grass"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": [
+            "airliner_1b",
+            "airliner_3b",
+            "airliner_1c",
+            "airliner_2b",
+            "airliner_2c",
+            "airliner_3c",
+            "airliner_1d",
+            "airliner_2d",
+            "airliner_3d",
+            "airliner_1e",
+            "airliner_2e",
+            "airliner_3e",
+            "airliner_2f",
+            "airliner_3f",
+            "airliner_2g",
+            "airliner_1h",
+            "airliner_2h",
+            "airliner_2i",
+            "airliner_3i",
+            "airliner_2j",
+            "airliner_2b_-1",
+            "airliner_2b_1"
+        ],
+        "fg": [
+            "airliner_debris"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": [
+            "airliner_2a_1",
+            "airliner_2c_1"
+        ],
+        "fg": [
+            "open_air"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": [
+            "airliner_2c_-1"
+        ],
+        "fg": [
+            "empty_rock"
+        ],
+        "bg": [],
+        "rotates": false
+    }
+]

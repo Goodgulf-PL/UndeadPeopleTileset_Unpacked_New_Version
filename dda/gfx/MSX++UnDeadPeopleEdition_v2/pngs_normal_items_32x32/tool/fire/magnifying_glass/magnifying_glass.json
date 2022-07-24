@@ -1,0 +1,10 @@
+{
+  "id": "magnifying_glass",
+  "fg": [
+    "magnifying_glass"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "t_tarptent",
+  "fg": [
+    "t_tarptent"
+  ],
+  "bg": [
+    "bg_dirt"
+  ],
+  "rotates": false
+}

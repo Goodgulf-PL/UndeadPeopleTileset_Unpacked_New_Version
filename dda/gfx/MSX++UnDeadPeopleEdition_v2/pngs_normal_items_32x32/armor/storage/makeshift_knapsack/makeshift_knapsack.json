@@ -1,0 +1,9 @@
+{
+  "id": "makeshift_knapsack",
+  "fg": [
+    "makeshift_knapsack"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

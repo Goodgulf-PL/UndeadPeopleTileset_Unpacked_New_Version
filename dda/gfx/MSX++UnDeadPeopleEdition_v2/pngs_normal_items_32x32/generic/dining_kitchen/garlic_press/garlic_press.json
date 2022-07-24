@@ -1,0 +1,10 @@
+{
+  "id": "garlic_press",
+  "fg": [
+    "garlic_press"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

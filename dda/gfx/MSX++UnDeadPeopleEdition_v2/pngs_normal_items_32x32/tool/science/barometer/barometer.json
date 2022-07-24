@@ -1,0 +1,10 @@
+{
+  "id": "barometer",
+  "fg": [
+    "barometer"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

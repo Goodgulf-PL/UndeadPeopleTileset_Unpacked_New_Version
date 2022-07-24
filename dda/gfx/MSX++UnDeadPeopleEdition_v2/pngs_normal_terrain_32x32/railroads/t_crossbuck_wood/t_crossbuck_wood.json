@@ -1,0 +1,10 @@
+{
+  "id": "t_crossbuck_wood",
+  "fg": [
+    "t_crossbuck_wood"
+  ],
+  "bg": [
+    "bg_dirt"
+  ],
+  "rotates": false
+}

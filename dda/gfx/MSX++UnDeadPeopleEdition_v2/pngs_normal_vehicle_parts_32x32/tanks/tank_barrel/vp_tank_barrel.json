@@ -1,0 +1,8 @@
+{
+  "id": "vp_tank_barrel",
+  "fg": [
+    "vp_tank_barrel"
+  ],
+  "bg": ["bg_car"],
+  "rotates": false
+}

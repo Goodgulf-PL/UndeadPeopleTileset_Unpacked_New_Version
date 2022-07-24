@@ -1,0 +1,10 @@
+{
+  "id": "101_carpentry",
+  "fg": [
+    "101_carpentry"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,53 @@
+{
+  "id": "f_food_irradiator_casing",
+  "fg": [
+    "f_food_irradiator_casing"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "corner",
+      "fg": [
+        "f_food_irradiator_casing_corner"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_food_irradiator_casing_t_connection"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_food_irradiator_casing_end_piece"
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_food_irradiator_casing_unconnected"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_food_irradiator_casing_edge"
+      ],
+      "bg": []
+    },
+    {
+      "id": "center",
+      "fg": [
+        "f_food_irradiator_casing_center"
+      ],
+      "bg": []
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_spring_plate",
+  "fg": [
+    "spring_plate"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "dry_fruit",
+  "fg": [
+    "dry_fruit"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

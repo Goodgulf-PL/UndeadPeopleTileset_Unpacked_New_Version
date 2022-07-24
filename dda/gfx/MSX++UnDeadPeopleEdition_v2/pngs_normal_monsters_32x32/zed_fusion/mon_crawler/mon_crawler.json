@@ -1,0 +1,10 @@
+{
+  "id": "mon_crawler",
+  "fg": [
+    "mon_crawler"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

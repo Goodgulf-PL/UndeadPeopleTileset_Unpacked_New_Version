@@ -1,0 +1,10 @@
+{
+  "id": "software_lab_data",
+  "fg": [
+    "software_lab_data"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

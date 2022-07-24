@@ -1,0 +1,18 @@
+{
+  "id": "vp_mounted_hk_g80",
+  "fg": [
+    "vp_mounted_hk_g80"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_mounted_hk_g80_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

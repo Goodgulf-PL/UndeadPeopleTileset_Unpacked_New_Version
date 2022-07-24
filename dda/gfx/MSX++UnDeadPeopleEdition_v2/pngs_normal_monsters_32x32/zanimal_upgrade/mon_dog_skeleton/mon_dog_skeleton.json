@@ -1,0 +1,10 @@
+{
+  "id": "mon_dog_skeleton",
+  "fg": [
+    "mon_dog_skeleton"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

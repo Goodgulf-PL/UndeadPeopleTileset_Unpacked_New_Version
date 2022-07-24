@@ -1,0 +1,10 @@
+{
+  "id": "blowback",
+  "fg": [
+    "blowback"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

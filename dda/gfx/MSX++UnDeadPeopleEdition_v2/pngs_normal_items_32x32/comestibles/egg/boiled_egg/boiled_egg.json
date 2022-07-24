@@ -1,0 +1,10 @@
+{
+  "id": "boiled_egg",
+  "fg": [
+    "boiled_egg"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

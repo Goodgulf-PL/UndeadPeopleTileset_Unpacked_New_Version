@@ -1,0 +1,10 @@
+{
+  "id": "vp_minireactor",
+  "fg": [
+    "vp_minireactor"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

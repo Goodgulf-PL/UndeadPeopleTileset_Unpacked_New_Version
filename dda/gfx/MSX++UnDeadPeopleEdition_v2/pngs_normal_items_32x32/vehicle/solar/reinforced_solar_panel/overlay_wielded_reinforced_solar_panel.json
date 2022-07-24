@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_reinforced_solar_panel",
+  "fg": [
+    "reinforced_solar_panel"
+  ],
+  "bg": [],
+  "rotates": false
+}

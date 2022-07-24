@@ -1,0 +1,91 @@
+[
+    {
+        "id": [
+            "lab_stairs",
+            "ice_lab_stairs"
+        ],
+        "fg": [
+            "lab_stairs"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": "microlab_generic_surface",
+        "fg": [
+            "microlab_generic_surface"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": [
+            "central_lab",
+            "lab"
+        ],
+        "fg": [
+            "lab"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": [
+            "lab_finale",
+            "central_lab_finale"
+        ],
+        "fg": [
+            "lab_finale"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": [
+            "lab_train_depot",
+            "microlab_generic_sub_entry",
+            "microlab_sub_station"
+        ],
+        "fg": [
+            "lab_train_depot"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": [
+            "microlab_generic",
+            "microlab_generic_hallway_start",
+            "microlab_generic_firebreak",
+            "microlab_generic_hallway"
+        ],
+        "fg": [
+            "microlab_generic"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": [
+            "microlab_generic_stairs_down",
+            "microlab_generic_isolated_stairs_odd",
+            "central_lab_stairs"
+        ],
+        "fg": [
+            "central_lab_stairs"
+        ],
+        "bg": [],
+        "rotates": false
+    },
+    {
+        "id": [
+            "central_lab_core",
+            "lab_core"
+        ],
+        "fg": [
+            "central_lab_core"
+        ],
+        "bg": [],
+        "rotates": false
+    }
+]

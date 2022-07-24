@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_can_spam",
+  "fg": [
+    "can_spam"
+  ],
+  "bg": [],
+  "rotates": false
+}

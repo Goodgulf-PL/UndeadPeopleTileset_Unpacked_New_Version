@@ -1,0 +1,10 @@
+{
+  "id": "cargo_aisle",
+  "fg": [
+    "cargo_aisle"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

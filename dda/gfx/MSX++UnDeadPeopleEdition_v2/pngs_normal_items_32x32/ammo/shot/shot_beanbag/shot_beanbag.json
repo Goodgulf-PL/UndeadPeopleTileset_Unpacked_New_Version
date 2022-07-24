@@ -1,0 +1,10 @@
+{
+  "id": "shot_beanbag",
+  "fg": [
+    "shot_beanbag"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

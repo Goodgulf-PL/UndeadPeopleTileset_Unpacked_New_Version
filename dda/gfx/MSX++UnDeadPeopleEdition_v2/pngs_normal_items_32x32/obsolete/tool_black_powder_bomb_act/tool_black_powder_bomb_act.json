@@ -1,0 +1,10 @@
+{
+  "id": "tool_black_powder_bomb_act",
+  "fg": [
+    "tool_black_powder_bomb_act"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

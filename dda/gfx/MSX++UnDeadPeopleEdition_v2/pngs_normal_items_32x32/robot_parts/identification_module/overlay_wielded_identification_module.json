@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_identification_module",
+  "fg": [
+    "identification_module"
+  ],
+  "bg": [],
+  "rotates": false
+}

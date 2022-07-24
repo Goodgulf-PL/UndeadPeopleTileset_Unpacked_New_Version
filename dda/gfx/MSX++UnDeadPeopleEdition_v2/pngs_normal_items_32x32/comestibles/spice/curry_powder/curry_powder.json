@@ -1,0 +1,10 @@
+{
+  "id": "curry_powder",
+  "fg": [
+    "curry_powder"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

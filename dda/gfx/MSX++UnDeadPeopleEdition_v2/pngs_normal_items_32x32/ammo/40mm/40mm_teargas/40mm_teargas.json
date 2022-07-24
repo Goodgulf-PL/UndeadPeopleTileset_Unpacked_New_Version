@@ -1,0 +1,10 @@
+{
+  "id": "40mm_teargas",
+  "fg": [
+    "40mm_teargas"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

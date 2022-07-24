@@ -1,0 +1,10 @@
+{
+  "id": "mon_haulerbot",
+  "fg": [
+    "mon_haulerbot"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

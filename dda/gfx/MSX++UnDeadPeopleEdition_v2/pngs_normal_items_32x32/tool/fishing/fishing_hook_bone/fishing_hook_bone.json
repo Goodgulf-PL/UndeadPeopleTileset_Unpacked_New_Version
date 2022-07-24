@@ -1,0 +1,10 @@
+{
+  "id": "fishing_hook_bone",
+  "fg": [
+    "fishing_hook_bone"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

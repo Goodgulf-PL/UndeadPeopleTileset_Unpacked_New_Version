@@ -1,0 +1,10 @@
+{
+  "id": "mon_zoose_thorny",
+  "fg": [
+    "mon_zoose_thorny"
+  ],
+  "bg": [
+    "bg_big_large_shadow"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cannon_shot",
+  "fg": [
+    "cannon_shot"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

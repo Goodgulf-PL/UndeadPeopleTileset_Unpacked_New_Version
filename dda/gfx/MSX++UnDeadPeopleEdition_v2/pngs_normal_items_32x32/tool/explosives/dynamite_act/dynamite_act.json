@@ -1,0 +1,10 @@
+{
+  "id": "dynamite_act",
+  "fg": [
+    "dynamite_act"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

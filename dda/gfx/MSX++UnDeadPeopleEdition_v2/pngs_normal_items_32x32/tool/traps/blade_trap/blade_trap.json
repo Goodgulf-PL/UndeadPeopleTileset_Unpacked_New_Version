@@ -1,0 +1,10 @@
+{
+  "id": "blade_trap",
+  "fg": [
+    "blade_trap"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

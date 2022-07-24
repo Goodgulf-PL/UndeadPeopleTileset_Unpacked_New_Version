@@ -1,0 +1,8 @@
+{
+  "id": "standing_floodlight",
+  "fg": [
+    "standing_floodlight"
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

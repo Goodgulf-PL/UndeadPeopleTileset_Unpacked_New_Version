@@ -1,0 +1,10 @@
+{
+  "id": "razor_blade",
+  "fg": [
+    "razor_blade"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

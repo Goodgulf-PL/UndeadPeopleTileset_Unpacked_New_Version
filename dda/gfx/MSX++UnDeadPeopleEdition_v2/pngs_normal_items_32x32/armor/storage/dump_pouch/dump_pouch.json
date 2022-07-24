@@ -1,0 +1,9 @@
+{
+  "id": "dump_pouch",
+  "fg": [
+    "dump_pouch"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

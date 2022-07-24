@@ -1,0 +1,10 @@
+{
+  "id": "v6_combustion",
+  "fg": [
+    "v6_combustion"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

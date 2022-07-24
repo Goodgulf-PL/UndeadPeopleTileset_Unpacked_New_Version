@@ -1,0 +1,10 @@
+{
+  "id": "vp_engine_turbine_small",
+  "fg": [
+    "vp_engine_turbine_small"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

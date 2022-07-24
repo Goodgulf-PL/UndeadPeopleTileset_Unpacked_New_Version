@@ -1,0 +1,10 @@
+{
+  "id": "mon_reindeer_fawn",
+  "fg": [
+    "mon_reindeer_fawn"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

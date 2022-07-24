@@ -1,0 +1,10 @@
+{
+  "id": "broken_turret_riot",
+  "fg": [
+    "broken_turret_riot"
+  ],
+  "bg": [
+    "bg_shadow_turret_offset"
+  ],
+  "rotates": true
+}

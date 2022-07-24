@@ -1,0 +1,10 @@
+{
+  "id": "overlay_wielded_wheel_rail",
+  "fg": [
+    "overlay_wielded_wheel_rail"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

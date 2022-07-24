@@ -1,0 +1,7 @@
+{
+  "id": "vp_tank_little",
+  "fg": [
+    "vp_tank_little"
+  ],
+  "bg": ["bg_car"]
+}

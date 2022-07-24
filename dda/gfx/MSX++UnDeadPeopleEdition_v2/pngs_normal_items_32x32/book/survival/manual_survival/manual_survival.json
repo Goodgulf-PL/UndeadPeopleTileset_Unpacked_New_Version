@@ -1,0 +1,10 @@
+{
+  "id": "manual_survival",
+  "fg": [
+    "manual_survival"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

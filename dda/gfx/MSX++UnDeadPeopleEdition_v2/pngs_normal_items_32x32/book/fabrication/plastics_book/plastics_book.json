@@ -1,0 +1,10 @@
+{
+  "id": "plastics_book",
+  "fg": [
+    "plastics_book"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

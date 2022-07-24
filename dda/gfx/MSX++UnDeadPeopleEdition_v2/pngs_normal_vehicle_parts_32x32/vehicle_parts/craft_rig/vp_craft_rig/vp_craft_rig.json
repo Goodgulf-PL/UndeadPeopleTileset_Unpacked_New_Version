@@ -1,0 +1,22 @@
+{
+  "id": "vp_craft_rig",
+  "fg": [
+    "vp_craft_rig"
+  ],
+  "bg": [
+    "bg_car"
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_craft_rig_broken"
+      ],
+      "bg": [
+        "vp_craft_rig"
+      ]
+    }
+  ]
+}

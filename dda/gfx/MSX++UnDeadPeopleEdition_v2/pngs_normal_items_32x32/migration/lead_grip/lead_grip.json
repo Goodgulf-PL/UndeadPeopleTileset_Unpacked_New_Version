@@ -1,0 +1,10 @@
+{
+  "id": "lead_grip",
+  "fg": [
+    "lead_grip"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

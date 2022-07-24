@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_geiger_on",
+  "fg": [
+    "geiger_on"
+  ],
+  "bg": [],
+  "rotates": false
+}

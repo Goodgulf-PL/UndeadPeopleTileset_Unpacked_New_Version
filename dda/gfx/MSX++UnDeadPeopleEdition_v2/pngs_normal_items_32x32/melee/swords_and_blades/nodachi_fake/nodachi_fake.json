@@ -1,0 +1,10 @@
+{
+  "id": "nodachi_fake",
+  "fg": [
+    "nodachi_fake"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "t_crossbuck_metal_season_winter",
+  "fg": [
+    "t_crossbuck_metal"
+  ],
+  "bg": [
+    "bg_dirt_season_winter"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "transponder",
+  "fg": [
+    "transponder"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

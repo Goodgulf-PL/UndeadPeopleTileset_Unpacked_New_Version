@@ -1,0 +1,10 @@
+{
+  "id": "etched_skull",
+  "fg": [
+    "etched_skull"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "aluminumbattletorch_lit",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "aluminumbattletorch_lit_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "aluminumbattletorch_lit_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "aluminumbattletorch_lit_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "aluminumbattletorch_lit_4"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

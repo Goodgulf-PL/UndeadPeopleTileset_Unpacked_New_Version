@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_pot_makeshift",
+  "fg": [
+    "pot_makeshift"
+  ],
+  "bg": [],
+  "rotates": false
+}

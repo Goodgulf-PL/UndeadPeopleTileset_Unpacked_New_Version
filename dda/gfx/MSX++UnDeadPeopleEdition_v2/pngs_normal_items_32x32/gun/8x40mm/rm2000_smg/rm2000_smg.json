@@ -1,0 +1,10 @@
+{
+  "id": "rm2000_smg",
+  "fg": [
+    "rm2000_smg"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

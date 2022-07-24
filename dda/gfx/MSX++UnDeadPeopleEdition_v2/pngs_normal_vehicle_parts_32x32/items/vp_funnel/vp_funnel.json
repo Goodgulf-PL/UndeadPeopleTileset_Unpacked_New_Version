@@ -1,0 +1,18 @@
+{
+  "id": "vp_funnel",
+  "fg": [
+    "vp_funnel"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_funnel_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

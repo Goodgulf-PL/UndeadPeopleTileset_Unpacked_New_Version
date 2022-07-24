@@ -1,0 +1,10 @@
+{
+  "id": "wearable_light",
+  "fg": [
+    "wearable_light"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

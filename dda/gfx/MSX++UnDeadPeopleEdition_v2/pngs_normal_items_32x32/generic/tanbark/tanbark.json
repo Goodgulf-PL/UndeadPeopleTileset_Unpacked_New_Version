@@ -1,0 +1,10 @@
+{
+  "id": "tanbark",
+  "fg": [
+    "tanbark"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

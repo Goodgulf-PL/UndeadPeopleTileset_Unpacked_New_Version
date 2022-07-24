@@ -1,0 +1,73 @@
+{
+  "id": "mon_zombie_dancer",
+  "fg": [
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_dancer_1"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_dancer_2"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_dancer_3"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_dancer_4"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_dancer_5"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_dancer_6"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_dancer_7"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_dancer_8"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_dancer_9"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_dancer_10"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_dancer_11"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_dancer_12"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_dancer_13"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_dancer_14"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_dancer_15"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_dancer_16"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": "tr_drain",
+  "fg": [
+    "tr_drain"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "tr_drain_center"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "tr_drain_t_connection"
+      ],
+      "bg": []
+    }
+  ]
+}

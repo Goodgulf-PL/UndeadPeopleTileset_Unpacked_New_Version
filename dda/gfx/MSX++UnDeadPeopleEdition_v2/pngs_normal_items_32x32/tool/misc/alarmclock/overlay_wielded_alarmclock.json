@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_alarmclock",
+  "fg": [
+    "alarmclock"
+  ],
+  "bg": [],
+  "rotates": false
+}

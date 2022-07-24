@@ -1,0 +1,10 @@
+{
+  "id": "ref_lighter",
+  "fg": [
+    "ref_lighter"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

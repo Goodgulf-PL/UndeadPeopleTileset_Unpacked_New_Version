@@ -1,0 +1,20 @@
+{
+  "id": "vp_folding_seat",
+  "fg": [
+    "vp_folding_seat"
+  ],
+  "bg": [
+    "bg_car"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_folding_seat_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

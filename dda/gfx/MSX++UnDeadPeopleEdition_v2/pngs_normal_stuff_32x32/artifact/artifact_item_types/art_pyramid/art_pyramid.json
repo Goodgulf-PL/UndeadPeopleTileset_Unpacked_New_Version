@@ -1,0 +1,31 @@
+{
+  "id": "art_pyramid",
+  "fg": [
+    {
+      "weight": 100,
+      "sprite": "art_pyramid_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_pyramid_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_pyramid_3"
+    },   
+	{
+      "weight": 100,
+      "sprite": "art_pyramid_4"
+    },   
+	{
+      "weight": 10,
+      "sprite": "art_pyramid_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "art_pyramid_2"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

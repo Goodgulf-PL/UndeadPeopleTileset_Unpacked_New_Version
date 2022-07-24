@@ -1,0 +1,16 @@
+[{
+  "id": ["sub_station"],
+  "fg": ["sub_station"],
+  "bg": [],
+  "rotates": false
+},{
+  "id": ["sewer_sub_station"],
+  "fg": ["sewer_sub_station"],
+  "bg": [],
+  "rotates": false
+},{
+  "id": ["underground_sub_station"],
+  "fg": ["underground_sub_station"],
+  "bg": [],
+  "rotates": false
+}]

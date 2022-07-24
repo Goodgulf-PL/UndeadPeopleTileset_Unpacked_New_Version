@@ -1,0 +1,26 @@
+{
+  "id": "mon_amigara_horror",
+  "fg": [
+        {
+          "weight": 30,
+          "sprite": "mon_amigara_horror_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "mon_amigara_horror_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "mon_amigara_horror_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "mon_amigara_horror_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "mon_amigara_horror_5"
+        }],
+  "bg": [],
+  "rotates": false
+}

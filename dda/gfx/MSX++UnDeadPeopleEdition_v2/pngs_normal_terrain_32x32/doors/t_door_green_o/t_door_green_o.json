@@ -1,0 +1,8 @@
+{
+  "id": "t_door_green_o",
+  "fg": [
+    "t_door_green_o"
+  ],
+  "bg": ["bg_t_floor"],
+  "rotates": false
+}

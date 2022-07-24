@@ -1,0 +1,18 @@
+{
+  "id": "vp_cloth_halfboard_horizontal_2",
+  "fg": [
+    "vp_cloth_halfboard_horizontal_2"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_cloth_halfboard_horizontal_2_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

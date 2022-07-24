@@ -1,0 +1,10 @@
+{
+  "id": "rm451_flamethrower",
+  "fg": [
+    "rm451_flamethrower"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": ["f_gridwelder", "fake_gridwelder"],
+  "fg": [
+    "f_gridwelder"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_p_paint",
+  "fg": [
+    "p_paint"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "vp_hdframe_cover",
+  "fg": [
+    "vp_hdframe_cover"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_hdframe_cover_broken"
+      ],
+      "bg": [
+        "vp_hdframe_cover"
+      ]
+    }
+  ]
+}

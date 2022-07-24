@@ -1,0 +1,10 @@
+{
+  "id": "press",
+  "fg": [
+    "press"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

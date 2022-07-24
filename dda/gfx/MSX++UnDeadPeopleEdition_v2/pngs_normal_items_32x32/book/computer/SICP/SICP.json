@@ -1,0 +1,10 @@
+{
+  "id": "SICP",
+  "fg": [
+    "SICP"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

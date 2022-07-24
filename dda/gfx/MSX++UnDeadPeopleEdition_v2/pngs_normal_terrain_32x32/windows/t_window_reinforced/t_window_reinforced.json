@@ -1,0 +1,10 @@
+{
+  "id": "t_window_reinforced",
+  "fg": [
+    "t_window_reinforced"
+  ],
+  "bg": [
+    "bg_t_floor"
+  ],
+  "rotates": false
+}

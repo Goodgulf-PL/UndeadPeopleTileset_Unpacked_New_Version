@@ -1,0 +1,10 @@
+{
+  "id": "improve_sights",
+  "fg": [
+    "improve_sights"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

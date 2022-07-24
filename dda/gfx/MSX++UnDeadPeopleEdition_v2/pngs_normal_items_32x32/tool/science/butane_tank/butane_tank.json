@@ -1,0 +1,9 @@
+{
+  "id": "butane_tank",
+  "fg": [
+    "butane_tank"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

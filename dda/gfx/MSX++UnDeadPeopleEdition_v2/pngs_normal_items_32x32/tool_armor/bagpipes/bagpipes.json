@@ -1,0 +1,10 @@
+{
+  "id": "bagpipes",
+  "fg": [
+    "bagpipes"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

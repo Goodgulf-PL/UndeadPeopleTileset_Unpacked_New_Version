@@ -1,0 +1,122 @@
+{
+  "id": "t_floor_olight",
+  "fg": [
+    "olight"
+  ],
+  "bg": [
+    "t_floor"
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": ["olight"],
+      "bg": [
+        {
+          "weight": 999,
+          "sprite": "t_floor_center_1"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_center_2"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_center_3"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_center_4"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_center_5"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_center_6"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_center_7"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_center_8"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_center_9"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_center_10"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_center_11"
+        },
+        {
+          "weight": 1,
+          "sprite": "t_floor_center_12"
+        }
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+    "olight"
+  ],
+      "bg": [
+        "t_floor_corner_1",
+        "t_floor_corner_2",
+        "t_floor_corner_3",
+        "t_floor_corner_4"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+    "olight"
+  ],
+      "bg": [
+        "t_floor_t_connection_1",
+        "t_floor_t_connection_2",
+        "t_floor_t_connection_3",
+        "t_floor_t_connection_4"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+    "olight"
+  ],
+      "bg": [
+        "t_floor_edge_1",
+        "t_floor_edge_2"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+    "olight"
+  ],
+      "bg": [
+        "t_floor_end_piece_1",
+        "t_floor_end_piece_2",
+        "t_floor_end_piece_3",
+        "t_floor_end_piece_4"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+    "olight"
+  ],
+      "bg": [
+        "t_floor_unconnected"
+      ]
+    }
+  ]
+}

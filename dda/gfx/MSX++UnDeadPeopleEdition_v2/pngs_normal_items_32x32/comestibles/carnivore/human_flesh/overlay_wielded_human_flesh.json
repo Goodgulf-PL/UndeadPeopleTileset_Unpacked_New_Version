@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_human_flesh",
+  "fg": [
+    "human_flesh"
+  ],
+  "bg": [],
+  "rotates": true
+}

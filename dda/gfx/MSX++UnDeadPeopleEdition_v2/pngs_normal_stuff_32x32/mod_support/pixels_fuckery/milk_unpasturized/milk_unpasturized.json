@@ -1,0 +1,9 @@
+{
+  "id": "milk_unpasturized",
+  "fg": [
+    "milk"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

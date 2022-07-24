@@ -1,0 +1,7 @@
+{
+  "id": "t_wall_wood_broken",
+  "fg": [
+    "t_wall_wood_broken"
+  ],
+  "bg": ["bg_dirt"]
+}

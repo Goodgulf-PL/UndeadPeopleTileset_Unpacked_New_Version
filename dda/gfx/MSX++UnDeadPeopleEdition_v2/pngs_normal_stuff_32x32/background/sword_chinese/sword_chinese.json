@@ -1,0 +1,10 @@
+{
+  "id": "sword_chinese",
+  "fg": [
+    "sword_chinese"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "meal_chitin_piece",
+  "fg": [
+    "meal_chitin_piece"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

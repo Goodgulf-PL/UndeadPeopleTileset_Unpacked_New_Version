@@ -1,0 +1,10 @@
+{
+  "id": "overlay_wielded_cactus_pad",
+  "fg": [
+    "overlay_wielded_cactus_pad"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

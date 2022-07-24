@@ -1,0 +1,10 @@
+{
+  "id": "hat_chef",
+  "fg": [
+    "hat_chef"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

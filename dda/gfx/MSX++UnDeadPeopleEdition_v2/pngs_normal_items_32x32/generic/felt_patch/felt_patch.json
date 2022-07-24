@@ -1,0 +1,10 @@
+{
+  "id": "felt_patch",
+  "fg": [
+    "felt_patch"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

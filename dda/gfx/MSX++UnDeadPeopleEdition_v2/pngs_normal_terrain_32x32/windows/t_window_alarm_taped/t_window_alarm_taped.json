@@ -1,0 +1,10 @@
+{
+  "id": "t_window_alarm_taped",
+  "fg": [
+    "t_window_alarm_taped"
+  ],
+  "bg": [
+    "bg_t_floor"
+  ],
+  "rotates": false
+}

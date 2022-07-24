@@ -1,0 +1,10 @@
+{
+  "id": "water_faucet",
+  "fg": [
+    "water_faucet"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

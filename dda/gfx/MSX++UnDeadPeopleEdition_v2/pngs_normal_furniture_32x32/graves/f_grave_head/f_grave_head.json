@@ -1,0 +1,22 @@
+{
+  "id": "f_grave_head",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "f_grave_head_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_grave_head_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_grave_head_3"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_grave_head_4"
+    }
+  ],
+  "bg": []
+}

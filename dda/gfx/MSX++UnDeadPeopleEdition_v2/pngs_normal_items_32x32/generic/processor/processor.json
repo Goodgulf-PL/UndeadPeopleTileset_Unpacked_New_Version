@@ -1,0 +1,10 @@
+{
+  "id": "processor",
+  "fg": [
+    "processor"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

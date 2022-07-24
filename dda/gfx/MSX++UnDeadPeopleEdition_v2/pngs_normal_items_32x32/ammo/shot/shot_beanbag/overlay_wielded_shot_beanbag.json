@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_shot_beanbag",
+  "fg": [
+    "shot_beanbag"
+  ],
+  "bg": [],
+  "rotates": false
+}

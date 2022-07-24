@@ -1,0 +1,245 @@
+{
+  "id": "t_water_moving_sh",
+  "fg": [
+    "t_water_moving_sh"
+  ],
+  "bg": [
+    "bg_dirt"
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_center_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_center_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_center_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_center_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_center_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_center_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_center_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_center_8"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_center_9"
+        }
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_corner_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_corner_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_corner_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_corner_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_corner_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_corner_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_corner_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_corner_8"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_corner_9"
+        }
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_water_moving_sh_t_connection_1",
+        "t_water_moving_sh_t_connection_2",
+        "t_water_moving_sh_t_connection_3",
+        "t_water_moving_sh_t_connection_4"
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_edge_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_edge_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_edge_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_edge_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_edge_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_edge_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_edge_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_edge_8"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_edge_9"
+        }
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_end_piece_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_end_piece_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_end_piece_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_end_piece_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_end_piece_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_end_piece_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_end_piece_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_end_piece_8"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_end_piece_9"
+        }
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_unconnected_1"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_unconnected_2"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_unconnected_3"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_unconnected_4"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_unconnected_5"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_unconnected_6"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_unconnected_7"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_unconnected_8"
+        },
+        {
+          "weight": 30,
+          "sprite": "t_water_moving_sh_unconnected_9"
+        }
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mace_fake",
+  "fg": [
+    "mace_fake"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

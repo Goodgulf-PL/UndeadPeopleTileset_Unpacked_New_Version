@@ -1,0 +1,10 @@
+{
+  "id": "judo_belt_black",
+  "fg": [
+    "judo_belt_black"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

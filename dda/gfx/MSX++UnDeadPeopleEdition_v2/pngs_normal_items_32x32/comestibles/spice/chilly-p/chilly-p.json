@@ -1,0 +1,10 @@
+{
+  "id": "chilly-p",
+  "fg": [
+    "chilly-p"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

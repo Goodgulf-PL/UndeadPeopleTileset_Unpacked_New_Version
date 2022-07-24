@@ -1,0 +1,20 @@
+{
+  "id": "vp_bed",
+  "fg": [
+    "vp_bed"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_bed_broken"
+      ],
+      "bg": [
+        "vp_bed"
+      ]
+    }
+  ]
+}

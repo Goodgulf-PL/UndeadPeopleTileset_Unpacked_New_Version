@@ -1,0 +1,36 @@
+[{
+  "id": ["shelter", "shelter_1", "shelter_1_vandal", "shelter_2", "shelter_2_vandal", "shelter_roof", "shelter_roof_1", "shelter_roof_2", "shelter_vandal"],
+  "fg": ["shelter"],
+  "bg": [],
+  "rotates": false
+},{
+  "id": "shelter_2_north",
+  "fg": ["shelter_2_north"],
+  "bg": [],
+  "rotates": false
+},{
+  "id": "shelter_1_vandal_south",
+  "fg": ["shelter_1_vandal_south"],
+  "bg": [],
+  "rotates": false
+},{
+  "id": "shelter_west",
+  "fg": ["shelter_west"],
+  "bg": [],
+  "rotates": false
+},{
+  "id": "shelter_2_vandal_east",
+  "fg": ["shelter_2_vandal_east"],
+  "bg": [],
+  "rotates": false
+},{
+  "id": "shelter_1_east",
+  "fg": ["shelter_1_east"],
+  "bg": [],
+  "rotates": false
+},{
+  "id": "shelter_east",
+  "fg": ["shelter_east"],
+  "bg": [],
+  "rotates": false
+}]

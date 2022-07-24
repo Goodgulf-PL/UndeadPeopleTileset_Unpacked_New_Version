@@ -1,0 +1,10 @@
+{
+  "id": "diazepam",
+  "fg": [
+    "diazepam"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

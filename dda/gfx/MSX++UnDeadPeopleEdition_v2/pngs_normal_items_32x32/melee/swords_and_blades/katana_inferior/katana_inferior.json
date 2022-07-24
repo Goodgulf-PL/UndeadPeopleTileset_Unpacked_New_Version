@@ -1,0 +1,10 @@
+{
+  "id": "katana_inferior",
+  "fg": [
+    "katana_inferior"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

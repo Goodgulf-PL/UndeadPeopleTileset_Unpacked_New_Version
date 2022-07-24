@@ -1,0 +1,10 @@
+{
+  "id": "cooked_cattail_stalk",
+  "fg": [
+    "cooked_cattail_stalk"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

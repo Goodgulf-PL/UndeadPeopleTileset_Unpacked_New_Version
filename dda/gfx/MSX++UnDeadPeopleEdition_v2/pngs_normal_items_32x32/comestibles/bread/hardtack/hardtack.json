@@ -1,0 +1,10 @@
+{
+  "id": "hardtack",
+  "fg": [
+    "hardtack"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

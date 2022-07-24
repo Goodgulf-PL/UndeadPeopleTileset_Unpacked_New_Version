@@ -1,0 +1,10 @@
+{
+  "id": "ninja_katana",
+  "fg": [
+    "ninja_katana"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

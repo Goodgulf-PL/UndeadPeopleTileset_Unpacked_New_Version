@@ -1,0 +1,10 @@
+{
+  "id": "module_meteorologist",
+  "fg": [
+    "module_meteorologist"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

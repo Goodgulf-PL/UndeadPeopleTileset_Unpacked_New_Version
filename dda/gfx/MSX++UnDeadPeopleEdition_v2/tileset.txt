@@ -1,0 +1,4 @@
+NAME: UNDEAD_PEOPLE_BASE_v2
+VIEW: UNDEAD_PEOPLE (Compiled by Goodgulf)
+JSON: tile_config.json
+TILESET: tiles.png

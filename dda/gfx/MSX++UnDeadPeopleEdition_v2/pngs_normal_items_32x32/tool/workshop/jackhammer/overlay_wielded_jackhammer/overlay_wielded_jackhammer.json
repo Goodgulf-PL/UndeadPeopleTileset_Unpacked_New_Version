@@ -1,0 +1,10 @@
+{
+  "id": "overlay_wielded_jackhammer",
+  "fg": [
+    "overlay_wielded_jackhammer"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

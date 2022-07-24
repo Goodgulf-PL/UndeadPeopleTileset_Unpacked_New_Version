@@ -1,0 +1,10 @@
+{
+  "id": "cookbook_italian",
+  "fg": [
+    "cookbook_italian"
+  ],
+  "bg": [
+    "bg_book_manual"
+  ],
+  "rotates": false
+}

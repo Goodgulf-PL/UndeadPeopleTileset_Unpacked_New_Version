@@ -1,0 +1,10 @@
+{
+  "id": "vest_leather_mod",
+  "fg": [
+    "vest_leather_mod"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

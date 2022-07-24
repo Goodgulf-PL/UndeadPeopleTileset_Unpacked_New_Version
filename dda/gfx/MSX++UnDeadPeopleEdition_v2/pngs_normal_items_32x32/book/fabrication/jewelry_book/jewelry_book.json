@@ -1,0 +1,10 @@
+{
+  "id": "jewelry_book",
+  "fg": [
+    "jewelry_book"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

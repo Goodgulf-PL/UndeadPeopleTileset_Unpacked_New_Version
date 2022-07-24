@@ -1,0 +1,10 @@
+{
+  "id": "bullet_crossbow",
+  "fg": [
+    "bullet_crossbow"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

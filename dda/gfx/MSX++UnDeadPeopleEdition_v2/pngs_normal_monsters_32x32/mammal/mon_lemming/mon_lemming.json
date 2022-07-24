@@ -1,0 +1,10 @@
+{
+  "id": "mon_lemming",
+  "fg": [
+    "mon_lemming"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

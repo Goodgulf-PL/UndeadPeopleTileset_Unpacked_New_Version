@@ -1,0 +1,10 @@
+{
+  "id": "l-stick_on",
+  "fg": [
+    "l-stick_on"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

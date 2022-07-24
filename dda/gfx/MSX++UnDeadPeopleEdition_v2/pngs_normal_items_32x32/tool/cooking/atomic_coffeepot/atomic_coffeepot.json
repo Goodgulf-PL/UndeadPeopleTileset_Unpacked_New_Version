@@ -1,0 +1,10 @@
+{
+  "id": "atomic_coffeepot",
+  "fg": [
+    "atomic_coffeepot"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

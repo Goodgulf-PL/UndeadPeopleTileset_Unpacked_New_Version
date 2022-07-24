@@ -1,0 +1,10 @@
+{
+  "id": "plastic_spoon",
+  "fg": [
+    "plastic_spoon"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

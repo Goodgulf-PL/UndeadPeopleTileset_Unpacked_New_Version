@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_petpack",
+  "fg": [
+    "petpack"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "f_planter_seedling",
+  "fg": [
+    "f_planter_seedling"
+  ],
+  "bg": [
+    "f_planter"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "long_patchwork_scarf",
+  "fg": [
+    "long_patchwork_scarf"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

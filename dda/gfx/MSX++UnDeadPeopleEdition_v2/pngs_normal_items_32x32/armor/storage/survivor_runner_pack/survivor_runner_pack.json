@@ -1,0 +1,10 @@
+{
+  "id": "survivor_runner_pack",
+  "fg": [
+    "survivor_runner_pack"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

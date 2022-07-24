@@ -1,0 +1,10 @@
+{
+  "id": "survivor_hairtrimmer",
+  "fg": [
+    "survivor_hairtrimmer"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "xl_gauntlets_chitin",
+  "fg": [
+    "gauntlets_chitin"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

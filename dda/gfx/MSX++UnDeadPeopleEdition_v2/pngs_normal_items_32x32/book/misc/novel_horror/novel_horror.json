@@ -1,0 +1,10 @@
+{
+  "id": "novel_horror",
+  "fg": [
+    "novel_horror"
+  ],
+  "bg": [
+    "bg_book_manual"
+  ],
+  "rotates": false
+}

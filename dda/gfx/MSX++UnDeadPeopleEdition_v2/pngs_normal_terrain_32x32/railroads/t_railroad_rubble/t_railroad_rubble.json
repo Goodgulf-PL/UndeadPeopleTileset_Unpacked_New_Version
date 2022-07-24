@@ -1,0 +1,10 @@
+{
+  "id": "t_railroad_rubble",
+  "fg": [
+    "t_railroad_rubble"
+  ],
+  "bg": [
+    "bg_gravel_dirt"
+  ],
+  "rotates": false
+}

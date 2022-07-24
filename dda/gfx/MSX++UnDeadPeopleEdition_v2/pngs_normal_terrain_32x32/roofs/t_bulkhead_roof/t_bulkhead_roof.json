@@ -1,0 +1,75 @@
+{
+  "id": "t_bulkhead_roof",
+  "fg": [
+    "t_bulkhead_roof"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_bulkhead_roof_center"
+      ],
+      "bg": [
+        "bg_pavement"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_bulkhead_roof_corner_1",
+        "t_bulkhead_roof_corner_2",
+        "t_bulkhead_roof_corner_3",
+        "t_bulkhead_roof_corner_4"
+      ],
+      "bg": [
+        "bg_pavement"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_bulkhead_roof_t_connection_1",
+        "t_bulkhead_roof_t_connection_2",
+        "t_bulkhead_roof_t_connection_3",
+        "t_bulkhead_roof_t_connection_4"
+      ],
+      "bg": [
+        "bg_pavement"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_bulkhead_roof_edge_1",
+        "t_bulkhead_roof_edge_2"
+      ],
+      "bg": [
+        "bg_pavement"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_bulkhead_roof_end_piece_1",
+        "t_bulkhead_roof_end_piece_2",
+        "t_bulkhead_roof_end_piece_3",
+        "t_bulkhead_roof_end_piece_4"
+      ],
+      "bg": [
+        "bg_pavement"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_bulkhead_roof_unconnected"
+      ],
+      "bg": [
+        "bg_pavement"
+      ]
+    }
+  ]
+}

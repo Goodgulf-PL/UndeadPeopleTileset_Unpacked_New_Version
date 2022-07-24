@@ -1,0 +1,10 @@
+{
+  "id": "t_shrub_grape",
+  "fg": [
+    "t_shrub_grape"
+  ],
+  "bg": [
+    "bg_dirt"
+  ],
+  "rotates": false
+}

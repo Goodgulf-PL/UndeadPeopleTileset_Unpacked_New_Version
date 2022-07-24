@@ -1,0 +1,9 @@
+{
+  "id": "copper_wire",
+  "fg": [
+    "copper_wire"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

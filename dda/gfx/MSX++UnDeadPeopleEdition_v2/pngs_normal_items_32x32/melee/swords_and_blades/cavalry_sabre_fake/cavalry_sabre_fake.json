@@ -1,0 +1,10 @@
+{
+  "id": "cavalry_sabre_fake",
+  "fg": [
+    "cavalry_sabre_fake"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

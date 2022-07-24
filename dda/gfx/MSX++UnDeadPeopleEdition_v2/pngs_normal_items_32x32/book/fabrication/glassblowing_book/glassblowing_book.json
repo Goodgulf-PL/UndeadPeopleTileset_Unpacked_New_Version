@@ -1,0 +1,10 @@
+{
+  "id": "glassblowing_book",
+  "fg": [
+    "glassblowing_book"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

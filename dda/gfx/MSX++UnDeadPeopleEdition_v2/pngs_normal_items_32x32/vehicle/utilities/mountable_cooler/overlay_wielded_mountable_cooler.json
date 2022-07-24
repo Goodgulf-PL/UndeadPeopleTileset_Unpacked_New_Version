@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_mountable_cooler",
+  "fg": [
+    "mountable_cooler"
+  ],
+  "bg": [],
+  "rotates": false
+}

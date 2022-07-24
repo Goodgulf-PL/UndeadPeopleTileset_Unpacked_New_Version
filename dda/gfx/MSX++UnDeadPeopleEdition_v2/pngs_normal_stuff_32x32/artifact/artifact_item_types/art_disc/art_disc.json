@@ -1,0 +1,55 @@
+{
+  "id": "art_disc",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_disc_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_disc_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_disc_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "art_disc_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_disc_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_disc_6"
+	  },
+    {
+      "weight": 10,
+      "sprite": "art_disc_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_disc_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_disc_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_disc_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_disc_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_disc_2"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

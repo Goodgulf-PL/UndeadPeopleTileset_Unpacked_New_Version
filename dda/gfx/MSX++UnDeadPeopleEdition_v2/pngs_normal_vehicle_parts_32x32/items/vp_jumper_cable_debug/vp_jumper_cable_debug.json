@@ -1,0 +1,10 @@
+{
+  "id": "vp_jumper_cable_debug",
+  "fg": [
+    "vp_jumper_cable_debug"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "survival_book",
+  "fg": [
+    "survival_book"
+  ],
+  "bg": [
+    "bg_book_adv"
+  ],
+  "rotates": false
+}

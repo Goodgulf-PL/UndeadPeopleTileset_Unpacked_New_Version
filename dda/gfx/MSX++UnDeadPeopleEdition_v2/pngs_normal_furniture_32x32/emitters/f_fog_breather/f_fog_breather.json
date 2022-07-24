@@ -1,0 +1,63 @@
+{
+  "id": "f_fog_breather",
+  "fg": [
+    "null"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "null"
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "null",
+        "null",
+        "null",
+        "null"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "null",
+        "null",
+        "null",
+        "null"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "null",
+        "null"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "null",
+        "null",
+        "null",
+        "null"
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "null"
+      ],
+      "bg": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "hstomach",
+  "fg": [
+    "hstomach"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

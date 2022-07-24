@@ -1,0 +1,10 @@
+{
+  "id": "glasses_safety",
+  "fg": [
+    "glasses_safety"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

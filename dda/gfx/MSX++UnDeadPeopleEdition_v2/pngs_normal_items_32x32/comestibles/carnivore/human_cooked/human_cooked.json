@@ -1,0 +1,10 @@
+{
+  "id": "human_cooked",
+  "fg": [
+    "human_cooked"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

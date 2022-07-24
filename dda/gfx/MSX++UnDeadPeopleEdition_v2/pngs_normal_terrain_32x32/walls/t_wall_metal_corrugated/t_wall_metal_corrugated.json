@@ -1,0 +1,10 @@
+{
+  "id": "t_wall_metal_corrugated",
+  "fg": [
+    "t_wall_metal_corrugated"
+  ],
+  "bg": [
+    "bg_t_floor"
+  ],
+  "rotates": false
+}

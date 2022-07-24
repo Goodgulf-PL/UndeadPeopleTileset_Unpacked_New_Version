@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_chem_citric_acid",
+  "fg": [
+    "chem_citric_acid"
+  ],
+  "bg": [],
+  "rotates": false
+}

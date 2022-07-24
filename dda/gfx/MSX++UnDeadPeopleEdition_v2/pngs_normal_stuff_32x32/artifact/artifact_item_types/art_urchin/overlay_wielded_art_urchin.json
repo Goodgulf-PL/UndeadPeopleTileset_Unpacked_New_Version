@@ -1,0 +1,27 @@
+{
+  "id": "overlay_wielded_art_urchin",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_urchin_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_urchin_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_urchin_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_urchin_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_urchin_5"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

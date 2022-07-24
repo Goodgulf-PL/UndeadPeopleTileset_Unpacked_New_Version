@@ -1,0 +1,10 @@
+{
+  "id": "t_railroad_crossing_signal_season_winter",
+  "fg": [
+    "t_railroad_crossing_signal"
+  ],
+  "bg": [
+    "bg_dirt_season_winter"
+  ],
+  "rotates": false
+}

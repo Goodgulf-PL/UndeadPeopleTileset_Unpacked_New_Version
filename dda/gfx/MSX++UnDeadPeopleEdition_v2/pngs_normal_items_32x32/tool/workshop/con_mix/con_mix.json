@@ -1,0 +1,10 @@
+{
+  "id": "con_mix",
+  "fg": [
+    "con_mix"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

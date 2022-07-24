@@ -1,0 +1,10 @@
+{
+  "id": "RAM",
+  "fg": [
+    "RAM"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

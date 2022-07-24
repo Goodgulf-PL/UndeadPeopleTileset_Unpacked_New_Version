@@ -1,0 +1,10 @@
+{
+  "id": "t_shrub_blueberry_harvested",
+  "fg": [
+    "t_shrub_blueberry_harvested"
+  ],
+  "bg": [
+    "bg_big_dirt"
+  ],
+  "rotates": false
+}

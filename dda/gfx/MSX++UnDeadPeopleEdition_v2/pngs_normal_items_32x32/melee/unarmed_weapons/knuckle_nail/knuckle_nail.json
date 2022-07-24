@@ -1,0 +1,10 @@
+{
+  "id": "knuckle_nail",
+  "fg": [
+    "knuckle_nail"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

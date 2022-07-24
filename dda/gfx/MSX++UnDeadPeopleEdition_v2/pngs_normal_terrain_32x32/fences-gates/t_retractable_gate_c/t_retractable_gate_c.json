@@ -1,0 +1,10 @@
+{
+  "id": "t_retractable_gate_c",
+  "fg": [
+    "t_retractable_gate_c"
+  ],
+  "bg": [
+    "bg_t_floor"
+  ],
+  "rotates": false
+}

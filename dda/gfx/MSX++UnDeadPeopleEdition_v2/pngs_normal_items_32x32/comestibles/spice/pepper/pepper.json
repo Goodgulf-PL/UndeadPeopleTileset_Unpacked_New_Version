@@ -1,0 +1,10 @@
+{
+  "id": "pepper",
+  "fg": [
+    "pepper"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

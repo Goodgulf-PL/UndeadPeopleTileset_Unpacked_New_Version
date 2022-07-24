@@ -1,0 +1,14 @@
+{
+    "id": "vp_board_wheel_left",
+    "fg": "vp_board_wheel_left",
+    "bg": [],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+        {
+            "id": "broken",
+            "fg": "vp_board_wheel_left_broken",
+            "bg": []
+        }
+    ]
+}

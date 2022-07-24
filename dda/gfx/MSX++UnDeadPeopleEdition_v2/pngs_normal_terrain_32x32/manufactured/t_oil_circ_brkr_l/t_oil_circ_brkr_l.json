@@ -1,0 +1,10 @@
+{
+  "id": "t_oil_circ_brkr_l",
+  "fg": [
+    "t_oil_circ_brkr_l"
+  ],
+  "bg": [
+    "bg_cement_electro"
+  ],
+  "rotates": false
+}

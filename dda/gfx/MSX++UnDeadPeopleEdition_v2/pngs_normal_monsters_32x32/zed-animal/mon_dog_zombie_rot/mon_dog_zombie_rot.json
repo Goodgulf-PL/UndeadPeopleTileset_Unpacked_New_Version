@@ -1,0 +1,33 @@
+{
+  "id": "mon_dog_zombie_rot",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "mon_dog_zombie_rot_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_dog_zombie_rot_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_dog_zombie_rot_3"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_dog_zombie_rot_4"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_dog_zombie_rot_5"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_dog_zombie_rot_6"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

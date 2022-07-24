@@ -1,0 +1,10 @@
+{
+  "id": "arrow_wood_heavy",
+  "fg": [
+    "arrow_wood_heavy"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

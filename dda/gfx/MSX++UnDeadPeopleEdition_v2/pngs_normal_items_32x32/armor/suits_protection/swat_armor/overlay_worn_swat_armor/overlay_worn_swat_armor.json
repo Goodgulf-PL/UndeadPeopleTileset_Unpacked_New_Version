@@ -1,0 +1,10 @@
+{
+  "id": "overlay_worn_swat_armor",
+  "fg": [
+    "overlay_worn_swat_armor"
+  ],
+  "bg": [
+    "bg_swat_armor"
+  ],
+  "rotates": false
+}

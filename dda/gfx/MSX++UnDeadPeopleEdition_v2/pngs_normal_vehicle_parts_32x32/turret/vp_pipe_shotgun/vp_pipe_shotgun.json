@@ -1,0 +1,18 @@
+{
+  "id": "vp_pipe_shotgun",
+  "fg": [
+    "vp_pipe_shotgun"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_pipe_shotgun_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

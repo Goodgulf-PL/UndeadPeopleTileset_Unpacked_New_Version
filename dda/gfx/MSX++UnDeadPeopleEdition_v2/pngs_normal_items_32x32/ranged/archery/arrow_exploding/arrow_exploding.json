@@ -1,0 +1,10 @@
+{
+  "id": "arrow_exploding",
+  "fg": [
+    "arrow_exploding"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,75 @@
+{
+  "id": "t_junk_palisade",
+  "fg": [
+    "t_junk_palisade"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_junk_palisade_center"
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_junk_palisade_corner_1",
+        "t_junk_palisade_corner_2",
+        "t_junk_palisade_corner_3",
+        "t_junk_palisade_corner_4"
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_junk_palisade_t_connection_1",
+        "t_junk_palisade_t_connection_2",
+        "t_junk_palisade_t_connection_3",
+        "t_junk_palisade_t_connection_4"
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_junk_palisade_edge_1",
+        "t_junk_palisade_edge_2"
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_junk_palisade_end_piece_1",
+        "t_junk_palisade_end_piece_2",
+        "t_junk_palisade_end_piece_3",
+        "t_junk_palisade_end_piece_4"
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_junk_palisade_unconnected"
+      ],
+      "bg": [
+        "bg_dirt"
+      ]
+    }
+  ]
+}

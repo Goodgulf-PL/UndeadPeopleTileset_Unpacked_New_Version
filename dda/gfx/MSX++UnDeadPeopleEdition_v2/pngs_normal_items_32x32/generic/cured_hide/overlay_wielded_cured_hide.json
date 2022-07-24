@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_cured_hide",
+  "fg": [
+    "cured_hide"
+  ],
+  "bg": [],
+  "rotates": false
+}

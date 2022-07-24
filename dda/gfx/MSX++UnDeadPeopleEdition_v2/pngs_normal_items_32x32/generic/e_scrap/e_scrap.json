@@ -1,0 +1,10 @@
+{
+  "id": "e_scrap",
+  "fg": [
+    "e_scrap"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

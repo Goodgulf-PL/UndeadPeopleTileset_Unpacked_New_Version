@@ -1,0 +1,10 @@
+{
+  "id": "radio",
+  "fg": [
+    "radio"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

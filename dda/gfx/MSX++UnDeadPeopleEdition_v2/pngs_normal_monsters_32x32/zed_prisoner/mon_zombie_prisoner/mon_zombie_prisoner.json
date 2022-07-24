@@ -1,0 +1,37 @@
+{
+  "id": "mon_zombie_prisoner",
+  "fg": [
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_prisoner_1"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_prisoner_2"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_prisoner_3"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_prisoner_4"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_prisoner_5"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_prisoner_6"
+    },
+    {
+      "weight": 111,
+      "sprite": "mon_zombie_prisoner_7"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

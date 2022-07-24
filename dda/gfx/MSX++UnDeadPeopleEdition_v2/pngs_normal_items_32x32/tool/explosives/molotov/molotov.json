@@ -1,0 +1,10 @@
+{
+  "id": "molotov",
+  "fg": [
+    "molotov"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

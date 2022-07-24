@@ -1,0 +1,35 @@
+{
+  "id": "fd_weedsmoke",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "fd_cigsmoke_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_cigsmoke_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_cigsmoke_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_cigsmoke_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_cigsmoke_5"
+    },    
+	{
+      "weight": 10,
+      "sprite": "fd_cigsmoke_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_cigsmoke_7"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

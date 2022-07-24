@@ -1,0 +1,9 @@
+{
+  "id": "t_diesel_tank",
+  "fg": [
+    "t_diesel_tank"
+  ],
+  "bg": [
+    "bg_pavement"
+  ]
+}

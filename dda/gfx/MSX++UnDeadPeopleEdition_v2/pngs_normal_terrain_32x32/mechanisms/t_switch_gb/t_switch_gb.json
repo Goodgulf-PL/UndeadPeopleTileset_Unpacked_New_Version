@@ -1,0 +1,11 @@
+{
+  "id": "t_switch_gb",
+  "fg": [
+    "t_switch_gb"
+  ],
+  "bg": [
+    "t_secretdoor_wall_c",
+    "t_border_rock"
+  ],
+  "rotates": false
+}

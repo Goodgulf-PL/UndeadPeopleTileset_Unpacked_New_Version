@@ -1,0 +1,10 @@
+{
+  "id": "bandit_item_1",
+  "fg": [
+    "bandit_item_1"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

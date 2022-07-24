@@ -1,0 +1,23 @@
+{
+  "id": "f_console",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "f_console_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "f_console_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "f_console_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "f_console_4"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

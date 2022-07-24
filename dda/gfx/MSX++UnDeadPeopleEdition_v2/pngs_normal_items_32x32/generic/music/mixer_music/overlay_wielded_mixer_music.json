@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_mixer_music",
+  "fg": [
+    "mixer_music"
+  ],
+  "bg": [],
+  "rotates": false
+}

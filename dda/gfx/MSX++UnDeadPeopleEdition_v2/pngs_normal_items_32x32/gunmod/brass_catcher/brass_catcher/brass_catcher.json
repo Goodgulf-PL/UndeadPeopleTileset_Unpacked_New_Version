@@ -1,0 +1,10 @@
+{
+  "id": "brass_catcher",
+  "fg": [
+    "brass_catcher"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_zombie_resort_staff",
+  "fg": [
+    "mon_zombie_resort_staff"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

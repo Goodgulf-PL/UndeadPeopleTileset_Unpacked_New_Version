@@ -1,0 +1,10 @@
+{
+  "id": "seed_tomato",
+  "fg": [
+    "seed_tomato"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

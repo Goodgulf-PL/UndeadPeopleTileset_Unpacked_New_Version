@@ -1,0 +1,10 @@
+{
+  "id": "bot_grocerybot_busted",
+  "fg": [
+    "bot_grocerybot_busted"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_crow_chick",
+  "fg": [
+    "mon_crow_chick"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

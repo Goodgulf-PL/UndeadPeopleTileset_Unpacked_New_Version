@@ -1,0 +1,10 @@
+{
+  "id": "combination_gun",
+  "fg": [
+    "combination_gun"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

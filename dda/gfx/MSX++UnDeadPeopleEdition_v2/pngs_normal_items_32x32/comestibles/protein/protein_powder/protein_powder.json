@@ -1,0 +1,10 @@
+{
+  "id": "protein_powder",
+  "fg": [
+    "protein_powder"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

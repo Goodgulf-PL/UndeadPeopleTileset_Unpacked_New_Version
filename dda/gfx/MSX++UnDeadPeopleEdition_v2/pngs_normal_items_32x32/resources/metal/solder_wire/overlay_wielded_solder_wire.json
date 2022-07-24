@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_solder_wire",
+  "fg": [
+    "solder_wire"
+  ],
+  "bg": [],
+  "rotates": false
+}

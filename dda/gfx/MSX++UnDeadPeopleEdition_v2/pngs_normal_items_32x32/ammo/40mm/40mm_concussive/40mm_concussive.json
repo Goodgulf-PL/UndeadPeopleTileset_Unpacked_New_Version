@@ -1,0 +1,10 @@
+{
+  "id": "40mm_concussive",
+  "fg": [
+    "40mm_concussive"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

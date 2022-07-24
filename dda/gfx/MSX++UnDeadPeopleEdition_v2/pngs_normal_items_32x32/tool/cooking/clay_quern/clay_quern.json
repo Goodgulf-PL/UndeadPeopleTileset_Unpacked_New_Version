@@ -1,0 +1,10 @@
+{
+  "id": "clay_quern",
+  "fg": [
+    "clay_quern"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "arrow_metal_sharpened",
+  "fg": [
+    "arrow_metal_sharpened"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

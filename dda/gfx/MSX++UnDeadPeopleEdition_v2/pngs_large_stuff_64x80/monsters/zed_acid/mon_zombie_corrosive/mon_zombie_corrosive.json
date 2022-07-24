@@ -1,0 +1,8 @@
+{
+  "id": "mon_zombie_corrosive",
+  "fg": [
+    "mon_zombie_corrosive"
+  ],
+  "bg": ["bg_big_large_shadow"],
+  "rotates": false
+}

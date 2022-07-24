@@ -1,0 +1,10 @@
+{
+  "id": "permanent_marker",
+  "fg": [
+    "permanent_marker"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

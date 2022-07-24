@@ -1,0 +1,10 @@
+{
+  "id": "t_door_glass_white_o",
+  "fg": [
+    "t_door_glass_white_o"
+  ],
+  "bg": [
+    "t_linoleum_white"
+  ],
+  "rotates": false
+}

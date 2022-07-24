@@ -1,0 +1,10 @@
+{
+  "id": "gummy_vitamins",
+  "fg": [
+    "gummy_vitamins"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

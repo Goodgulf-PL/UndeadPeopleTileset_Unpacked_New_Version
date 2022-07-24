@@ -1,0 +1,8 @@
+{
+  "id": "bio_drain",
+  "fg": [
+    "cbm_temp"
+  ],
+  "bg": [  ],
+  "rotates": false
+}

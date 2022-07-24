@@ -1,0 +1,10 @@
+{
+  "id": "t_metal_grate_window_noglass",
+  "fg": [
+    "t_metal_grate_window_noglass"
+  ],
+  "bg": [
+    "bg_t_floor"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,21 @@
+[{
+  "id": "fishing_pond_0_0",
+  "fg": ["fishing_pond_corner_1","fishing_pond_corner_4","fishing_pond_corner_3","fishing_pond_corner_2"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": "fishing_pond_1_0",
+  "fg": ["fishing_pond_corner_4","fishing_pond_corner_3","fishing_pond_corner_2","fishing_pond_corner_1"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": "fishing_pond_0_1",
+  "fg": ["fishing_pond_corner_2","fishing_pond_corner_1","fishing_pond_corner_4","fishing_pond_corner_3"],
+  "bg": [],
+  "rotates": true
+},{
+  "id": "fishing_pond_1_1",
+  "fg": ["fishing_pond_corner_3","fishing_pond_corner_2","fishing_pond_corner_1","fishing_pond_corner_4"],
+  "bg": [],
+  "rotates": true
+}]

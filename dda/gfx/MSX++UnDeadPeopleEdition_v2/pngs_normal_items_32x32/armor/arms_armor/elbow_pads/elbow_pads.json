@@ -1,0 +1,10 @@
+{
+  "id": "elbow_pads",
+  "fg": [
+    "elbow_pads"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

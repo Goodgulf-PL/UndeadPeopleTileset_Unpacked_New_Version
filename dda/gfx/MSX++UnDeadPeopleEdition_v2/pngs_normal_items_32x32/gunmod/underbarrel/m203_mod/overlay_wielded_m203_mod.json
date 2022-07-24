@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_m203_mod",
+  "fg": [
+    "m203_mod"
+  ],
+  "bg": [],
+  "rotates": false
+}

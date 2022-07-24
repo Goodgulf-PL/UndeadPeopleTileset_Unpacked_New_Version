@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_cleats",
+  "fg": [
+    "cleats"
+  ],
+  "bg": [],
+  "rotates": false
+}

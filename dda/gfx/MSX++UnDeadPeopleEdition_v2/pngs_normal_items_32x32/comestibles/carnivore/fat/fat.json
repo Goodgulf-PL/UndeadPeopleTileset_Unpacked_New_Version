@@ -1,0 +1,10 @@
+{
+  "id": "fat",
+  "fg": [
+    "fat"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

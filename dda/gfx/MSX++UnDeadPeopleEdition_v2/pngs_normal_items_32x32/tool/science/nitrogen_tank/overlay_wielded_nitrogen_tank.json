@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_nitrogen_tank",
+  "fg": [
+    "nitrogen_tank"
+  ],
+  "bg": [],
+  "rotates": false
+}

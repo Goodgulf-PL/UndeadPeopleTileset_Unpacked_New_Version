@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_cable_instrument",
+  "fg": [
+    "cable_instrument"
+  ],
+  "bg": [],
+  "rotates": false
+}

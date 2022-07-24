@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_hand_crank_charger",
+  "fg": [
+    "hand_crank_charger"
+  ],
+  "bg": [],
+  "rotates": false
+}

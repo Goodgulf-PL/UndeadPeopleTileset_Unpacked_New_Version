@@ -1,0 +1,10 @@
+{
+  "id": "knife_swissarmy",
+  "fg": [
+    "knife_swissarmy"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

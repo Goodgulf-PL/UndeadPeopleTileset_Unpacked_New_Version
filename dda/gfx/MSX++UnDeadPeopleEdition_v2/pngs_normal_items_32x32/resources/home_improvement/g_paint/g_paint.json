@@ -1,0 +1,10 @@
+{
+  "id": "g_paint",
+  "fg": [
+    "g_paint"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

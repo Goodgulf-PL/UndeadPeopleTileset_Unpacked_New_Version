@@ -1,0 +1,10 @@
+{
+  "id": "mon_zombie_fungus",
+  "fg": [
+    "mon_zombie_fungus"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

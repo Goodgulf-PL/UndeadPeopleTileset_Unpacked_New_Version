@@ -1,0 +1,18 @@
+{
+  "id": "t_rope_up",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "t_rope_up_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "t_rope_up_2"
+    }
+  ],
+  "bg": [
+    "bg_big_pavement"
+  ],
+  "rotates": false,
+  "animated": true
+}

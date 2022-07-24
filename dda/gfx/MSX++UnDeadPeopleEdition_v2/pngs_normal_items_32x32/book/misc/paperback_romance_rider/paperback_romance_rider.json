@@ -1,0 +1,10 @@
+{
+  "id": "paperback_romance_rider",
+  "fg": [
+    "story_book"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

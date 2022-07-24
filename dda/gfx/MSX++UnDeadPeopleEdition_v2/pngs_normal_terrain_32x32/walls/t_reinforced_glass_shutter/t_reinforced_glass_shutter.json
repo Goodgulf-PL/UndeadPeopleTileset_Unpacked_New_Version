@@ -1,0 +1,10 @@
+{
+  "id": "t_reinforced_glass_shutter",
+  "fg": [
+    "t_reinforced_glass_shutter"
+  ],
+  "bg": [
+    "bg_pavement"
+  ],
+  "rotates": false
+}

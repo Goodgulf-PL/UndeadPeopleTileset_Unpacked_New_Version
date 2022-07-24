@@ -1,0 +1,10 @@
+{
+  "id": "tanto_fake",
+  "fg": [
+    "tanto_fake"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": "overlay_effect_winded",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "overlay_effect_winded_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_effect_winded_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_effect_winded_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_effect_winded_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "overlay_effect_winded_5"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "jerky",
+  "fg": [
+    "jerky"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "hd_battery",
+  "fg": [
+    "hd_battery"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

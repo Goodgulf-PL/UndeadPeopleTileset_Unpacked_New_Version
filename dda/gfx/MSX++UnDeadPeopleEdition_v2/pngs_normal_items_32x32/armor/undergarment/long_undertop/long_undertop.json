@@ -1,0 +1,10 @@
+{
+  "id": "long_undertop",
+  "fg": [
+    "long_undertop"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

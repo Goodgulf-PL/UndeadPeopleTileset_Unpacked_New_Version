@@ -1,0 +1,8 @@
+{
+  "id": ["ksub2000_turret_fake", "laser_cannon_turret_fake", "m14ebr_turret_fake", "m16a4_turret_fake", ""],
+  "fg": [
+    "ksub2000_turret_fake"
+  ],
+  "bg": [],
+  "rotates": false
+}

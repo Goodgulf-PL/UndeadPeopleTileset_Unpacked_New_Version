@@ -1,0 +1,10 @@
+{
+  "id": "homewrecker",
+  "fg": [
+    "homewrecker"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

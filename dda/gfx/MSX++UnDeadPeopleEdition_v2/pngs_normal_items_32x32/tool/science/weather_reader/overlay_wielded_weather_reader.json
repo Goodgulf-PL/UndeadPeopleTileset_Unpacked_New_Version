@@ -1,0 +1,7 @@
+{
+  "id": "overlay_wielded_weather_reader",
+  "fg": [
+    "weather_reader"
+  ],
+  "bg": []
+}

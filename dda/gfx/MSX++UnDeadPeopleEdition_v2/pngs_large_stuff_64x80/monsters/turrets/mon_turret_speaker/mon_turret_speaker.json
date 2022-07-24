@@ -1,0 +1,23 @@
+{
+  "id": "mon_turret_speaker",
+  "fg": [
+    {
+      "weight": 60,
+      "sprite": "mon_turret_speaker_1"
+    },
+    {
+      "weight": 30,
+      "sprite": "mon_turret_speaker_2"
+    },
+	{
+      "weight": 30,
+      "sprite": "mon_turret_speaker_3"
+    },
+    {
+      "weight": 30,
+      "sprite": "mon_turret_speaker_4"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

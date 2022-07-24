@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_jumper_cable",
+  "fg": [
+    "jumper_cable"
+  ],
+  "bg": [],
+  "rotates": false
+}

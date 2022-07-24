@@ -1,0 +1,10 @@
+{
+  "id": "long_underpants",
+  "fg": [
+    "long_underpants"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,50 @@
+{
+  "id": "mon_feral_human_pipe",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_pipe_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_pipe_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_pipe_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_pipe_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_pipe_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_pipe_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_pipe_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_pipe_8"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_pipe_9"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_human_pipe_10"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false,
+  "animated": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "fencing_sabre",
+  "fg": [
+    "fencing_sabre"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

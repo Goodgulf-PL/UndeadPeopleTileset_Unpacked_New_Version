@@ -1,0 +1,10 @@
+{
+  "id": "mag_electronics",
+  "fg": [
+    "mag_electronics"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

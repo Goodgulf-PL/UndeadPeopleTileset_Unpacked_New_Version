@@ -1,0 +1,10 @@
+{
+  "id": "mon_ant_acid",
+  "fg": [
+    "mon_ant_acid"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

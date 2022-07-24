@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_water_faucet",
+  "fg": [
+    "water_faucet"
+  ],
+  "bg": [],
+  "rotates": false
+}

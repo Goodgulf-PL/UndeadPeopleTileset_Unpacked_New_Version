@@ -1,0 +1,10 @@
+{
+  "id": "large_stomach_sealed",
+  "fg": [
+    "large_stomach_sealed"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

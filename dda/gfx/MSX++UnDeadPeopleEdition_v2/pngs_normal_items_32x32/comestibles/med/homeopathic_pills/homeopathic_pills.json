@@ -1,0 +1,10 @@
+{
+  "id": "homeopathic_pills",
+  "fg": [
+    "homeopathic_pills"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

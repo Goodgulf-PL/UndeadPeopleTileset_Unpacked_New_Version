@@ -1,0 +1,10 @@
+{
+  "id": "geiger_on",
+  "fg": [
+    "geiger_on"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

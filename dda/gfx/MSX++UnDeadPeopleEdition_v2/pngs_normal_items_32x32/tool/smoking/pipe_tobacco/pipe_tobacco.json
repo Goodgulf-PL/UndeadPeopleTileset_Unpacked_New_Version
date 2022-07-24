@@ -1,0 +1,10 @@
+{
+  "id": "pipe_tobacco",
+  "fg": [
+    "pipe_tobacco"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "fish",
+  "fg": [
+    "fish"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

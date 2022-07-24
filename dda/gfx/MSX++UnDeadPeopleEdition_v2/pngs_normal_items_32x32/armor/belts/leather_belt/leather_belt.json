@@ -1,0 +1,10 @@
+{
+  "id": "leather_belt",
+  "fg": [
+    "leather_belt"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

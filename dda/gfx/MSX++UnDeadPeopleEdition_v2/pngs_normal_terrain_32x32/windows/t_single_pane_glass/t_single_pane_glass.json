@@ -1,0 +1,9 @@
+{
+  "id": "t_single_pane_glass",
+  "fg": [
+    "t_single_pane_glass"
+  ],
+  "bg": [
+    "bg_t_floor"
+  ]
+}

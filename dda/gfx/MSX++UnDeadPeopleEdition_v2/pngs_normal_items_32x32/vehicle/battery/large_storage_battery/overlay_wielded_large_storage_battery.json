@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_large_storage_battery",
+  "fg": [
+    "large_storage_battery"
+  ],
+  "bg": [],
+  "rotates": true
+}

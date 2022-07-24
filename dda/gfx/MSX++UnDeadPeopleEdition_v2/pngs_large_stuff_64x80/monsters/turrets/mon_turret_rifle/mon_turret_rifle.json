@@ -1,0 +1,16 @@
+{
+  "id": "mon_turret_rifle",
+  "fg": [
+    {
+      "weight": 100,
+      "sprite": "mon_turret_rifle_1"
+    },
+    {
+      "weight": 100,
+      "sprite": "mon_turret_rifle_2"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}

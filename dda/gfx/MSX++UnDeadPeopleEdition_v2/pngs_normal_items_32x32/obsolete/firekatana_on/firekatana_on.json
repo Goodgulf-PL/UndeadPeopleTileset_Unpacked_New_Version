@@ -1,0 +1,10 @@
+{
+  "id": "firekatana_on",
+  "fg": [
+    "firekatana_on"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

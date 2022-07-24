@@ -1,0 +1,10 @@
+{
+  "id": "chem_potassium_alum",
+  "fg": [
+    "chem_potassium_alum"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

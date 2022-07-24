@@ -1,0 +1,10 @@
+{
+  "id": "can_spam",
+  "fg": [
+    "can_spam"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

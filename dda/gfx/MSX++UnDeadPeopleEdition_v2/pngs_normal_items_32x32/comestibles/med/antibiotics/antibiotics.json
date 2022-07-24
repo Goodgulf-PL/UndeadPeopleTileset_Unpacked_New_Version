@@ -1,0 +1,10 @@
+{
+  "id": "antibiotics",
+  "fg": [
+    "antibiotics"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

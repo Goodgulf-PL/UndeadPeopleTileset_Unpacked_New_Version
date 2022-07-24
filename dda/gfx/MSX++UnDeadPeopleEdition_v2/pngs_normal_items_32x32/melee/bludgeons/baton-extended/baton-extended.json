@@ -1,0 +1,10 @@
+{
+  "id": "baton-extended",
+  "fg": [
+    "baton-extended"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

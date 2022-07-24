@@ -1,0 +1,10 @@
+{
+  "id": "sw_500",
+  "fg": [
+    "sw_500"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

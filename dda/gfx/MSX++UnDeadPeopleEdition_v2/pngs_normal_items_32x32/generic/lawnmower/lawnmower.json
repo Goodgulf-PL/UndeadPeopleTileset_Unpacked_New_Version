@@ -1,0 +1,10 @@
+{
+  "id": "lawnmower",
+  "fg": [
+    "lawnmower"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

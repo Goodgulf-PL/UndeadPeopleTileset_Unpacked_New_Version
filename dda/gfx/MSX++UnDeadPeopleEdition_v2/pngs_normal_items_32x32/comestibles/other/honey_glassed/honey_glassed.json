@@ -1,0 +1,10 @@
+{
+  "id": "honey_glassed",
+  "fg": [
+    "honey_glassed"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

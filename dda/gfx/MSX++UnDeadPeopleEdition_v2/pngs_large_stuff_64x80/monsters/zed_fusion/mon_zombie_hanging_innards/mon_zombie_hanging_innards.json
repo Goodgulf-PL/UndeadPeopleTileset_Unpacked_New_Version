@@ -1,0 +1,20 @@
+{
+  "id": "mon_zombie_hanging_innards",
+  "fg": [
+    {
+      "weight": 11,
+      "sprite": "mon_zombie_hanging_innards_1"
+    },
+    {
+      "weight": 11,
+      "sprite": "mon_zombie_hanging_innards_2"
+    },
+    {
+      "weight": 11,
+      "sprite": "mon_zombie_hanging_innards_3"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}

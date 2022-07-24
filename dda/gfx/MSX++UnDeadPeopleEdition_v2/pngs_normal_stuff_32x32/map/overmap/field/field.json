@@ -1,0 +1,38 @@
+{
+  "id": ["field", "special_field",       "necropolis_a_1",
+      "necropolis_a_18",
+      "necropolis_a_27",
+      "necropolis_a_3",
+      "necropolis_a_36",
+      "necropolis_a_4",
+      "necropolis_a_45",
+      "necropolis_a_72",
+      "necropolis_a_73",
+      "necropolis_a_80",
+      "necropolis_a_81",
+      "necropolis_a_9"],
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "field_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "field_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "field_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "field_4"
+    },
+    {
+      "weight": 3,
+      "sprite": "field_5"
+    }
+  ],
+  "bg": [""],
+  "rotates": false
+}

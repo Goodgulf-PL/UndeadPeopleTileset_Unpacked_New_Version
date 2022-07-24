@@ -1,0 +1,10 @@
+{
+  "id": "crab_cakes",
+  "fg": [
+    "crab_cakes"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

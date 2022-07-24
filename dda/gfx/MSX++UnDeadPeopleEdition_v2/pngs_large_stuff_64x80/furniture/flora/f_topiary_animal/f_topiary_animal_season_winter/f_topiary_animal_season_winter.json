@@ -1,0 +1,6 @@
+{
+  "id": "f_topiary_animal_season_winter",
+  "fg": [{"weight": 1, "sprite": "f_topiary_animal_season_winter_1"}, {"weight": 1, "sprite": "f_topiary_animal_season_winter_2"}],
+  "bg": [],
+  "rotates": false
+}

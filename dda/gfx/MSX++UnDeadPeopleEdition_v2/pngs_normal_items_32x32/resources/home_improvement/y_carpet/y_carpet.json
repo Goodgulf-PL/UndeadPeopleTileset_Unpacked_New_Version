@@ -1,0 +1,10 @@
+{
+  "id": "y_carpet",
+  "fg": [
+    "y_carpet"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

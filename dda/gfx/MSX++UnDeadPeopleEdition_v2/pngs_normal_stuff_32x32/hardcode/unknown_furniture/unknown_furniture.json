@@ -1,0 +1,63 @@
+{
+  "id": "unknown_furniture",
+  "fg": [
+    "unknown_furniture"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "unknown_furniture_center"
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "unknown_furniture_corner_1",
+        "unknown_furniture_corner_2",
+        "unknown_furniture_corner_3",
+        "unknown_furniture_corner_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "unknown_furniture_t_connection_1",
+        "unknown_furniture_t_connection_2",
+        "unknown_furniture_t_connection_3",
+        "unknown_furniture_t_connection_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "unknown_furniture_edge_1",
+        "unknown_furniture_edge_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "unknown_furniture_end_piece_1",
+        "unknown_furniture_end_piece_2",
+        "unknown_furniture_end_piece_3",
+        "unknown_furniture_end_piece_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "unknown_furniture_unconnected", "unknown_furniture_unconnected"
+      ],
+      "bg": []
+    }
+  ]
+}

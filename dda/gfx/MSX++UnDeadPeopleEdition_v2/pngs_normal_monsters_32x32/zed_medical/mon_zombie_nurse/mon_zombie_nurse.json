@@ -1,0 +1,49 @@
+{
+  "id": "mon_zombie_nurse",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_nurse_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_nurse_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_nurse_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_nurse_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_nurse_5"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_nurse_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_nurse_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_nurse_8"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_nurse_9"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_zombie_nurse_10"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

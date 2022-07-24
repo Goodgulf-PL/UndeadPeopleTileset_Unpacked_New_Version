@@ -1,0 +1,9 @@
+{
+  "id": "vp_door_motor",
+  "fg": [
+    "vp_door_motor"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

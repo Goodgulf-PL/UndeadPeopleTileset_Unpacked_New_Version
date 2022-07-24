@@ -1,0 +1,10 @@
+{
+  "id": "power_supply",
+  "fg": [
+    "power_supply"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

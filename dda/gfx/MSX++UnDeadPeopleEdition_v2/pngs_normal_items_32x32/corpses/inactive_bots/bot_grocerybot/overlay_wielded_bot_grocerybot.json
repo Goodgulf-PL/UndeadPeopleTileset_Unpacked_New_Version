@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bot_grocerybot",
+  "fg": [
+    "bot_grocerybot"
+  ],
+  "bg": [],
+  "rotates": false
+}

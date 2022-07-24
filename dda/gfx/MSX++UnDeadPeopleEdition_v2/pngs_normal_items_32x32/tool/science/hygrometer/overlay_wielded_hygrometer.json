@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_hygrometer",
+  "fg": [
+    "hygrometer"
+  ],
+  "bg": [],
+  "rotates": false
+}

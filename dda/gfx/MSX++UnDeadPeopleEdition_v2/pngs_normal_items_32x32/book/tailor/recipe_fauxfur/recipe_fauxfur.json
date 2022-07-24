@@ -1,0 +1,10 @@
+{
+  "id": "recipe_fauxfur",
+  "fg": [
+    "recipe_fauxfur"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "fish_trap",
+  "fg": [
+    "fish_trap"
+  ],
+  "bg": [
+    "makeshift_funnel",
+    "tr_makeshift_funnel"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "oxycodone",
+  "fg": [
+    "oxycodone"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

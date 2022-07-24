@@ -1,0 +1,10 @@
+{
+  "id": "light_emergency_red",
+  "fg": [
+    "light_emergency_red"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

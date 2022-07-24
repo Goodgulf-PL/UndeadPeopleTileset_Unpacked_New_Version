@@ -1,0 +1,10 @@
+{
+  "id": "fur_cat_ears",
+  "fg": [
+    "fur_cat_ears"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

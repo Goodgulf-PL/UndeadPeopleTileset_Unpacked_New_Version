@@ -1,0 +1,9 @@
+{
+  "id": "paper",
+  "fg": [
+    "paper"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

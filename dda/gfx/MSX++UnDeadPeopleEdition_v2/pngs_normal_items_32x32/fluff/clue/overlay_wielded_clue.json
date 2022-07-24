@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_clue",
+  "fg": [
+    "clue"
+  ],
+  "bg": [],
+  "rotates": false
+}

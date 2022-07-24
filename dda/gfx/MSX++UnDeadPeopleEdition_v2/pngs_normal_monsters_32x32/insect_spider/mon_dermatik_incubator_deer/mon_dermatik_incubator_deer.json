@@ -1,0 +1,10 @@
+{
+  "id": "mon_dermatik_incubator_deer",
+  "fg": [
+    "mon_dermatik_incubator_deer"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

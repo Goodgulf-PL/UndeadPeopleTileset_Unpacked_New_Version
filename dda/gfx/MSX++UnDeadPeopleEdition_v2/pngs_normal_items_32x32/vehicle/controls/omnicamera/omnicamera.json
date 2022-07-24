@@ -1,0 +1,10 @@
+{
+  "id": "omnicamera",
+  "fg": [
+    "omnicamera"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

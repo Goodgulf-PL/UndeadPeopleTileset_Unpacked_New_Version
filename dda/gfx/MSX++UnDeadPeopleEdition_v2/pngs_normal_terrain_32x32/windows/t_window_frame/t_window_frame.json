@@ -1,0 +1,10 @@
+{
+  "id": "t_window_frame",
+  "fg": [
+    "t_window_frame"
+  ],
+  "bg": [
+    "bg_t_floor"
+  ],
+  "rotates": false
+}

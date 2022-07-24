@@ -1,0 +1,10 @@
+{
+  "id": "recipe_mininuke_launch",
+  "fg": [
+    "recipe_mininuke_launch"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "t_pavement_y_connected",
+  "fg": [
+    "t_pavement_y_connected"
+  ],
+  "bg": ["t_pavement"],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_pavement_y_connected_center"
+      ],
+      "bg": ["t_pavement"]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_pavement_y_connected_corner_1",
+        "t_pavement_y_connected_corner_2",
+        "t_pavement_y_connected_corner_3",
+        "t_pavement_y_connected_corner_4"
+      ],
+      "bg": ["t_pavement"]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_pavement_y_connected_t_connection_1",
+        "t_pavement_y_connected_t_connection_2",
+        "t_pavement_y_connected_t_connection_3",
+        "t_pavement_y_connected_t_connection_4"
+      ],
+      "bg": ["t_pavement"]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_pavement_y_connected_edge_1",
+        "t_pavement_y_connected_edge_2"
+      ],
+      "bg": ["t_pavement"]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_pavement_y_connected_end_piece_1",
+        "t_pavement_y_connected_end_piece_2",
+        "t_pavement_y_connected_end_piece_3",
+        "t_pavement_y_connected_end_piece_4"
+      ],
+      "bg": ["t_pavement"]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_pavement_y_connected_unconnected"
+      ],
+      "bg": ["t_pavement"]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "broken_eyebot",
+  "fg": [
+    "broken_eyebot"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

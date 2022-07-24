@@ -1,0 +1,10 @@
+{
+  "id": "LAW_Packed",
+  "fg": [
+    "LAW_Packed"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

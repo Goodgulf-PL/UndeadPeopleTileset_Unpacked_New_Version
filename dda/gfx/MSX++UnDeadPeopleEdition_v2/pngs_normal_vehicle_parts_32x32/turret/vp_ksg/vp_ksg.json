@@ -1,0 +1,18 @@
+{
+  "id": "vp_ksg",
+  "fg": [
+    "vp_ksg"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_ksg_broken"
+      ],
+      "bg": [ ]
+    }
+  ]
+}

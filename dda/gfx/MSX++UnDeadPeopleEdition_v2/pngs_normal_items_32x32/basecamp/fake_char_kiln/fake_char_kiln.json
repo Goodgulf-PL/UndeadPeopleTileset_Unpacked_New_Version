@@ -1,0 +1,10 @@
+{
+  "id": "fake_char_kiln",
+  "fg": [
+    "fake_char_kiln"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

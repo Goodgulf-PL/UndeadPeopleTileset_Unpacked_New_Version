@@ -1,0 +1,10 @@
+{
+  "id": "tommygun",
+  "fg": [
+    "tommygun"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

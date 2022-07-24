@@ -1,0 +1,8 @@
+{
+  "id": "schematics_copbot",
+  "fg": [
+    "schematics_temp"
+  ],
+  "bg": [],
+  "rotates": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "zucchini",
+  "fg": [
+    "zucchini"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

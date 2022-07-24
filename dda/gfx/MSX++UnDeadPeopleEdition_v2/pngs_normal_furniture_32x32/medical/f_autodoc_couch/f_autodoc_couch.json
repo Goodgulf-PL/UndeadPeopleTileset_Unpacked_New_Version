@@ -1,0 +1,8 @@
+{
+  "id": "f_autodoc_couch",
+  "fg": [
+    "f_autodoc_couch_rotat_s", "f_autodoc_couch_rotat_w", "f_autodoc_couch_rotat_n", "f_autodoc_couch_rotat_e"
+  ],
+  "bg": [],
+  "rotates": true
+}

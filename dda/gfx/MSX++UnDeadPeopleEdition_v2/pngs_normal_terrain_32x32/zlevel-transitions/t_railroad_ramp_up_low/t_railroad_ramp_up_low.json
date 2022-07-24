@@ -1,0 +1,11 @@
+{
+  "id": "t_railroad_ramp_up_low",
+  "fg": [
+    "t_railroad_ramp_up_low_ns",
+	"t_railroad_ramp_up_low_ew",
+	"t_railroad_ramp_up_low_ns",
+	"t_railroad_ramp_up_low_ew"
+  ],
+  "bg": [],
+  "rotates": true
+}

@@ -1,0 +1,8 @@
+{
+  "id": "mon_skeleton_husk",
+  "fg": [
+    "mon_skeleton_husk"
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false
+}

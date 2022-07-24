@@ -1,0 +1,25 @@
+{
+  "id": ["mon_pigeon", "mon_pidgeon"],
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_pigeon_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_pigeon_2"
+    },
+	{
+      "weight": 3,
+      "sprite": "mon_pigeon_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_pigeon_4"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

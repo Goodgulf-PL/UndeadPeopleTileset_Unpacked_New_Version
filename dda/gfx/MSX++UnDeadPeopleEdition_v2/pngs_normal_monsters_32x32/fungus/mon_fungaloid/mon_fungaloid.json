@@ -1,0 +1,10 @@
+{
+  "id": "mon_fungaloid",
+  "fg": [
+    "mon_fungaloid"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

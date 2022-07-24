@@ -1,0 +1,46 @@
+{
+  "id": "t_palisade_gate_season_winter",
+  "fg": [
+    "t_palisade_gate"
+  ],
+  "bg": ["bg_dirt_season_winter"],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "edge",
+      "fg": [
+        "t_palisade_gate_edge_1",
+        "t_palisade_gate_edge_2"
+      ],
+      "bg": ["bg_dirt_season_winter"]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_palisade_gate_end_piece_1",
+        "t_palisade_gate_end_piece_2",
+        "t_palisade_gate_end_piece_3",
+        "t_palisade_gate_end_piece_4"
+      ],
+      "bg": ["bg_dirt_season_winter"]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_palisade_gate_t_connection_1",
+        "t_palisade_gate_t_connection_2",
+        "t_palisade_gate_t_connection_3",
+        "t_palisade_gate_t_connection_4"
+      ],
+      "bg": ["bg_dirt_season_winter"]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_palisade_gate_unconnected"
+      ],
+      "bg": ["bg_dirt_season_winter"]
+    }
+  ]
+}

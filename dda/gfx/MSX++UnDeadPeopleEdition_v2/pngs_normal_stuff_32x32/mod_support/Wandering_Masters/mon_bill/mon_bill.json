@@ -1,0 +1,8 @@
+{
+  "id": "mon_bill",
+  "fg": ["mon_bill"],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

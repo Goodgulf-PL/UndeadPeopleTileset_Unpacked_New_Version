@@ -1,0 +1,32 @@
+{
+  "id": "mon_zombie_pupa_decoy_shady",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_pupa_shady_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_pupa_shady_2"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_pupa_shady_3"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_pupa_shady_4"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_pupa_shady_3"
+    },
+    {
+      "weight": 25,
+      "sprite": "mon_zombie_pupa_shady_2"
+    }
+  ],
+  "bg": ["bg_shadow_normal"],
+  "rotates": false,
+  "animated": true
+}

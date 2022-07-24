@@ -1,0 +1,10 @@
+{
+  "id": "fire_drill",
+  "fg": [
+    "fire_drill"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

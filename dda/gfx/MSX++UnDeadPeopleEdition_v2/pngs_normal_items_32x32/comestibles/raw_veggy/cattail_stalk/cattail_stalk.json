@@ -1,0 +1,10 @@
+{
+  "id": "cattail_stalk",
+  "fg": [
+    "cattail_stalk"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

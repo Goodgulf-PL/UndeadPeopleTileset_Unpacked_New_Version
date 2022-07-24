@@ -1,0 +1,10 @@
+{
+  "id": "altered_phone",
+  "fg": [
+    "altered_phone"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

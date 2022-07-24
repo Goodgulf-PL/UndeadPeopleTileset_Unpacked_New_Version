@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_lead_bipod",
+  "fg": [
+    "lead_bipod"
+  ],
+  "bg": [],
+  "rotates": false
+}

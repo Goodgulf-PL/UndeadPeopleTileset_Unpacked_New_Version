@@ -1,0 +1,10 @@
+{
+  "id": "militarymap",
+  "fg": [
+    "militarymap"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

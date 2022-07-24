@@ -1,0 +1,10 @@
+{
+  "id": "t_tree_fungal",
+  "fg": [
+    "t_tree_fungal"
+  ],
+  "bg": [
+    "bg_big_fungal_dirt"
+  ],
+  "rotates": false
+}

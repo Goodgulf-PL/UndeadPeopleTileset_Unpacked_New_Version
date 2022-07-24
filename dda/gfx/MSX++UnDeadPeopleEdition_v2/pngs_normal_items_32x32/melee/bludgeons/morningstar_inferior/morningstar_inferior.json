@@ -1,0 +1,10 @@
+{
+  "id": "morningstar_inferior",
+  "fg": [
+    "morningstar_inferior"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

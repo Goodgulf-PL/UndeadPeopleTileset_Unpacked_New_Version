@@ -1,0 +1,10 @@
+{
+  "id": "quikclot",
+  "fg": [
+    "quikclot"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

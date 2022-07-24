@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_oxygen_tank",
+  "fg": [
+    "oxygen_tank"
+  ],
+  "bg": [],
+  "rotates": false
+}

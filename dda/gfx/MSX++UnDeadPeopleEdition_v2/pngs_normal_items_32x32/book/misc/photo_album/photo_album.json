@@ -1,0 +1,10 @@
+{
+  "id": "photo_album",
+  "fg": [
+    "photo_album"
+  ],
+  "bg": [
+    "bg_book_manual"
+  ],
+  "rotates": false
+}

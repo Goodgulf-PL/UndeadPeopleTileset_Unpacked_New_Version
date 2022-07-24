@@ -1,0 +1,10 @@
+{
+  "id": "hose_garden",
+  "fg": [
+    "hose"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "reloaded_shot_bird",
+  "fg": [
+    "reloaded_shot_bird"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

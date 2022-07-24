@@ -1,0 +1,10 @@
+{
+  "id": "power_armor_light_on",
+  "fg": [
+    "power_armor_light"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "hotdogs_campfire",
+  "fg": [
+    "hotdogs_campfire"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

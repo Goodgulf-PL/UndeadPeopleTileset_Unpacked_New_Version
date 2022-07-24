@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_runner_bag",
+  "fg": [
+    "runner_bag"
+  ],
+  "bg": [],
+  "rotates": false
+}

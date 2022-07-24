@@ -1,0 +1,10 @@
+{
+  "id": "recipe_lab_cvd",
+  "fg": [
+    "paper_graphics_temp"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

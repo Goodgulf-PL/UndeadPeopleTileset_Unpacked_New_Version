@@ -1,0 +1,10 @@
+{
+  "id": "mon_cat_calico",
+  "fg": [
+    "mon_cat_calico"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

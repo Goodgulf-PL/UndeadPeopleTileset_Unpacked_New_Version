@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_laser_sight",
+  "fg": [
+    "laser_sight"
+  ],
+  "bg": [],
+  "rotates": false
+}

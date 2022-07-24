@@ -1,0 +1,9 @@
+{
+  "id": "flintlock_shot",
+  "fg": [
+    "flintlock_shot"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

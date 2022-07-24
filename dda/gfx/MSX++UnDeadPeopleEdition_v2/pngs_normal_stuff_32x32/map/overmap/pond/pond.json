@@ -1,0 +1,6 @@
+[{
+  "id": ["pond_field", "pond_forest", "hot_springs", "pond_swamp"],
+  "fg": ["pond"],
+  "bg": [],
+  "rotates": false
+}]

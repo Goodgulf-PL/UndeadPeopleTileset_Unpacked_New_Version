@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_corpse_bloody",
+  "fg": [
+    "corpse_bloody"
+  ],
+  "bg": [],
+  "rotates": false
+}

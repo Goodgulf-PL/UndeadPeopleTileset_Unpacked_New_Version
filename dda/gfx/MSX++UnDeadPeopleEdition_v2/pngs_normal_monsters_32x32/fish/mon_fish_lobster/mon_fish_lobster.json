@@ -1,0 +1,10 @@
+{
+  "id": "mon_fish_lobster",
+  "fg": [
+    "mon_fish_lobster"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

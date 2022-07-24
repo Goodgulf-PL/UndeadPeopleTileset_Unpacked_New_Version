@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bolt_wood",
+  "fg": [
+    "bolt_wood"
+  ],
+  "bg": [],
+  "rotates": false
+}

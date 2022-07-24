@@ -1,0 +1,10 @@
+{
+  "id": "knee_pads",
+  "fg": [
+    "knee_pads"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "reloaded_10mm",
+  "fg": [
+    "reloaded_10mm"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

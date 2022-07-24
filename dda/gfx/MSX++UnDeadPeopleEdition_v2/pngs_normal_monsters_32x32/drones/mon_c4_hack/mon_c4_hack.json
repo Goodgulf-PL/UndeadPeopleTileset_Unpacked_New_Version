@@ -1,0 +1,10 @@
+{
+  "id": "mon_c4_hack",
+  "fg": [
+    "mon_c4_hack"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

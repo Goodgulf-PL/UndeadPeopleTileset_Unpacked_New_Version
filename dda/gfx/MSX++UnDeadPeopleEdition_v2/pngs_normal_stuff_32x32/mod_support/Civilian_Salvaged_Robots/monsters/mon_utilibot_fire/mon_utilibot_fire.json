@@ -1,0 +1,10 @@
+{
+  "id": "mon_utilibot_fire",
+  "fg": [
+    "mon_utilibot_fire"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

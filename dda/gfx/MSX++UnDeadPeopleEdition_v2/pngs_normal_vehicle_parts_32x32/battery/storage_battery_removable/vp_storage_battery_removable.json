@@ -1,0 +1,10 @@
+{
+  "id": "vp_storage_battery_removable",
+  "fg": [
+    "vp_storage_battery_removable"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

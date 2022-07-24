@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_engine_block_tiny",
+  "fg": [
+    "engine_block_tiny"
+  ],
+  "bg": [],
+  "rotates": true
+}

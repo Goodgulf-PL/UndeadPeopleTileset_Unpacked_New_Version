@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_motor_micro",
+  "fg": [
+    "motor_micro"
+  ],
+  "bg": [],
+  "rotates": false
+}

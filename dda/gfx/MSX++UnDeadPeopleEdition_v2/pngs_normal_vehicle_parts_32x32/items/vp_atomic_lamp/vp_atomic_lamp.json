@@ -1,0 +1,10 @@
+{
+  "id": "vp_atomic_lamp",
+  "fg": [
+    "vp_atomic_lamp"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": true
+}

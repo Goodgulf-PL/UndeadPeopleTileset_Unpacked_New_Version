@@ -1,0 +1,10 @@
+{
+  "id": "tumbler_plastic",
+  "fg": [
+    "tumbler_plastic"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

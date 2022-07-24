@@ -1,0 +1,10 @@
+{
+  "id": "mon_hazmatbot",
+  "fg": [
+    "mon_hazmatbot"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

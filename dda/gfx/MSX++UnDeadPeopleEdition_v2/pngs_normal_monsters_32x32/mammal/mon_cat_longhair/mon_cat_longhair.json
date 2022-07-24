@@ -1,0 +1,10 @@
+{
+  "id": "mon_cat_longhair",
+  "fg": [
+    "mon_cat_longhair"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

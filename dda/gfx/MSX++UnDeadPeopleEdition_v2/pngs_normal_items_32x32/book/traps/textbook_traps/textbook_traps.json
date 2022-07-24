@@ -1,0 +1,10 @@
+{
+  "id": "textbook_traps",
+  "fg": [
+    "textbook_traps"
+  ],
+  "bg": [
+    "bg_book_adv"
+  ],
+  "rotates": false
+}

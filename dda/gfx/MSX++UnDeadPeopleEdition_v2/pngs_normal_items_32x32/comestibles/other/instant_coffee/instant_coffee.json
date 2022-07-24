@@ -1,0 +1,10 @@
+{
+  "id": "instant_coffee",
+  "fg": [
+    "instant_coffee"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "shovel_snow",
+  "fg": [
+    "shovel_snow"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

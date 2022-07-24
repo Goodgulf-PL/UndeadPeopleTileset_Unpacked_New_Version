@@ -1,0 +1,10 @@
+{
+  "id": "mininuke",
+  "fg": [
+    "mininuke"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

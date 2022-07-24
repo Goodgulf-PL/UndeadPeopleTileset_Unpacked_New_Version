@@ -1,0 +1,10 @@
+{
+  "id": "briefcase_smg",
+  "fg": [
+    "briefcase_smg"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "pressurized_tank_chem",
+  "fg": [
+    "pressurized_tank_chem"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

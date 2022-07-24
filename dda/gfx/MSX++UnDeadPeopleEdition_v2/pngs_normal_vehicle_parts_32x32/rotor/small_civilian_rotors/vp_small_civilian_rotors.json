@@ -1,0 +1,18 @@
+{
+  "id": "vp_small_civilian_rotors",
+  "fg": [
+    "vp_small_civilian_rotors"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_small_civilian_rotors_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

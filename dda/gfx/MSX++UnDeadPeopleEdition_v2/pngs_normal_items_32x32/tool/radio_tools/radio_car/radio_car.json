@@ -1,0 +1,10 @@
+{
+  "id": "radio_car",
+  "fg": [
+    "radio_car"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

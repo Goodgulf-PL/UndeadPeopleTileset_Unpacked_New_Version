@@ -1,0 +1,10 @@
+{
+  "id": "rad_monitor",
+  "fg": [
+    "rad_monitor"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

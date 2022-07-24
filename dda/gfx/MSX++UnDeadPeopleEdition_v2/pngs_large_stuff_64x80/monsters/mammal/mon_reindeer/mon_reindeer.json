@@ -1,0 +1,10 @@
+{
+  "id": "mon_reindeer",
+  "fg": [
+    "mon_reindeer"
+  ],
+  "bg": [
+    "bg_big_large_shadow"
+  ],
+  "rotates": false
+}

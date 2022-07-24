@@ -1,0 +1,10 @@
+{
+  "id": "biodiesel",
+  "fg": [
+    "biodiesel"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

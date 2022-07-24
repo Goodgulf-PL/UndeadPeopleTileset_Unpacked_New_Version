@@ -1,0 +1,10 @@
+{
+  "id": "slime_scrap",
+  "fg": [
+    "slime_scrap"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

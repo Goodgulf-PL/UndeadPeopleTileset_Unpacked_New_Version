@@ -1,0 +1,29 @@
+{
+  "id": "mon_zombie_screecher",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_screecher_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_screecher_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_screecher_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_screecher_4"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_screecher_5"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

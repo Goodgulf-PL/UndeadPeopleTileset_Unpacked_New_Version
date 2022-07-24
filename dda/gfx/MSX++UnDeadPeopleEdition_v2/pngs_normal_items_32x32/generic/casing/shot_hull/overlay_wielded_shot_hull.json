@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_shot_hull",
+  "fg": [
+    "shot_hull"
+  ],
+  "bg": [],
+  "rotates": false
+}

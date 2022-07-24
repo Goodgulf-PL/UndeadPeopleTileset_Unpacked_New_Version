@@ -1,0 +1,10 @@
+{
+  "id": "text_gunsmith",
+  "fg": [
+    "manual_gun"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

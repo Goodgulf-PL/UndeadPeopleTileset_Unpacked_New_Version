@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bot_skitterbot",
+  "fg": [
+    "bot_skitterbot"
+  ],
+  "bg": [],
+  "rotates": false
+}

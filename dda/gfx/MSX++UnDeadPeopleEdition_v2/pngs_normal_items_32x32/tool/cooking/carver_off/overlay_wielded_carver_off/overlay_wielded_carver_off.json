@@ -1,0 +1,10 @@
+{
+  "id": "overlay_wielded_carver_off",
+  "fg": [
+    "overlay_wielded_carver_off"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

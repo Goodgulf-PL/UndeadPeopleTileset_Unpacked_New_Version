@@ -1,0 +1,6 @@
+{
+  "id": ["public_works_NE", "public_works_NW", "public_works_SE", "public_works_SW"],
+  "fg": ["plug_public_works"],
+  "bg": [],
+  "rotates": false
+}

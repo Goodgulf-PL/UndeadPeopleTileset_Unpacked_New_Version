@@ -1,0 +1,84 @@
+{
+  "id": "t_scrap_wall_halfway",
+  "fg": [
+    "t_scrap_wall_halfway"
+  ],
+  "bg": [
+    "t_metal_floor",
+    "t_secretdoor_metal_o"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_scrap_wall_halfway_center"
+      ],
+      "bg": [
+        "t_metal_floor",
+        "t_secretdoor_metal_o"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_scrap_wall_halfway_corner_1",
+        "t_scrap_wall_halfway_corner_2",
+        "t_scrap_wall_halfway_corner_3",
+        "t_scrap_wall_halfway_corner_4"
+      ],
+      "bg": [
+        "t_metal_floor",
+        "t_secretdoor_metal_o"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_scrap_wall_halfway_t_connection_1",
+        "t_scrap_wall_halfway_t_connection_2",
+        "t_scrap_wall_halfway_t_connection_3",
+        "t_scrap_wall_halfway_t_connection_4"
+      ],
+      "bg": [
+        "t_metal_floor",
+        "t_secretdoor_metal_o"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_scrap_wall_halfway_edge_1",
+        "t_scrap_wall_halfway_edge_2"
+      ],
+      "bg": [
+        "t_metal_floor",
+        "t_secretdoor_metal_o"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_scrap_wall_halfway_end_piece_1",
+        "t_scrap_wall_halfway_end_piece_2",
+        "t_scrap_wall_halfway_end_piece_3",
+        "t_scrap_wall_halfway_end_piece_4"
+      ],
+      "bg": [
+        "t_metal_floor",
+        "t_secretdoor_metal_o"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_scrap_wall_halfway_unconnected"
+      ],
+      "bg": [
+        "t_metal_floor",
+        "t_secretdoor_metal_o"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "plastic_scrap",
+  "fg": [
+    "plastic_scrap"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

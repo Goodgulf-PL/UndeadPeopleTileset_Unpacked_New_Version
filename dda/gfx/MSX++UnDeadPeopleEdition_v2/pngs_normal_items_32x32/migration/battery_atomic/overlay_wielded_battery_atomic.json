@@ -1,0 +1,7 @@
+{
+  "id": "overlay_wielded_battery_atomic",
+  "fg": [
+    "battery_atomic"
+  ],
+  "bg": []
+}

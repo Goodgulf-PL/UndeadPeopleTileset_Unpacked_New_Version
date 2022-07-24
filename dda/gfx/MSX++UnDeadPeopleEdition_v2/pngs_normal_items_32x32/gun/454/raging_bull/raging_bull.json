@@ -1,0 +1,10 @@
+{
+  "id": "raging_bull",
+  "fg": [
+    "raging_bull"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

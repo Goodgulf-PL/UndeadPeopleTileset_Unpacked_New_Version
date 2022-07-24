@@ -1,0 +1,10 @@
+{
+  "id": "mon_beaver_mutant_avian",
+  "fg": [
+    "mon_beaver_mutant_avian"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

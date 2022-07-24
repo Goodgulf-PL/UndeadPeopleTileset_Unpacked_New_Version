@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bio_plut_filter",
+  "fg": [
+    "bio_plut_filter"
+  ],
+  "bg": [],
+  "rotates": false
+}

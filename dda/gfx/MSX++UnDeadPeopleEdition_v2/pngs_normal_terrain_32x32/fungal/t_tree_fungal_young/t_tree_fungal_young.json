@@ -1,0 +1,10 @@
+{
+  "id": "t_tree_fungal_young",
+  "fg": [
+    "t_tree_fungal_young"
+  ],
+  "bg": [
+    "bg_fungal"
+  ],
+  "rotates": false
+}

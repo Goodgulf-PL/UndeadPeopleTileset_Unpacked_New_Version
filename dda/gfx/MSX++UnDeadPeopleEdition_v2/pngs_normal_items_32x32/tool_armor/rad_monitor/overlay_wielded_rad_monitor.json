@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_rad_monitor",
+  "fg": [
+    "rad_monitor"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "axe",
+  "fg": [
+    "ax"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

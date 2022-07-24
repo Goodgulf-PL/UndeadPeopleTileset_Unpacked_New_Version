@@ -1,0 +1,10 @@
+{
+  "id": "roasted_cattail_rhizome",
+  "fg": [
+    "roasted_cattail_rhizome"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

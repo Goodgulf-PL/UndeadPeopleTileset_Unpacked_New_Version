@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_processor",
+  "fg": [
+    "processor"
+  ],
+  "bg": [],
+  "rotates": false
+}

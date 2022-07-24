@@ -1,0 +1,10 @@
+{
+  "id": "38_special",
+  "fg": [
+    "38_special"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

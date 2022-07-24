@@ -1,0 +1,8 @@
+{
+  "id": "broken_turret",
+  "fg": [
+    "broken_turret"
+  ],
+  "bg": ["bg_shadow_turret_offset"],
+  "rotates": true
+}

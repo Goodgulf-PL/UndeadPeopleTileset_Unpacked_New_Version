@@ -1,0 +1,10 @@
+{
+  "id": "tall_tales",
+  "fg": [
+    "tall_tales"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

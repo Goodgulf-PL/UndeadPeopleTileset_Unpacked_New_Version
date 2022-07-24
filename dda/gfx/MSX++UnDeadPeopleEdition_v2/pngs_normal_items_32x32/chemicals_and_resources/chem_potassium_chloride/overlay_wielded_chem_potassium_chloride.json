@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_chem_potassium_chloride",
+  "fg": [
+    "chem_potassium_chloride"
+  ],
+  "bg": [],
+  "rotates": false
+}

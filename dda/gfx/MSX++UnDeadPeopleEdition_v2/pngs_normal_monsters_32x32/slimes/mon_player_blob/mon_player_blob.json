@@ -1,0 +1,10 @@
+{
+  "id": "mon_player_blob",
+  "fg": [
+    "mon_player_blob"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "f_exodii_generator_4",
+  "fg": [
+    "f_exodii_generator_4"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "f_exodii_generator_4_center"
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_exodii_generator_4_corner_1",
+        "f_exodii_generator_4_corner_2",
+        "f_exodii_generator_4_corner_3",
+        "f_exodii_generator_4_corner_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_exodii_generator_4_t_connection_1",
+        "f_exodii_generator_4_t_connection_2",
+        "f_exodii_generator_4_t_connection_3",
+        "f_exodii_generator_4_t_connection_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_exodii_generator_4_edge_1",
+        "f_exodii_generator_4_edge_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_exodii_generator_4_end_piece_1",
+        "f_exodii_generator_4_end_piece_2",
+        "f_exodii_generator_4_end_piece_3",
+        "f_exodii_generator_4_end_piece_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_exodii_generator_4_unconnected"
+      ],
+      "bg": []
+    }
+  ]
+}

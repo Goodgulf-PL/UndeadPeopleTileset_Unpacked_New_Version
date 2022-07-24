@@ -1,0 +1,10 @@
+{
+  "id": "gloves_fingerless_mod",
+  "fg": [
+    "gloves_fingerless_mod"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "nailrifle",
+  "fg": [
+    "nailrifle"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

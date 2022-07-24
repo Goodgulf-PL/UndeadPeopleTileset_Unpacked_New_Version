@@ -1,0 +1,9 @@
+{
+  "id": "lightstrip_dead",
+  "fg": [
+    "lightstrip_dead"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

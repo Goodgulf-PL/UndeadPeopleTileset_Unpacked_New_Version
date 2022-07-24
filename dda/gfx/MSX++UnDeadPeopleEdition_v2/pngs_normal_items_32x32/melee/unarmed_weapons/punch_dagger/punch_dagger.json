@@ -1,0 +1,10 @@
+{
+  "id": "punch_dagger",
+  "fg": [
+    "punch_dagger"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

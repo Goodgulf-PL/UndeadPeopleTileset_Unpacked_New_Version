@@ -1,0 +1,10 @@
+{
+  "id": "reinforced_glass_sheet",
+  "fg": [
+    "reinforced_glass_sheet"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

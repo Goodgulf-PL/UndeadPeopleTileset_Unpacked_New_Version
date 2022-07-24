@@ -1,0 +1,10 @@
+{
+  "id": "small_repairkit",
+  "fg": [
+    "small_repairkit"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "reloaded_shot_slug",
+  "fg": [
+    "reloaded_shot_slug"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

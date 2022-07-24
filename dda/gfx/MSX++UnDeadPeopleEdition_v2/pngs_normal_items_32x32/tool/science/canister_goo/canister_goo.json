@@ -1,0 +1,10 @@
+{
+  "id": "canister_goo",
+  "fg": [
+    "canister_goo"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

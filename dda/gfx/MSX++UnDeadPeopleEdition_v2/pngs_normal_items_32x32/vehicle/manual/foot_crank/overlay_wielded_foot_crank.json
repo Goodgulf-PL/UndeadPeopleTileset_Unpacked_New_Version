@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_foot_crank",
+  "fg": [
+    "foot_crank"
+  ],
+  "bg": [],
+  "rotates": false
+}

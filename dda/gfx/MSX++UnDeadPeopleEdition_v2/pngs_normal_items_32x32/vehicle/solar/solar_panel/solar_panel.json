@@ -1,0 +1,10 @@
+{
+  "id": "solar_panel",
+  "fg": [
+    "solar_panel"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

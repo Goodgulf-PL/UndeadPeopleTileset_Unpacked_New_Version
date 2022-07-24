@@ -1,0 +1,10 @@
+{
+  "id": "rs_scientist_notes",
+  "fg": [
+    "rs_scientist_notes"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

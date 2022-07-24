@@ -1,0 +1,10 @@
+{
+  "id": "broadfire_off",
+  "fg": [
+    "broadfire_off"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

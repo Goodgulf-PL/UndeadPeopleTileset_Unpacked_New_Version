@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_bread",
+  "fg": [
+    "bread"
+  ],
+  "bg": [],
+  "rotates": false
+}

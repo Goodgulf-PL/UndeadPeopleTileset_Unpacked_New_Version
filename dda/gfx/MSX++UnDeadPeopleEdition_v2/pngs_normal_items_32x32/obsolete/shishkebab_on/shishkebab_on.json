@@ -1,0 +1,10 @@
+{
+  "id": "shishkebab_on",
+  "fg": [
+    "shishkebab_on"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

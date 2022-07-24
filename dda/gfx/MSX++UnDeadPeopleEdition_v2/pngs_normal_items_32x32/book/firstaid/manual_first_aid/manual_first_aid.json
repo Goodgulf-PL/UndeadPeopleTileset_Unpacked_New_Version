@@ -1,0 +1,10 @@
+{
+  "id": "manual_first_aid",
+  "fg": [
+    "manual_first_aid"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

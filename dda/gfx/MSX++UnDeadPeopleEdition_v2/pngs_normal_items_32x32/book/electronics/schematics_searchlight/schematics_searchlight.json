@@ -1,0 +1,8 @@
+{
+  "id": "schematics_searchlight",
+  "fg": [
+    "schematics_temp"
+  ],
+  "bg": [],
+  "rotates": true
+}

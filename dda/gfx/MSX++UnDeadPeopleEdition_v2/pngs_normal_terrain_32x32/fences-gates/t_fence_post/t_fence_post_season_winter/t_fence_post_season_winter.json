@@ -1,0 +1,9 @@
+{
+  "id": "t_fence_post_season_winter",
+  "fg": [
+    "t_fence_post"
+  ],
+  "bg": [
+    "bg_dirt_season_winter"
+  ]
+}

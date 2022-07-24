@@ -1,0 +1,10 @@
+{
+  "id": "t_shrub_hydrangea_harvested",
+  "fg": [
+    "t_shrub_hydrangea_harvested"
+  ],
+  "bg": [
+    "bg_dirt"
+  ],
+  "rotates": false
+}

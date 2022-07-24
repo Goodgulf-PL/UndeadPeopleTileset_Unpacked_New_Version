@@ -1,0 +1,10 @@
+{
+  "id": "atomic_lamp",
+  "fg": [
+    "atomic_lamp"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

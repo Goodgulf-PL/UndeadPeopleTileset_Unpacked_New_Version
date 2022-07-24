@@ -1,0 +1,10 @@
+{
+  "id": "t_fern",
+  "fg": [
+    "t_fern"
+  ],
+  "bg": [
+    "bg_dirt"
+  ],
+  "rotates": false
+}

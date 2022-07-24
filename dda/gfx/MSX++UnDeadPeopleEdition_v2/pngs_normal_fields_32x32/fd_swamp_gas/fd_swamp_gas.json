@@ -1,0 +1,47 @@
+{
+  "id": "fd_swamp_gas",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "fd_swamp_gas_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_swamp_gas_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_swamp_gas_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_swamp_gas_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_swamp_gas_5"
+    },    
+	{
+      "weight": 10,
+      "sprite": "fd_swamp_gas_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_swamp_gas_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_swamp_gas_8"
+    },   
+	{
+      "weight": 10,
+      "sprite": "fd_swamp_gas_9"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_swamp_gas_10"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

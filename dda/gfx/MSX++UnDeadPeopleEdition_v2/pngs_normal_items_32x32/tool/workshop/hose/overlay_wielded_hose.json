@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_hose",
+  "fg": [
+    "hose"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,149 @@
+{
+  "id": "mon_zombie",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_3"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_4"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_5"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_6"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_7"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_8"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_9"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_10"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_11"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_12"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_zombie_13"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_14"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_15"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_16"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_17"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_18"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_19"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_20"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_21"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_22"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_23"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_24"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_25"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_26"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_27"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_28"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_29"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_30"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_31"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_32"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_33"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_34"
+    },
+    {
+      "weight": 3,
+      "sprite": "mon_zombie_35"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

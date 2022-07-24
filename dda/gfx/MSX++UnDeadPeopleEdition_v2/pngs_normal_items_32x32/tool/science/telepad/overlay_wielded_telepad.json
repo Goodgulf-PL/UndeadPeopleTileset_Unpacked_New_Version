@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_telepad",
+  "fg": [
+    "telepad"
+  ],
+  "bg": [],
+  "rotates": false
+}

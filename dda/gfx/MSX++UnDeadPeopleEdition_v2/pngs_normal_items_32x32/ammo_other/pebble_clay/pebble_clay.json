@@ -1,0 +1,9 @@
+{
+  "id": "pebble_clay",
+  "fg": [
+    "pebble_clay"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

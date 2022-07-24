@@ -1,0 +1,10 @@
+{
+  "id": "tool_belt",
+  "fg": [
+    "tool_belt"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

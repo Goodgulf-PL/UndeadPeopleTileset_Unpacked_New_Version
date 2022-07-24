@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_android_arms",
+  "fg": [
+    "android_arms"
+  ],
+  "bg": [],
+  "rotates": false
+}

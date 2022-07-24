@@ -1,0 +1,10 @@
+{
+  "id": "rag_bloody",
+  "fg": [
+    "rag_bloody"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

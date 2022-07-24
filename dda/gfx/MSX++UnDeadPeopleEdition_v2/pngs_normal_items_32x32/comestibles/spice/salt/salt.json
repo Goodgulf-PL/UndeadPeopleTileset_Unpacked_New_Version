@@ -1,0 +1,10 @@
+{
+  "id": "salt",
+  "fg": [
+    "salt"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_nursebot",
+  "fg": [
+    "mon_nursebot"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

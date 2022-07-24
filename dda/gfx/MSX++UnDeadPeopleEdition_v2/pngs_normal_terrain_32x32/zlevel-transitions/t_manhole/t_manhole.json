@@ -1,0 +1,18 @@
+{
+  "id": "t_manhole",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "t_manhole_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "t_manhole_2"
+    }
+  ],
+  "bg": [
+    "bg_pavement"
+  ],
+  "rotates": false,
+  "animated": true
+}

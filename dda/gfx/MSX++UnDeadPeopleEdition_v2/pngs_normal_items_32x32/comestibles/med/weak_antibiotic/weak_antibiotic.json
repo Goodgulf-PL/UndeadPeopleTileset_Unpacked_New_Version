@@ -1,0 +1,10 @@
+{
+  "id": "weak_antibiotic",
+  "fg": [
+    "weak_antibiotic"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

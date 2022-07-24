@@ -1,0 +1,10 @@
+{
+  "id": "knife_rambo",
+  "fg": [
+    "knife_rambo"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

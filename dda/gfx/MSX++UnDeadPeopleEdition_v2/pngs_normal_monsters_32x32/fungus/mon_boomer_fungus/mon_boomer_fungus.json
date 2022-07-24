@@ -1,0 +1,10 @@
+{
+  "id": "mon_boomer_fungus",
+  "fg": [
+    "mon_boomer_fungus"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

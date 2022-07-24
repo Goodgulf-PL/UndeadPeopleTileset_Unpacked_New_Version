@@ -1,0 +1,10 @@
+{
+  "id": "cattail_rhizome",
+  "fg": [
+    "cattail_rhizome"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "kiln_lit",
+  "fg": [
+    "kiln_lit"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

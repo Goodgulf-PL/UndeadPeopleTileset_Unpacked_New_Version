@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_reloaded_laser_pack",
+  "fg": [
+    "reloaded_laser_pack"
+  ],
+  "bg": [],
+  "rotates": false
+}

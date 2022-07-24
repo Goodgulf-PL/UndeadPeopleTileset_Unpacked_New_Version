@@ -1,0 +1,10 @@
+{
+  "id": "t_pedestal_temple",
+  "fg": [
+    "t_pedestal_temple"
+  ],
+  "bg": [
+    "bg_dirt"
+  ],
+  "rotates": false
+}

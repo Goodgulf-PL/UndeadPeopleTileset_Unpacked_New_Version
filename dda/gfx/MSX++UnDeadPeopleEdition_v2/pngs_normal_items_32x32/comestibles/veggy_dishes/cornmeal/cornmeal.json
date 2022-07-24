@@ -1,0 +1,10 @@
+{
+  "id": "cornmeal",
+  "fg": [
+    "cornmeal"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

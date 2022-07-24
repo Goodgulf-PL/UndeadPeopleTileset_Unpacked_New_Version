@@ -1,0 +1,10 @@
+{
+  "id": "turret_controls",
+  "fg": [
+    "turret_controls"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

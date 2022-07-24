@@ -1,0 +1,10 @@
+{
+  "id": "dao",
+  "fg": [
+    "dao"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": "altered_stopwatch",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "altered_stopwatch_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "altered_stopwatch_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "altered_stopwatch_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "altered_stopwatch_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "altered_stopwatch_5"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

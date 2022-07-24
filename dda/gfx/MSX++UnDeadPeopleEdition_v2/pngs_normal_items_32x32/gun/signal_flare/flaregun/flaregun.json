@@ -1,0 +1,10 @@
+{
+  "id": "flaregun",
+  "fg": [
+    "flaregun"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

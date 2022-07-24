@@ -1,0 +1,10 @@
+{
+  "id": "fc_hairpin",
+  "fg": [
+    "fc_hairpin"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "alternator_motorbike",
+  "fg": [
+    "alternator_motorbike"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

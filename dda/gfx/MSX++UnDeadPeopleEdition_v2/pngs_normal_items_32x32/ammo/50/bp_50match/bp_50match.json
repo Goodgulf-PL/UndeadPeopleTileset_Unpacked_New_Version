@@ -1,0 +1,10 @@
+{
+  "id": "bp_50match",
+  "fg": [
+    "bp_50match"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

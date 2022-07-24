@@ -1,0 +1,10 @@
+{
+  "id": "mon_homunculus",
+  "fg": [
+    "mon_homunculus"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

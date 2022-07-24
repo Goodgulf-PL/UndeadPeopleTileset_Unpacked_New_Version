@@ -1,0 +1,10 @@
+{
+  "id": "q_staff",
+  "fg": [
+    "q_staff"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

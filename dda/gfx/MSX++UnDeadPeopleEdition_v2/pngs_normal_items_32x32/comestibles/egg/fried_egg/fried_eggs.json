@@ -1,0 +1,10 @@
+{
+  "id": "fried_eggs",
+  "fg": [
+    "fried_eggs"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

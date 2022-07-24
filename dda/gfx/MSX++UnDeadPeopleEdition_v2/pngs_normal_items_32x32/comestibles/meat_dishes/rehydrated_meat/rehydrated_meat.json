@@ -1,0 +1,10 @@
+{
+  "id": "rehydrated_meat",
+  "fg": [
+    "rehydrated_meat"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

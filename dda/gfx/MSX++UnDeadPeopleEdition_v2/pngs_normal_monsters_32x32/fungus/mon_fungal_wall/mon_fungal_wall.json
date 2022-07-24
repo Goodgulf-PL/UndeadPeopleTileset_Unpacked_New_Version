@@ -1,0 +1,10 @@
+{
+  "id": "mon_fungal_wall",
+  "fg": [
+    "mon_fungal_wall"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

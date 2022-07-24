@@ -1,0 +1,10 @@
+{
+  "id": "medical_gauze",
+  "fg": [
+    "medical_gauze"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

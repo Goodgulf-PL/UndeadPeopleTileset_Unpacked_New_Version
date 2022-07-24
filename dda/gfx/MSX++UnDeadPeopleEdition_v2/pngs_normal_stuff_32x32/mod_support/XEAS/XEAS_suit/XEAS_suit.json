@@ -1,0 +1,10 @@
+{
+  "id": "XEAS_suit",
+  "fg": [
+    "XEAS_suit"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

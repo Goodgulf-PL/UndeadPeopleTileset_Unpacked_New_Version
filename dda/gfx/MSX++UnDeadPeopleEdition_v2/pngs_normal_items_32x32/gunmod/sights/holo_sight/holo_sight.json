@@ -1,0 +1,10 @@
+{
+  "id": "holo_sight",
+  "fg": [
+    "holo_sight"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

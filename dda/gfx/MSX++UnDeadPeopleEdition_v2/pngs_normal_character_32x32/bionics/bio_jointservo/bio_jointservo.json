@@ -1,0 +1,8 @@
+{
+  "id": "bio_jointservo",
+  "fg": [
+    "cbm_fault"
+  ],
+  "bg": [],
+  "rotates": false
+}

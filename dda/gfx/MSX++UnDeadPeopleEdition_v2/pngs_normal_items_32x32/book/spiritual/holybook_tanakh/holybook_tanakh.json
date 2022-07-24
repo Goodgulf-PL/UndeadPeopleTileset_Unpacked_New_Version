@@ -1,0 +1,10 @@
+{
+  "id": "holybook_tanakh",
+  "fg": [
+    "holybook_cover_temp"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

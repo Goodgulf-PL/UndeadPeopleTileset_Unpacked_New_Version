@@ -1,0 +1,10 @@
+{
+  "id": "t_underbrush_harvested_spring_season_winter",
+  "fg": [
+    "t_underbrush_harvested_spring_season_winter"
+  ],
+  "bg": [
+    "bg_big_snow"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "western_holster",
+  "fg": [
+    "western_holster"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

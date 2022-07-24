@@ -1,0 +1,10 @@
+{
+  "id": "suppressor",
+  "fg": [
+    "suppressor"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": "vp_afs_small_roof_external_tank",
+  "fg": [
+    "vp_afs_small_roof_external_tank"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_afs_small_roof_external_tank_broken"
+      ],
+      "bg": []
+    }
+  ]
+}

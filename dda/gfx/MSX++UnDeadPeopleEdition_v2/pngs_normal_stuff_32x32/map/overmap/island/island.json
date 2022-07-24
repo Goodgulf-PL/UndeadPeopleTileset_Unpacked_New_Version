@@ -1,0 +1,11 @@
+[{
+  "id": ["island"],
+  "fg": ["island"],
+  "bg": [],
+  "rotates": false
+},{
+  "id": ["island_sand"],
+  "fg": ["island_sand"],
+  "bg": [],
+  "rotates": false
+}]

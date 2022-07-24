@@ -1,0 +1,19 @@
+{
+  "id": "overlay_wielded_ref_lighter_on",
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "overlay_wielded_ref_lighter_on_1"
+    },
+    {
+      "weight": 3,
+      "sprite": "overlay_wielded_ref_lighter_on_2"
+    },
+    {
+      "weight": 3,
+      "sprite": "overlay_wielded_ref_lighter_on_3"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

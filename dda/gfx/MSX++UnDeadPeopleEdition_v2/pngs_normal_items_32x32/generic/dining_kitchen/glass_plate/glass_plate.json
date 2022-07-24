@@ -1,0 +1,10 @@
+{
+  "id": "glass_plate",
+  "fg": [
+    "glass_plate"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mon_dermatik_midwife",
+  "fg": [
+    "mon_dermatik_midwife"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

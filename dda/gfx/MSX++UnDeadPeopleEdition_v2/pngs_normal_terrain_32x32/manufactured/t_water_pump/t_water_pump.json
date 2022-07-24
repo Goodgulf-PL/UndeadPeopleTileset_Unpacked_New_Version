@@ -1,0 +1,10 @@
+{
+  "id": "t_water_pump",
+  "fg": [
+    "t_water_pump"
+  ],
+  "bg": [
+    "bg_metal_block"
+  ],
+  "rotates": false
+}

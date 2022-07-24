@@ -1,0 +1,10 @@
+{
+  "id": "prophylactic_antivenom",
+  "fg": [
+    "prophylactic_antivenom"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

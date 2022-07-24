@@ -1,0 +1,10 @@
+{
+  "id": "cured_hide",
+  "fg": [
+    "cured_hide"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "rock_sock",
+  "fg": [
+    "rock_sock"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_wire_mesh",
+  "fg": [
+    "wire_mesh"
+  ],
+  "bg": [],
+  "rotates": false
+}

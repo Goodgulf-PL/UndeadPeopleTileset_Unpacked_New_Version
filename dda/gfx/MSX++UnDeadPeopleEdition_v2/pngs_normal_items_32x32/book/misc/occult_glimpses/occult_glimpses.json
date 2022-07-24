@@ -1,0 +1,10 @@
+{
+  "id": "occult_glimpses",
+  "fg": [
+    "story_book"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

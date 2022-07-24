@@ -1,0 +1,10 @@
+{
+  "id": "pointy_stick",
+  "fg": [
+    "pointy_stick"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

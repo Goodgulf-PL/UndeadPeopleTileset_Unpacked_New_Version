@@ -1,0 +1,10 @@
+{
+  "id": "mask_bunker",
+  "fg": [
+    "mask_bunker"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

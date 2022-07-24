@@ -1,0 +1,10 @@
+{
+  "id": "w_paint",
+  "fg": [
+    "w_paint"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

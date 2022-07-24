@@ -1,0 +1,75 @@
+{
+  "id": "t_slime",
+  "fg": [
+    "t_slime"
+  ],
+  "bg": [],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "t_slime_center"
+      ],
+      "bg": [
+        "bg_stone_floor"
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_slime_corner_1",
+        "t_slime_corner_2",
+        "t_slime_corner_3",
+        "t_slime_corner_4"
+      ],
+      "bg": [
+        "bg_stone_floor"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_slime_t_connection_1",
+        "t_slime_t_connection_2",
+        "t_slime_t_connection_3",
+        "t_slime_t_connection_4"
+      ],
+      "bg": [
+        "bg_stone_floor"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_slime_edge_1",
+        "t_slime_edge_2"
+      ],
+      "bg": [
+        "bg_stone_floor"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_slime_end_piece_1",
+        "t_slime_end_piece_2",
+        "t_slime_end_piece_3",
+        "t_slime_end_piece_4"
+      ],
+      "bg": [
+        "bg_stone_floor"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_slime_unconnected"
+      ],
+      "bg": [
+        "bg_stone_floor"
+      ]
+    }
+  ]
+}

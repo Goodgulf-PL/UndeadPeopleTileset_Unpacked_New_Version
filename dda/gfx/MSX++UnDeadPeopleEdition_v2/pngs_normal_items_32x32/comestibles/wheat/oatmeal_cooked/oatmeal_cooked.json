@@ -1,0 +1,10 @@
+{
+  "id": "oatmeal_cooked",
+  "fg": [
+    "oatmeal_cooked"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

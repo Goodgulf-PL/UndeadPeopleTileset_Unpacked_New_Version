@@ -1,0 +1,63 @@
+{
+  "id": "f_alien_table",
+  "fg": [
+    "f_alien_table"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        "f_alien_table_center"
+      ],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_alien_table_corner_1",
+        "f_alien_table_corner_2",
+        "f_alien_table_corner_3",
+        "f_alien_table_corner_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_alien_table_t_connection_1",
+        "f_alien_table_t_connection_2",
+        "f_alien_table_t_connection_3",
+        "f_alien_table_t_connection_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_alien_table_edge_1",
+        "f_alien_table_edge_2"
+      ],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_alien_table_end_piece_1",
+        "f_alien_table_end_piece_2",
+        "f_alien_table_end_piece_3",
+        "f_alien_table_end_piece_4"
+      ],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_alien_table_unconnected"
+      ],
+      "bg": []
+    }
+  ]
+}

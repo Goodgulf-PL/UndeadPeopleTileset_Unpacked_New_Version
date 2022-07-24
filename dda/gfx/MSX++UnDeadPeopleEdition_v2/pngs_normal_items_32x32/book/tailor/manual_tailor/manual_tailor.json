@@ -1,0 +1,10 @@
+{
+  "id": "manual_tailor",
+  "fg": [
+    "manual_tailor"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

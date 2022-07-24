@@ -1,0 +1,10 @@
+{
+  "id": "sushi_meatroll",
+  "fg": [
+    "sushi_meatroll"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

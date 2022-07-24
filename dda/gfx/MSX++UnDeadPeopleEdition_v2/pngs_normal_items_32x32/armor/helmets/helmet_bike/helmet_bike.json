@@ -1,0 +1,10 @@
+{
+  "id": "helmet_bike",
+  "fg": [
+    "helmet_bike"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

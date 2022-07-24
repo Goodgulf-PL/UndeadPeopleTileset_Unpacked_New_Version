@@ -1,0 +1,10 @@
+{
+  "id": "knife_paring",
+  "fg": [
+    "knife_paring"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

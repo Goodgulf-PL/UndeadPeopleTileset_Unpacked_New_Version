@@ -1,0 +1,23 @@
+{
+  "id": "mon_hallu_mannequin",
+  "fg": [
+    {
+      "weight": 100,
+      "sprite": "mon_hallu_mannequin_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_hallu_mannequin_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_hallu_mannequin_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "mon_hallu_mannequin_4"
+    }
+  ],
+  "bg": ["bg_shadow_normal"],
+  "animated": true
+}

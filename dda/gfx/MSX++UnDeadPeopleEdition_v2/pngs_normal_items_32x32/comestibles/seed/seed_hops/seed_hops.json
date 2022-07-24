@@ -1,0 +1,10 @@
+{
+  "id": "seed_hops",
+  "fg": [
+    "seed_hops"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "heavy_flashlight",
+  "fg": [
+    "heavy_flashlight"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

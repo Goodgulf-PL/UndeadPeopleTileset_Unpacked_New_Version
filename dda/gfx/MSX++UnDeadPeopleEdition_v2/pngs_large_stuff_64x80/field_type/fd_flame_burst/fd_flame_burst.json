@@ -1,0 +1,32 @@
+{
+  "id": "fd_flame_burst",
+  "fg": [
+    {
+      "weight": 11,
+      "sprite": "fd_fire_vent_1"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_vent_2"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_vent_3"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_vent_4"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_vent_5"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_vent_6"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}

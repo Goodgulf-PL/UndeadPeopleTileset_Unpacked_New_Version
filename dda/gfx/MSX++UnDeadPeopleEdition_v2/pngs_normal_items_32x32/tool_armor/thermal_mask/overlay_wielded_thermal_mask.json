@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_thermal_mask",
+  "fg": [
+    "thermal_mask"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "bio_alarm",
+  "fg": [
+    "cbm_temp"
+  ],
+  "bg": [],
+  "rotates": false
+}

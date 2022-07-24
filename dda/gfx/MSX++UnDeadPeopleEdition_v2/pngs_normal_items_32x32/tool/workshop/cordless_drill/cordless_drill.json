@@ -1,0 +1,10 @@
+{
+  "id": "cordless_drill",
+  "fg": [
+    "cordless_drill"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "knitting_needles",
+  "fg": [
+    "knitting_needles"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

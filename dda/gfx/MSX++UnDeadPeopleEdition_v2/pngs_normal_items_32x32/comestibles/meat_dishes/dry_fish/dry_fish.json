@@ -1,0 +1,10 @@
+{
+  "id": "dry_fish",
+  "fg": [
+    "dry_fish"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "lead",
+  "fg": [
+    "lead"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

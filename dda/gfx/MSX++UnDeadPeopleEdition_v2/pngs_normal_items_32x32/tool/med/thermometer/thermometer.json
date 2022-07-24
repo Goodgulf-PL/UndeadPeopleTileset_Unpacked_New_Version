@@ -1,0 +1,10 @@
+{
+  "id": "thermometer",
+  "fg": [
+    "thermometer"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "t_triffid_leaves",
+  "fg": [
+    "t_triffid_leaves"
+  ],
+  "bg": [
+    "bg_grass"
+  ],
+  "rotates": false
+}

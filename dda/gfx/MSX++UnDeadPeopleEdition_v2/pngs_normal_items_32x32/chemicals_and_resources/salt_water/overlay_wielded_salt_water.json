@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_salt_water",
+  "fg": [
+    "salt_water"
+  ],
+  "bg": [],
+  "rotates": false
+}

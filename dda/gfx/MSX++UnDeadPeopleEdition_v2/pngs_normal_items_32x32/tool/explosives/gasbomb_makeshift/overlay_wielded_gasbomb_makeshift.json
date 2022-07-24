@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_gasbomb_makeshift",
+  "fg": [
+    "gasbomb_makeshift"
+  ],
+  "bg": [],
+  "rotates": false
+}

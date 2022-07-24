@@ -1,0 +1,10 @@
+{
+  "id": "power_armor_heavy",
+  "fg": [
+    "power_armor_heavy"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

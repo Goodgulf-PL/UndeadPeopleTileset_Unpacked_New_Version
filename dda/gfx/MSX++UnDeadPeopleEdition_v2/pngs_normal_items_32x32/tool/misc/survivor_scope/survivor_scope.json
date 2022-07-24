@@ -1,0 +1,10 @@
+{
+  "id": "survivor_scope",
+  "fg": [
+    "survivor_scope"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "t_gate_metal_o",
+  "fg": [
+    "t_gate_metal_o"
+  ],
+  "bg": [
+    "t_thconc_floor"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_module_meteorologist",
+  "fg": [
+    "module_meteorologist"
+  ],
+  "bg": [],
+  "rotates": false
+}

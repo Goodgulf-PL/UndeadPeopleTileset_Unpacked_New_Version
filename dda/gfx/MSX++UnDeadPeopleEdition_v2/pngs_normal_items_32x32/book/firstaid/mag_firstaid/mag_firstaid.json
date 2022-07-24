@@ -1,0 +1,10 @@
+{
+  "id": "mag_firstaid",
+  "fg": [
+    "mag_firstaid"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

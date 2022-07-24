@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_mp3_on",
+  "fg": [
+    "mp3_on"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,31 @@
+{
+  "id": "art_spiral",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "art_spiral_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_spiral_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_spiral_3"
+    },   
+	{
+      "weight": 10,
+      "sprite": "art_spiral_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_spiral_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "art_spiral_6"
+	  }
+  ],
+  "bg": [],
+  "animated": true
+}

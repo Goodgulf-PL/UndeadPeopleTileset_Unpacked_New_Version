@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_survival_kit_box",
+  "fg": [
+    "survival_kit_box"
+  ],
+  "bg": [],
+  "rotates": true
+}

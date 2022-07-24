@@ -1,0 +1,10 @@
+{
+  "id": "t_shrub_hydrangea_season_winter",
+  "fg": [
+    "t_shrub_hydrangea_season_winter"
+  ],
+  "bg": [
+    "bg_dirt_season_winter"
+  ],
+  "rotates": false
+}

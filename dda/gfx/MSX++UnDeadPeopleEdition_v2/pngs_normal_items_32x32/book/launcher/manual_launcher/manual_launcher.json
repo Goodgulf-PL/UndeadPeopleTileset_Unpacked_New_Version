@@ -1,0 +1,10 @@
+{
+  "id": "manual_launcher",
+  "fg": [
+    "manual_launcher"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

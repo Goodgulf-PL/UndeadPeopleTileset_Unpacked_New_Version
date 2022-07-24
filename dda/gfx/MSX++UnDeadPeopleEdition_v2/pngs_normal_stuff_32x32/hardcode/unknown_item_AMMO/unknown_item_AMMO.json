@@ -1,0 +1,10 @@
+{
+  "id": "unknown_item_AMMO",
+  "fg": [
+    "unknown_item_AMMO"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

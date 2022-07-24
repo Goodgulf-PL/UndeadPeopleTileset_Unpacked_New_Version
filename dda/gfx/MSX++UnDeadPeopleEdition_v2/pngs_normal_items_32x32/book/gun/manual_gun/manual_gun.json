@@ -1,0 +1,10 @@
+{
+  "id": "manual_gun",
+  "fg": [
+    "manual_gun"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

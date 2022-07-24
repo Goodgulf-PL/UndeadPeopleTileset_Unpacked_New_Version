@@ -1,0 +1,10 @@
+{
+  "id": "spork",
+  "fg": [
+    "spork"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

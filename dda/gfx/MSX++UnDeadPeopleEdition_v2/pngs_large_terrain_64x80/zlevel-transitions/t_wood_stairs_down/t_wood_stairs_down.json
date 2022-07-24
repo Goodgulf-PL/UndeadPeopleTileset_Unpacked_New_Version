@@ -1,0 +1,16 @@
+{
+  "id": "t_wood_stairs_down",
+  "fg": [
+    {
+      "weight": 25,
+      "sprite": "t_wood_stairs_down_1"
+    },
+    {
+      "weight": 25,
+      "sprite": "t_wood_stairs_down_2"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}

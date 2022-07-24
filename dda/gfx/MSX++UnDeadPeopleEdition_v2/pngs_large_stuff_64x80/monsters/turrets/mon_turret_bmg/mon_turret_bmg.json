@@ -1,0 +1,16 @@
+{
+  "id": "mon_turret_bmg",
+  "fg": [
+    {
+      "weight": 100,
+      "sprite": "mon_turret_bmg_1"
+    },
+    {
+      "weight": 100,
+      "sprite": "mon_turret_bmg_2"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}

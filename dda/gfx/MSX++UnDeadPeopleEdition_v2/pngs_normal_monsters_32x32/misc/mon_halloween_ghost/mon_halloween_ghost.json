@@ -1,0 +1,10 @@
+{
+  "id": "mon_halloween_ghost",
+  "fg": [
+    "mon_halloween_ghost"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

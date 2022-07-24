@@ -1,0 +1,10 @@
+{
+  "id": "cleats",
+  "fg": [
+    "cleats"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

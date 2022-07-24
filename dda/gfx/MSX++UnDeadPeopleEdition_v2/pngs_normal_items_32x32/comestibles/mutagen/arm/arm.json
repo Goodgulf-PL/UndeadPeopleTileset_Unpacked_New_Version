@@ -1,0 +1,10 @@
+{
+  "id": "arm",
+  "fg": [
+    "arm"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

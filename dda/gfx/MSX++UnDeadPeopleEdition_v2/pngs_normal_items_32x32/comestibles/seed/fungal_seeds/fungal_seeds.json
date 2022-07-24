@@ -1,0 +1,10 @@
+{
+  "id": "fungal_seeds",
+  "fg": [
+    "fungal_seeds"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

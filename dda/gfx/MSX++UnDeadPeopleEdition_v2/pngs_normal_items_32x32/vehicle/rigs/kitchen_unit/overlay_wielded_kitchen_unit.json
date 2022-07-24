@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_kitchen_unit",
+  "fg": [
+    "kitchen_unit"
+  ],
+  "bg": [],
+  "rotates": false
+}

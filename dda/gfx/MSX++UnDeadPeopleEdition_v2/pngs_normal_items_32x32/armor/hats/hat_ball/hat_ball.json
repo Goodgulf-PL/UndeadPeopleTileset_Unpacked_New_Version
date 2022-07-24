@@ -1,0 +1,10 @@
+{
+  "id": "hat_ball",
+  "fg": [
+    "hat_ball"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

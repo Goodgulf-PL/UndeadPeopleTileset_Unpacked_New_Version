@@ -1,0 +1,8 @@
+{
+  "id": "t_door_metal_locked_o",
+  "fg": [
+    "t_door_metal_locked_o"
+  ],
+  "bg": ["t_thconc_floor"],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "closed_loop_extractor_small_on",
+  "fg": [
+    "still"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

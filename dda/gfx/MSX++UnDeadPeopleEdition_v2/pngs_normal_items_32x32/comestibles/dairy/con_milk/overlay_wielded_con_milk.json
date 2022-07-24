@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_con_milk",
+  "fg": [
+    "con_milk"
+  ],
+  "bg": [],
+  "rotates": false
+}

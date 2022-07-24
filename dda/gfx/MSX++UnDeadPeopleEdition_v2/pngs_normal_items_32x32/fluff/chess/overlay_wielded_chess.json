@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_chess",
+  "fg": [
+    "chess"
+  ],
+  "bg": [],
+  "rotates": false
+}

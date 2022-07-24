@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_meat_canned",
+  "fg": [
+    "meat_canned"
+  ],
+  "bg": [],
+  "rotates": false
+}

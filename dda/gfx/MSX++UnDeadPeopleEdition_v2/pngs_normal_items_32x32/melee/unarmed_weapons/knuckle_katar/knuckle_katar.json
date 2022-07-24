@@ -1,0 +1,10 @@
+{
+  "id": "knuckle_katar",
+  "fg": [
+    "knuckle_katar"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

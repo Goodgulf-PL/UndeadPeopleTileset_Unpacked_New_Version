@@ -1,0 +1,10 @@
+{
+  "id": "XEAS_helmet",
+  "fg": [
+    "XEAS_helmet"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

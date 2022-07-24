@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_filter_suppressor",
+  "fg": [
+    "filter_suppressor"
+  ],
+  "bg": [],
+  "rotates": false
+}

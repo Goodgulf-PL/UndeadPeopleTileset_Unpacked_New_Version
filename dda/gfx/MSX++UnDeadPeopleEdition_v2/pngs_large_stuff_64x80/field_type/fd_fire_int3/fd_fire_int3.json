@@ -1,0 +1,32 @@
+{
+  "id": "fd_fire_int3",
+  "fg": [
+    {
+      "weight": 11,
+      "sprite": "fd_fire_int3_1"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_int3_2"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_int3_3"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_int3_4"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_int3_5"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_int3_6"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}

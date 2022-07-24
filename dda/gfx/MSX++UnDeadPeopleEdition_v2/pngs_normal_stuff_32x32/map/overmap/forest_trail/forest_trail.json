@@ -1,0 +1,14 @@
+{
+          "id": ["forest_trail", "dirt_road", "dirt_road_forest", "dirt_road_3way", "dirt_road_3way_forest", "dirt_road_turn1", "dirt_road_turn1_forest", "dirt_road_turn", "dirt_road_turn_forest", "generic_rural_road", "generic_dirt_road", "ants"],
+          "fg": "forest_trail",
+		  "bg": "",
+          "multitile": true,
+          "additional_tiles": [
+            { "id": "center", "fg": "forest_trail_center", "bg": "" },
+            { "id": "corner", "fg": [ "forest_trail_corner_1", "forest_trail_corner_2", "forest_trail_corner_3", "forest_trail_corner_4" ], "bg": "" },
+            { "id": "t_connection", "fg": [ "forest_trail_t_connection_1", "forest_trail_t_connection_2", "forest_trail_t_connection_3", "forest_trail_t_connection_4" ], "bg": "" },
+            { "id": "edge", "fg": [ "forest_trail_edge_1", "forest_trail_edge_2" ], "bg": "" },
+            { "id": "end_piece", "fg": [ "forest_trail_end_piece_1", "forest_trail_end_piece_2", "forest_trail_end_piece_3", "forest_trail_end_piece_4" ], "bg": "" },
+            { "id": "unconnected", "fg": "forest_trail", "bg": "" }
+          ]
+}

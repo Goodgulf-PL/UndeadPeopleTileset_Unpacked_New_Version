@@ -1,0 +1,10 @@
+{
+  "id": "manual_melee",
+  "fg": [
+    "manual_melee"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

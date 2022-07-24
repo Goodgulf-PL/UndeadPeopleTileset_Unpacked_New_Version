@@ -1,0 +1,10 @@
+{
+  "id": "textbook_mechanics",
+  "fg": [
+    "textbook_mechanics"
+  ],
+  "bg": [
+    "bg_book"
+  ],
+  "rotates": false
+}

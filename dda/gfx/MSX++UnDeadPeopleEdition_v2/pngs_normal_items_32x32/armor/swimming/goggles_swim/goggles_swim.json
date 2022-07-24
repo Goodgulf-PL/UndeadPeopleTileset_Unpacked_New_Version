@@ -1,0 +1,10 @@
+{
+  "id": "goggles_swim",
+  "fg": [
+    "goggles_swim"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

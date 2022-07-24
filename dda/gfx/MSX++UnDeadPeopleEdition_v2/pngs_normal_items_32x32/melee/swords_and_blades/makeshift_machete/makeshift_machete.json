@@ -1,0 +1,10 @@
+{
+  "id": "makeshift_machete",
+  "fg": [
+    "makeshift_machete"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

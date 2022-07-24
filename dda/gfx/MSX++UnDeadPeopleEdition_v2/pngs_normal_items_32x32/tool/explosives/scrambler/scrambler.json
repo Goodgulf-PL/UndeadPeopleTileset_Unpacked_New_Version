@@ -1,0 +1,10 @@
+{
+  "id": "scrambler",
+  "fg": [
+    "scrambler"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

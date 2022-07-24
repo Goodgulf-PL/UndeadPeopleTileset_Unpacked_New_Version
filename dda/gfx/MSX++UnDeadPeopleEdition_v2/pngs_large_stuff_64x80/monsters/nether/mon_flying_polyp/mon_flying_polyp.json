@@ -1,0 +1,15 @@
+{
+  "id": "mon_flying_polyp",
+  "fg": [
+    {
+      "weight": 50,
+      "sprite": "mon_flying_polyp_1"
+    },
+    {
+      "weight": 50,
+      "sprite": "mon_flying_polyp_2"
+    }
+  ],
+  "bg": [],
+  "animated": true
+}

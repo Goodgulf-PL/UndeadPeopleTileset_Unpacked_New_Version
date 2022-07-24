@@ -1,0 +1,25 @@
+{
+  "id": "vp_door_trunk",
+  "fg": [
+    "vp_door_trunk"
+  ],
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_door_trunk_broken"
+      ],
+      "bg": []
+    },
+    {
+      "id": "open",
+      "fg": [
+        "vp_door_trunk_open"
+      ],
+      "bg": ["bg_car"]
+    }
+  ]
+}

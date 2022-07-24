@@ -1,0 +1,10 @@
+{
+  "id": "500_Magnum",
+  "fg": [
+    "500_Magnum"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "dry_veggy",
+  "fg": [
+    "dry_veggy"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

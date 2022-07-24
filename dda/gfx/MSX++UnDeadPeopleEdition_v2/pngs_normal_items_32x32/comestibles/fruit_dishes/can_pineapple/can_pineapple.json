@@ -1,0 +1,10 @@
+{
+  "id": "can_pineapple",
+  "fg": [
+    "can_pineapple"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

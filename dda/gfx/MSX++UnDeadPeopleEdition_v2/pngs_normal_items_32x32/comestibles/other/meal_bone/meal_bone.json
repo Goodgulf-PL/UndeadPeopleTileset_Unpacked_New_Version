@@ -1,0 +1,10 @@
+{
+  "id": "meal_bone",
+  "fg": [
+    "meal_bone"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

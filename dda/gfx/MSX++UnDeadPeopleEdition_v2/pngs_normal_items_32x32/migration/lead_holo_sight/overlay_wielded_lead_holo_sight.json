@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_lead_holo_sight",
+  "fg": [
+    "lead_holo_sight"
+  ],
+  "bg": [],
+  "rotates": false
+}

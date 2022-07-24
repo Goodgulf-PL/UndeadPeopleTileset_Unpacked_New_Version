@@ -1,0 +1,10 @@
+{
+  "id": "game_watch",
+  "fg": [
+    "game_watch"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

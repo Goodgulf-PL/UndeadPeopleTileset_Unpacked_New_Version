@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_barb_paralysis",
+  "fg": [
+    "barb_paralysis"
+  ],
+  "bg": [],
+  "rotates": true
+}

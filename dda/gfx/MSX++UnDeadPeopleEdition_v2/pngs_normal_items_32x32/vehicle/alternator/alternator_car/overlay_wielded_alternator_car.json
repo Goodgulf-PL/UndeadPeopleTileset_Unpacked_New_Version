@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_alternator_car",
+  "fg": [
+    "alternator_car"
+  ],
+  "bg": [],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "manual_brawl",
+  "fg": [
+    "manual_brawl"
+  ],
+  "bg": [
+    "bg_book_magazine"
+  ],
+  "rotates": false
+}

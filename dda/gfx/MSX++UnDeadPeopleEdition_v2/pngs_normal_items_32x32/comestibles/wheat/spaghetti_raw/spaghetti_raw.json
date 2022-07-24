@@ -1,0 +1,10 @@
+{
+  "id": "spaghetti_raw",
+  "fg": [
+    "spaghetti_raw"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "deluxe_eggs",
+  "fg": [
+    "deluxe_eggs"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

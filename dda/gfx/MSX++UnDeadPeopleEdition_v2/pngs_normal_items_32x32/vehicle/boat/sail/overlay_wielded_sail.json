@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_sail",
+  "fg": [
+    "sail"
+  ],
+  "bg": [],
+  "rotates": false
+}

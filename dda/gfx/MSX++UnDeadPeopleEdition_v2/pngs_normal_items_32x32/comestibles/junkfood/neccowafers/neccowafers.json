@@ -1,0 +1,10 @@
+{
+  "id": "neccowafers",
+  "fg": [
+    "neccowafers"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

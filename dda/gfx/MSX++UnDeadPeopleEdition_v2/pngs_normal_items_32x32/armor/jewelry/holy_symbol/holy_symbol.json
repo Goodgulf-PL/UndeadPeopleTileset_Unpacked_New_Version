@@ -1,0 +1,9 @@
+{
+  "id": "holy_symbol",
+  "fg": [
+    "holy_symbol"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ]
+}

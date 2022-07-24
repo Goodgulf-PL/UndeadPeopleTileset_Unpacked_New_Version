@@ -1,0 +1,10 @@
+{
+  "id": "wheel_caster",
+  "fg": [
+    "wheel_caster"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

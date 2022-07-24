@@ -1,0 +1,10 @@
+{
+  "id": "1cyl_combustion_small",
+  "fg": [
+    "1cyl_combustion_small"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": ["overlay_wielded_acr", "overlay_wielded_m16_auto_rifle_var_acr"],
+  "fg": [
+    "overlay_wielded_acr"
+  ],
+  "bg": [],
+  "rotates": false
+}

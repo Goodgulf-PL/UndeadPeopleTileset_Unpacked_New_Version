@@ -1,0 +1,8 @@
+{
+  "id": "overlay_wielded_motorcycle_headlight",
+  "fg": [
+    "motorcycle_headlight"
+  ],
+  "bg": [],
+  "rotates": false
+}

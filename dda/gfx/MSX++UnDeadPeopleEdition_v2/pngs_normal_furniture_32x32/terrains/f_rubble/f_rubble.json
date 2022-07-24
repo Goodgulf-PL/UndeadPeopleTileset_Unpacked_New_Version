@@ -1,0 +1,103 @@
+{
+  "id": "f_rubble",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "f_rubble_1"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_3"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_4"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_5"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_6"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_7"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_8"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_9"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_10"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_11"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_12"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_13"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_14"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_15"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_16"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_17"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_18"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_19"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_20"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_21"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_22"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_23"
+    },
+    {
+      "weight": 1,
+      "sprite": "f_rubble_24"
+    }
+  ],
+  "bg": [],
+  "rotates": false
+}

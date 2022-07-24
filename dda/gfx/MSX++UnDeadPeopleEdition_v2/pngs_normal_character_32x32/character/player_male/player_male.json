@@ -1,0 +1,9 @@
+{
+  "id": "player_male",
+  "fg": [
+    "player_male"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ]
+}
