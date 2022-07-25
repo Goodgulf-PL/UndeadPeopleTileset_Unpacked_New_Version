@@ -1,0 +1,10 @@
+{ 
+"id": "alpha_sample", 
+"fg": [ 
+"alpha_sample"
+], 
+"bg": [ 
+"bg_shadow_item"
+], 
+"rotates": false
+}

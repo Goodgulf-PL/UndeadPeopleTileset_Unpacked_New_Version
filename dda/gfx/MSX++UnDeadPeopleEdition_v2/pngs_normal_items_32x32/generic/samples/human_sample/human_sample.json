@@ -1,0 +1,10 @@
+{ 
+"id": "human_sample", 
+"fg": [ 
+"human_sample"
+], 
+"bg": [ 
+"bg_shadow_item"
+], 
+"rotates": false
+}

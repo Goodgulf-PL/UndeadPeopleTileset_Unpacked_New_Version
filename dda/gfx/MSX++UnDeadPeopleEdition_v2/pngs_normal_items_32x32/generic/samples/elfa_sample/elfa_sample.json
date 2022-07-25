@@ -1,0 +1,10 @@
+{ 
+"id": "elfa_sample", 
+"fg": [ 
+"elfa_sample"
+], 
+"bg": [ 
+"bg_shadow_item"
+], 
+"rotates": false
+}

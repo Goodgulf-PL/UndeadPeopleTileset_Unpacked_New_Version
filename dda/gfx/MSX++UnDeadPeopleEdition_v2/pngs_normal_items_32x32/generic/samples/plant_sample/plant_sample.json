@@ -1,0 +1,10 @@
+{ 
+"id": "plant_sample", 
+"fg": [ 
+"plant_sample"
+], 
+"bg": [ 
+"bg_shadow_item"
+], 
+"rotates": false
+}

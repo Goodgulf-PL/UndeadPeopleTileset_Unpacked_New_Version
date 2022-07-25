@@ -1,0 +1,10 @@
+{ 
+"id": "rat_sample", 
+"fg": [ 
+"rat_sample"
+], 
+"bg": [ 
+"bg_shadow_item"
+], 
+"rotates": false
+}

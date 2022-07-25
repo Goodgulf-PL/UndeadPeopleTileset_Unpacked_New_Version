@@ -1,0 +1,10 @@
+{ 
+"id": "cephalopod_sample", 
+"fg": [ 
+"cephalopod_sample"
+], 
+"bg": [ 
+"bg_shadow_item"
+], 
+"rotates": false
+}

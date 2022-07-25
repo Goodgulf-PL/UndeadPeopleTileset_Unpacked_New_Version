@@ -1,0 +1,10 @@
+{ 
+"id": "ursine_sample", 
+"fg": [ 
+"ursine_sample"
+], 
+"bg": [ 
+"bg_shadow_item"
+], 
+"rotates": false
+}

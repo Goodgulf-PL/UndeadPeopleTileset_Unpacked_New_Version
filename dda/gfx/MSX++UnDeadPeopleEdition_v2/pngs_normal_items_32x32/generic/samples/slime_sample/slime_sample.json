@@ -1,0 +1,10 @@
+{ 
+"id": "slime_sample", 
+"fg": [ 
+"slime_sample"
+], 
+"bg": [ 
+"bg_shadow_item"
+], 
+"rotates": false
+}
