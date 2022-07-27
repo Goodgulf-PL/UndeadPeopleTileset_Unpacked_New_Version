@@ -1,0 +1,10 @@
+{
+  "id": "mon_memory",
+  "fg": [
+    "mon_memory"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

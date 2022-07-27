@@ -1,0 +1,22 @@
+{
+  "id": "mon_feral_sapien_spear",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_feral_sapien_spear_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_sapien_spear_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_sapien_spear_3"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true,
+  "animated": false
+}

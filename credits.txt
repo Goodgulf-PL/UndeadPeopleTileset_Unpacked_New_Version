@@ -1,0 +1,10 @@
+from https://github.com/I-am-Erk/CDDA-Tilesets
+tools:
+slice_multitile.py
+unslice_multitile.py
+updtset.cmd
+generate_preview.py
+
+from https://github.com/CleverRaven/Cataclysm-DDA
+compose.py
+decompose.py

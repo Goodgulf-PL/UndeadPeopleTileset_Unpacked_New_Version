@@ -1,0 +1,18 @@
+{
+  "id": "mon_feral_maid_candlestick",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "mon_feral_maid_candlestick_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "mon_feral_maid_candlestick_2"
+    }
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true,
+  "animated": false
+}

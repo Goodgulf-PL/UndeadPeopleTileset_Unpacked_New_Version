@@ -1,0 +1,10 @@
+{
+  "id": "mon_zombie_relax_gasbag",
+  "fg": [
+    "mon_zombie_relax_gasbag"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

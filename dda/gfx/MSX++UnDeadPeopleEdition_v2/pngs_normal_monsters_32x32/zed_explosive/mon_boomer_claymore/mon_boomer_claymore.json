@@ -1,0 +1,10 @@
+{
+  "id": "mon_boomer_claymore",
+  "fg": [
+    "mon_boomer_claymore"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}
