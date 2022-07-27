@@ -1,0 +1,10 @@
+{
+  "id": "mon_mantis_giant",
+  "fg": [
+    "mon_mantis_giant"
+  ],
+  "bg": [
+    "bg_shadow_large"
+  ],
+  "rotates": true
+}

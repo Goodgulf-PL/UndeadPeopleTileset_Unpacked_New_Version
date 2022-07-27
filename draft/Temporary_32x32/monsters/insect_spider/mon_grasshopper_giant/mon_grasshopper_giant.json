@@ -1,0 +1,10 @@
+{
+  "id": "mon_grasshopper_giant",
+  "fg": [
+    "mon_grasshopper_giant"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

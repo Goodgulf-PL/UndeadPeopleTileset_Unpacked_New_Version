@@ -1,0 +1,10 @@
+{
+  "id": "mon_mole_cricket",
+  "fg": [
+    "mon_mole_cricket"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

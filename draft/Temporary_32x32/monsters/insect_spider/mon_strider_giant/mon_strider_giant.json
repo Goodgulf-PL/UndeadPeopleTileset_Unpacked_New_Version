@@ -1,0 +1,10 @@
+{
+  "id": "mon_strider_giant",
+  "fg": [
+    "mon_strider_giant"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

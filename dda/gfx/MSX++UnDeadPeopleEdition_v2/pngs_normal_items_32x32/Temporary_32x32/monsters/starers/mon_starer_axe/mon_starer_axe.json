@@ -1,0 +1,10 @@
+{
+  "id": "mon_starer_axe",
+  "fg": [
+    "mon_starer_axe"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

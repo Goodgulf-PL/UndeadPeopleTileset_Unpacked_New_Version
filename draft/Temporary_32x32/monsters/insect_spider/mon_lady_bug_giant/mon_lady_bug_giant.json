@@ -1,0 +1,10 @@
+{
+  "id": "mon_lady_bug_giant",
+  "fg": [
+    "mon_lady_bug_giant"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}

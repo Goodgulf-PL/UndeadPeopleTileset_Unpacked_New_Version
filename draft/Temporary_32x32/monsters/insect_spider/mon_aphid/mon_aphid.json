@@ -1,0 +1,10 @@
+{
+  "id": "mon_aphid",
+  "fg": [
+    "mon_aphid"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": true
+}
