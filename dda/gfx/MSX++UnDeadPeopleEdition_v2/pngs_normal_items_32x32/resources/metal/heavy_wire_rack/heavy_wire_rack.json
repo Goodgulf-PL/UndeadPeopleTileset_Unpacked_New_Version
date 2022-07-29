@@ -1,0 +1,8 @@
+{
+  "id": "heavy_wire_rack",
+  "fg": [
+    "heavy_wire_rack"
+  ],
+  "bg": ["bg_shadow_item"],
+  "rotates": false
+}

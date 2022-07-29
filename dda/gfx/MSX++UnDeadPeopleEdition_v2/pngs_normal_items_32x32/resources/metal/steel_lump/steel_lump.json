@@ -1,8 +1,8 @@
 {
-  "id": "steel_lump",
+  "id": ["steel_lump","budget_steel_lump","qt_steel_lump","lc_steel_lump","ch_steel_lump","hc_steel_lump","mc_steel_lump"],
   "fg": [
     "steel_lump"
   ],
-  "bg": [],
+  "bg": ["bg_shadow_item"],
   "rotates": false
 }

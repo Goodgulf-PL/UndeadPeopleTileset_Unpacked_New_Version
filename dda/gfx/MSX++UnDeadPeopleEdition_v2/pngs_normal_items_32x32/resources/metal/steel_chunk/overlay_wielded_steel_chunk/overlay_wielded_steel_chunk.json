@@ -1,5 +1,5 @@
 {
-  "id": "overlay_wielded_steel_chunk",
+  "id": ["overlay_wielded_steel_chunk","overlay_wielded_budget_steel_chunk","overlay_wielded_qt_steel_chunk","overlay_wielded_lc_steel_chunk","overlay_wielded_ch_steel_chunk","overlay_wielded_hc_steel_chunk","overlay_wielded_mc_steel_chunk"],
   "fg": [
     "overlay_wielded_steel_chunk"
   ],

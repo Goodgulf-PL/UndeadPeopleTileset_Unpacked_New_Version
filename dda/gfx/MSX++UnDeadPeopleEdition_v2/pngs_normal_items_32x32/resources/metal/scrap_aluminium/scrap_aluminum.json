@@ -1,0 +1,8 @@
+{
+  "id": "scrap_aluminum",
+  "fg": [
+    "scrap_aluminum"
+  ],
+  "bg": ["bg_shadow_item"],
+  "rotates": false
+}

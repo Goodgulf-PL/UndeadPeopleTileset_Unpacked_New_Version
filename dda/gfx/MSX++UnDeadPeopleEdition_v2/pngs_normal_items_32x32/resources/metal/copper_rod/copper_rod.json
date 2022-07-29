@@ -1,0 +1,8 @@
+{
+  "id": "copper_rod",
+  "fg": [
+    "copper_rod"
+  ],
+  "bg": ["bg_shadow_item"],
+  "rotates": false
+}
