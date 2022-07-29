@@ -1,8 +1,8 @@
 {
-  "id": "chain_link",
+  "id": ["chain_link","lc_chain_link"],
   "fg": [
     "chain_link"
   ],
-  "bg": [],
+  "bg": ["bg_shadow_item"],
   "rotates": false
 }
