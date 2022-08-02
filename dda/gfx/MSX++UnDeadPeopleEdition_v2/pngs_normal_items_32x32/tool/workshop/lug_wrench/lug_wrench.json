@@ -1,0 +1,10 @@
+{
+  "id": "lug_wrench",
+  "fg": [
+    "lug_wrench"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
