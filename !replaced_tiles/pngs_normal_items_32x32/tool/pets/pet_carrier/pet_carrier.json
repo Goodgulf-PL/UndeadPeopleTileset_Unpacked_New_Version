@@ -1,0 +1,10 @@
+{
+  "id": "pet_carrier",
+  "fg": [
+    "pet_carrier"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
