@@ -5,6 +5,9 @@
     "height": 32
 },
 {
+"filler.png": { "sprite_width": 32, "sprite_height": 32, "filler": true }
+},
+{
 "normal_items.png": { }
 },
 {
@@ -29,6 +32,9 @@
 "normal_vehicle_parts.png": { }
 },
 {
+"normal_maptiles.png": { }
+},
+{
 "normal_offset.png": { "sprite_offset_y": -16 }
 }
 ,
@@ -40,6 +46,10 @@
 },
 {
 "large_terrain.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
+}
+,
+{
+"large_maptiles.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
 }
 ,
 {
