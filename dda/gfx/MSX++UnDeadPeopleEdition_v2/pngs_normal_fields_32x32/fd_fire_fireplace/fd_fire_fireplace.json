@@ -1,0 +1,32 @@
+{
+  "id": "fd_fire_fireplace",
+  "fg": [
+    {
+      "weight": 11,
+      "sprite": "fd_fire_fireplace_1"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_fireplace_2"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_fireplace_3"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_fireplace_4"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_fireplace_5"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_fireplace_6"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}

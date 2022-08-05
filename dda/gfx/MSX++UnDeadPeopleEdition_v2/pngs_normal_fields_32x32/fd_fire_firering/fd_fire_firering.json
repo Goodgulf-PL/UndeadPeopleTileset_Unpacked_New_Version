@@ -1,0 +1,32 @@
+{
+  "id": "fd_fire_firering",
+  "fg": [
+    {
+      "weight": 11,
+      "sprite": "fd_fire_firering_1"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_firering_2"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_firering_3"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_firering_4"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_firering_5"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_firering_6"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}

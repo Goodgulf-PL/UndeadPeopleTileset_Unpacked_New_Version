@@ -1,0 +1,32 @@
+{
+  "id": "fd_fire_woodstove",
+  "fg": [
+    {
+      "weight": 11,
+      "sprite": "fd_fire_woodstove_1"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_woodstove_2"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_woodstove_3"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_woodstove_4"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_woodstove_5"
+    },
+    {
+      "weight": 11,
+      "sprite": "fd_fire_woodstove_6"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}
