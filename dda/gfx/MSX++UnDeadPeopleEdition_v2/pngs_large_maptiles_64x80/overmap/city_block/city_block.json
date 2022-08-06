@@ -1,0 +1,22 @@
+[{
+        "id": ["city_block2_1", "city_block2_flr2_1", "city_block2_roof_1"],
+        "fg": ["city_block2_1_1", "city_block2_1_2", "city_block2_1_3", "city_block2_1_4"],
+        "rotates": true,
+        "bg": []
+    }, {
+        "id": ["city_block2_2", "city_block2_flr2_2", "city_block2_roof_2"],
+        "fg": ["city_block2_2_1", "city_block2_2_2", "city_block2_2_3", "city_block2_2_4"],
+        "rotates": true,
+        "bg": []
+    }, {
+        "id": ["city_block2_3", "city_block2_flr2_3", "city_block2_roof_3"],
+        "fg": ["city_block2_3_1", "city_block2_3_2", "city_block2_3_3", "city_block2_3_4"],
+        "rotates": true,
+        "bg": []
+    }, {
+        "id": ["city_block2_4", "city_block2_flr2_4", "city_block2_roof_4"],
+        "fg": ["city_block2_4_1", "city_block2_4_2", "city_block2_4_3", "city_block2_4_4"],
+        "rotates": true,
+        "bg": []
+    }
+]

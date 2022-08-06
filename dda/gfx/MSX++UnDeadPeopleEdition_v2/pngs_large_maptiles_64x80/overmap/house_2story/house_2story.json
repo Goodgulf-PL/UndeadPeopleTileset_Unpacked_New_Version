@@ -1,0 +1,17 @@
+[{
+        "id": "house_2story_base",
+        "fg": ["house_2story_base_1", "house_2story_base_2", "house_2story_base_3", "house_2story_base_4"],
+        "rotates": true,
+        "bg": []
+    }, {
+        "id": "house_2story_second",
+        "fg": ["house_2story_second_1", "house_2story_second_2", "house_2story_second_3", "house_2story_second_4"],
+        "bg": ["open_air_large"],
+        "rotates": true
+    }, {
+        "id": "house_2story_roof",
+        "fg": ["house_2story_roof_1", "house_2story_roof_2", "house_2story_roof_3", "house_2story_roof_4"],
+        "bg": ["open_air_large"],
+        "rotates": true
+    }
+]

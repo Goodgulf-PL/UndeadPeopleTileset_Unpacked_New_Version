@@ -1,0 +1,17 @@
+[{
+        "id": "cs_car_showroom",
+        "fg": ["cs_car_showroom"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": "cs_car_showroom_2ndfloor",
+        "fg": ["cs_car_showroom_2ndfloor"],
+        "bg": ["open_air_large"],
+        "rotates": false
+    }, {
+        "id": "cs_car_showroom_roof",
+        "fg": ["cs_car_showroom_roof"],
+        "bg": ["open_air_large"],
+        "rotates": false
+    }
+]

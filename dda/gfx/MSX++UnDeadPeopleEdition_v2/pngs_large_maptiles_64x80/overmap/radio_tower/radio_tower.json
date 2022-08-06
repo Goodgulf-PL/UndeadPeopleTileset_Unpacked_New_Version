@@ -1,0 +1,21 @@
+[{
+        "id": "radio_tower",
+        "fg": [
+            "radio_tower"
+        ],
+        "bg": [],
+        "rotates": false
+    }, {
+        "id": "radio_tower_1",
+        "fg": [
+            "radio_tower_1"
+        ],
+        "bg": [],
+        "rotates": false
+    }, {
+        "id": ["radio_tower_roof", "radio_tower_roof_1", "radio_tower_even", "radio_tower_odd", "radio_tower_top"],
+        "fg": ["radio_tower_roof"],
+        "bg": ["open_air_large"],
+        "rotates": false
+    }
+]
