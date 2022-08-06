@@ -1,0 +1,71 @@
+[{
+        "id": [
+            "cabin",
+            "cabin_1",
+            "cabin_2",
+            "cabin_3",
+            "cabin_4",
+            "hunter_shack",
+            "hunter_shack_1",
+            "cabin_isherwood",
+            "cabin_lake",
+            "lake_cabin_boathouse",
+            "cabin_strange",
+            "cabin_strange_b",
+            "cabin_5",
+            "cabin_6",
+            "cabin_7",
+            "cabin_lapin",
+            "bandit_cabin"
+        ],
+        "fg": [
+            "cabin"
+        ],
+        "bg": [],
+        "rotates": false
+    }, {
+        "id": [
+            "campsite_cabin_incomplete"
+        ],
+        "fg": [
+            "cabin_incomplete"
+        ],
+        "bg": [],
+        "rotates": false
+    }, {
+        "id": [
+            "cabin_aban1"
+        ],
+        "fg": [
+            "cabin_aban1"
+        ],
+        "bg": [],
+        "rotates": false
+    }, {
+        "id": [
+		"cabin_roof",
+		"cabin_roof_1",
+		"cabin_roof_2",
+		"cabin_roof_3",
+		"cabin_roof_4",
+		"cabin_roof_5",
+		"cabin_roof_6",
+		"cabin_roof_7",
+		"cabin_isherwood_roof",
+		"cabin_lake_roof",
+		"lake_cabin_boathouse_roof",
+        "cabin_strange_roof",
+        "cabin_strange_roof_b",
+		"house_farm_roof",
+		"sugar_house_roof",
+		"farm_2_roof",
+		"hunter_shack_roof",
+		"hunter_shack_roof_1",
+		"cabin_lapin_roof",
+        "bandit_cabin_roof"
+		],
+        "fg": ["cabin_roof"],
+        "bg": ["open_air"],
+        "rotates": false
+    }
+]

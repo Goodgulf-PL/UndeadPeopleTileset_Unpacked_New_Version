@@ -1,0 +1,12 @@
+[{
+        "id": ["s_daycare"],
+        "fg": ["s_daycare"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["s_daycare_roof"],
+        "fg": ["s_daycare_roof"],
+        "bg": ["open_air_1"],
+        "rotates": false
+    }
+]

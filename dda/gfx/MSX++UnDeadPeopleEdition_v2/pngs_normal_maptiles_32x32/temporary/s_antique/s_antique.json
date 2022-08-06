@@ -1,0 +1,12 @@
+[{
+        "id": ["s_antique"],
+        "fg": ["s_antique"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["s_antique_roof"],
+        "fg": ["s_antique_roof"],
+        "bg": ["open_air"],
+        "rotates": false
+    }
+]

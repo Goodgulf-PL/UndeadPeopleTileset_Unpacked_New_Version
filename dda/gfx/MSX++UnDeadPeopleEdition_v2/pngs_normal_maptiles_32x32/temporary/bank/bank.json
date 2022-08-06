@@ -1,0 +1,13 @@
+[{
+  "id": ["bank", "bank_1", "necropolis_a_52"],
+  "fg": ["bank"],
+  "bg": [],
+  "rotates": false
+},
+{
+    "id": ["bank_roof", "bank_roof_1"],
+    "fg": ["bank_roof"],
+    "bg": ["open_air"],
+    "rotates": false
+}
+]

@@ -1,1 +1,12 @@
-{"id": ["s_gardening"], "fg": ["19495_s_gardening_0"], "rotates": false, "bg": []}
+[{
+        "id": ["s_gardening"],
+        "fg": ["s_gardening"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["s_gardening_roof"],
+        "fg": ["s_gardening_roof"],
+        "bg": ["open_air_1"],
+        "rotates": false
+    }
+]

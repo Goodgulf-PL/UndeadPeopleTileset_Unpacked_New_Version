@@ -1,0 +1,12 @@
+[{
+        "id": ["veterinarian"],
+        "fg": ["veterinarian"],
+        "bg": [],
+        "rotates": false
+    }, {
+        "id": ["veterinarian_roof"],
+        "fg": ["veterinarian_roof"],
+        "bg": ["open_air_1"],
+        "rotates": false
+    }
+]

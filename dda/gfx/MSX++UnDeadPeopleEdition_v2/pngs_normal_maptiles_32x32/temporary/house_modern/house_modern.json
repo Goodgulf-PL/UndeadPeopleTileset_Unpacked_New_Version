@@ -1,0 +1,12 @@
+[{
+        "id": ["house_modern_1"],
+        "fg": ["house_modern_1", "house_modern_2", "house_modern_3", "house_modern_4"],
+        "rotates": true,
+        "bg": []
+    }, {
+        "id": ["house_modern_1_roof"],
+        "fg": ["house_modern_roof_1", "house_modern_roof_2", "house_modern_roof_3", "house_modern_roof_4"],
+        "bg": ["open_air_1"],
+        "rotates": true
+    }
+]

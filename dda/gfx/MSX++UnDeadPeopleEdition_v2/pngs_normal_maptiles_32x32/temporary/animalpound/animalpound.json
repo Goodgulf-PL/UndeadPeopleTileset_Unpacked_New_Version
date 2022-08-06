@@ -1,0 +1,13 @@
+[{
+    "id": ["animalpound"],
+    "fg": ["animalpound"],
+    "rotates": false,
+    "bg": []
+},
+{
+    "id": ["animalpound_roof"],
+    "fg": ["animalpound_roof"],
+    "bg": ["open_air_1"],
+    "rotates": false
+}
+]

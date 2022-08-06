@@ -1,0 +1,12 @@
+[{
+        "id": ["station_radio", "station_radio_1"],
+        "fg": ["station_radio"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["station_radio_roof", "station_radio_roof_1"],
+        "fg": ["station_radio_roof"],
+        "bg": ["open_air_1"],
+        "rotates": false
+    }
+]

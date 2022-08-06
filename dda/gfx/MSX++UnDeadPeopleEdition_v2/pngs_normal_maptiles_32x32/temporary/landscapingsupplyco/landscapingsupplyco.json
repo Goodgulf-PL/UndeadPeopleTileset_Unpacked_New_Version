@@ -1,0 +1,17 @@
+[{
+        "id": ["landscapingsupplyco_1a"],
+        "fg": ["landscapingsupplyco_1a"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["landscapingsupplyco_1b"],
+        "fg": ["landscapingsupplyco_1b"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["landscapingsupplyco_1b_roof"],
+        "fg": ["landscapingsupplyco_1b_roof"],
+        "bg": ["open_air_1"],
+        "rotates": false
+    }
+]

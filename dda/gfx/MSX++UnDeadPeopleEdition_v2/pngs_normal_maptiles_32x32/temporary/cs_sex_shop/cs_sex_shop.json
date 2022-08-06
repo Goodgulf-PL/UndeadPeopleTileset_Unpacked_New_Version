@@ -1,0 +1,12 @@
+[{
+        "id": ["cs_sex_shop"],
+        "fg": ["cs_sex_shop"],
+        "bg": [],
+        "rotates": false
+    }, {
+        "id": ["cs_sex_shop_roof"],
+        "fg": ["cs_sex_shop_roof"],
+        "bg": ["open_air_1"],
+        "rotates": false
+    }
+]

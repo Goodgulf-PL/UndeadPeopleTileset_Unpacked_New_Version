@@ -1,0 +1,12 @@
+[{
+        "id": ["post_office", "post_office_1"],
+        "fg": ["post_office"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["post_office_roof", "post_office_roof_1"],
+        "fg": ["post_office_roof"],
+        "bg": ["open_air"],
+        "rotates": false
+    }
+]

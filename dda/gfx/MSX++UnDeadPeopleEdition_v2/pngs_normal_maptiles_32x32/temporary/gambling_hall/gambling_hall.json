@@ -1,0 +1,12 @@
+[{
+        "id": ["gambling_hall"],
+        "fg": ["gambling_hall"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["gambling_hall_roof", "gambling_hall_upper_roof"],
+        "fg": ["gambling_hall_roof"],
+        "bg": ["open_air"],
+        "rotates": false
+    }
+]

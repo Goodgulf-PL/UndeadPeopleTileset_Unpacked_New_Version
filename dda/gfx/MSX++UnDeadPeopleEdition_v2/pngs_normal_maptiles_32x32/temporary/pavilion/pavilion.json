@@ -1,0 +1,12 @@
+[{
+        "id": ["pavilion", "pavilion_1", "paintball_field", "paintball_field_1"],
+        "fg": ["pavilion"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["pavilion_roof", "pavilion_roof_1", "paintball_field_roof", "paintball_field_roof_1"],
+        "fg": ["pavilion_roof"],
+        "bg": ["open_air"],
+        "rotates": false
+    }
+]

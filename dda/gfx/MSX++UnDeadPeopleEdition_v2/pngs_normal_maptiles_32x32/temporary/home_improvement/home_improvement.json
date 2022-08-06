@@ -1,0 +1,12 @@
+[{
+        "id": ["home_improvement"],
+        "fg": ["home_improvement"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["home_improvement_roof"],
+        "fg": ["home_improvement_roof"],
+        "bg": ["open_air_1"],
+        "rotates": false
+    }
+]

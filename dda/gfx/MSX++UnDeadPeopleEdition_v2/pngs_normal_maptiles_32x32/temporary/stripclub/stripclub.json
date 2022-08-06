@@ -1,0 +1,12 @@
+[{
+        "id": ["stripclub", "stripclub_1", "stripclub_2"],
+        "fg": ["stripclub"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["stripclub_roof", "stripclub_roof_1", "stripclub_roof_2"],
+        "fg": ["stripclub_roof"],
+        "bg": ["open_air"],
+        "rotates": false
+    }
+]

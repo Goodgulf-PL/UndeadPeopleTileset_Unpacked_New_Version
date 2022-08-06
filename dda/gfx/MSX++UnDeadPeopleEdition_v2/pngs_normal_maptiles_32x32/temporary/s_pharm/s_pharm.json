@@ -1,0 +1,12 @@
+[{
+        "id": ["s_pharm", "s_pharm_1"],
+        "fg": ["s_pharm"],
+        "bg": [],
+        "rotates": false
+    }, {
+        "id": ["s_pharm_roof", "s_pharm_roof_1"],
+        "fg": ["s_pharm_roof"],
+        "bg": ["open_air_1"],
+        "rotates": false
+    }
+]

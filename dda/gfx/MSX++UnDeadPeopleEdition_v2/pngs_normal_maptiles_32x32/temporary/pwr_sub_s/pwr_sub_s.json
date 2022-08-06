@@ -1,0 +1,12 @@
+[{
+        "id": "pwr_sub_s",
+        "fg": ["pwr_sub_s"],
+        "bg": [],
+        "rotates": false
+    }, {
+        "id": ["small_power_substation_roof", "pwr_sub_s_roof"],
+        "fg": ["pwr_sub_s_roof"],
+        "bg": ["open_air"],
+        "rotates": false
+    }
+]

@@ -1,0 +1,12 @@
+[{
+        "id": ["sewage_treatment_0_0_0", "sewage_treatment_0_1_0", "sewage_treatment_1_0_0", "sewage_treatment_1_1_0"],
+        "fg": ["plug_sewage_treatment"],
+        "bg": [],
+        "rotates": false
+    }, {
+        "id": ["sewage_treatment_0_0_roof", "sewage_treatment_0_1_roof", "sewage_treatment_1_1_roof", "sewage_treatment_1_0_roof"],
+        "fg": ["plug_sewage_treatment_roof"],
+        "bg": ["open_air"],
+        "rotates": false
+    }
+]

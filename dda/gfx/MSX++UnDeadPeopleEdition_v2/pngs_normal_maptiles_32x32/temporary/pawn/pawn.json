@@ -1,0 +1,12 @@
+[{
+        "id": ["pawn", "pawn_1", "pawn_pf", "pawn_pf_under", "necropolis_a_34"],
+        "fg": ["pawn"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["pawn_roof", "pawn_roof_1"],
+        "fg": ["pawn_roof"],
+        "bg": ["open_air"],
+        "rotates": false
+    }
+]

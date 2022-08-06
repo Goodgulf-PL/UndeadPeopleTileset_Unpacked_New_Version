@@ -1,0 +1,28 @@
+[{
+        "id": ["roadstop"],
+        "fg": ["roadstop"],
+        "bg": [],
+        "rotates": false
+    }, {
+        "id": ["roadstop_a"],
+        "fg": ["roadstop_joined"],
+        "bg": [],
+        "rotates": false
+    }, {
+        "id": ["roadstop_b"],
+        "fg": ["roadstop_diner"],
+        "bg": [],
+        "rotates": false
+    }, {
+        "id": ["roadstop_roof"],
+        "fg": ["roadstop_roof"],
+        "bg": ["open_air"],
+        "rotates": false
+    }, {
+        "id": ["roadstop_b_roof"],
+        "fg": ["roadstop_b_roof"],
+        "bg": ["open_air_1"],
+        "rotates": false
+    }
+
+]

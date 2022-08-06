@@ -1,0 +1,12 @@
+[{
+        "id": ["s_hunting"],
+        "fg": ["s_hunting"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["s_hunting_roof"],
+        "fg": ["s_hunting_roof"],
+        "bg": ["open_air"],
+        "rotates": false
+    }
+]

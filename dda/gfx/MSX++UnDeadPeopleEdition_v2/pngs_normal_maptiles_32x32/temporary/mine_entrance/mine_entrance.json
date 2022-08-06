@@ -1,0 +1,17 @@
+[{
+        "id": ["mine_entrance"],
+        "fg": ["mine_entrance"],
+        "bg": [],
+        "rotates": false
+    }, {
+        "id": ["mine_entrance_loading_zone"],
+        "fg": ["mine_entrance_loading_zone"],
+        "bg": [],
+        "rotates": false
+    }, {
+        "id": ["mine_entrance_roof"],
+        "fg": ["mine_entrance_roof"],
+        "bg": ["open_air_1"],
+        "rotates": false
+    }
+]

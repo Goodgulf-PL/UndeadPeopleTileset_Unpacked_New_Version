@@ -1,0 +1,12 @@
+[{
+        "id": ["mortuary"],
+        "fg": ["mortuary"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["mortuary_roof"],
+        "fg": ["mortuary_roof"],
+        "bg": ["open_air"],
+        "rotates": false
+    }
+]

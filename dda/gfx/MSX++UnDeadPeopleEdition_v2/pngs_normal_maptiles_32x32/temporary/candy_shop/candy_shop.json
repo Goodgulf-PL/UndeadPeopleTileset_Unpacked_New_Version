@@ -1,0 +1,12 @@
+[{
+        "id": ["candy_shop", "candy_shop_1"],
+        "fg": ["candy_shop"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["candy_shop_roof", "candy_shop_roof_1"],
+        "fg": ["candy_shop_roof"],
+        "bg": ["open_air_1"],
+        "rotates": false
+    }
+]

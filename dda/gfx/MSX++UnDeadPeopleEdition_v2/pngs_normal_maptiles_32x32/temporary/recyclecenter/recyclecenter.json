@@ -1,0 +1,12 @@
+[{
+        "id": ["recyclecenter","recyclecenter_1","recyclecenter_2"],
+        "fg": ["recyclecenter"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["recyclecenter_roof","recyclecenter_roof_1","recyclecenter_roof_2"],
+        "fg": ["recyclecenter_roof"],
+        "rotates": false,
+        "bg": []
+    }
+]

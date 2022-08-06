@@ -1,0 +1,12 @@
+[{
+        "id": ["warehouse"],
+        "fg": ["warehouse"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["warehouse_roof"],
+        "fg": ["warehouse_roof"],
+        "bg": ["open_air_1"],
+        "rotates": false
+    }
+]

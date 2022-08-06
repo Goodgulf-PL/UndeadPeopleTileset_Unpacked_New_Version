@@ -1,0 +1,12 @@
+[{
+        "id": ["s_jewelry"],
+        "fg": ["s_jewelry"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["s_jewelry_roof"],
+        "fg": ["s_jewelry_roof"],
+        "bg": ["open_air_1"],
+        "rotates": false
+    }
+]

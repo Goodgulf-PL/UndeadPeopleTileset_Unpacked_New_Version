@@ -1,0 +1,12 @@
+[{
+        "id": ["lancenter", "lancenter_1"],
+        "fg": ["lancenter"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["lancenter_roof", "lancenter_roof_1"],
+        "fg": ["lancenter_roof"],
+        "bg": ["open_air"],
+        "rotates": false
+    }
+]

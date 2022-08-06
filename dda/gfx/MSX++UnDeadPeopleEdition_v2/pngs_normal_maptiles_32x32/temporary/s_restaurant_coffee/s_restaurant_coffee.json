@@ -1,0 +1,12 @@
+[{
+        "id": ["s_restaurant_coffee", "s_restaurant_coffee_1", "s_restaurant_coffee_2"],
+        "fg": ["s_restaurant_coffee"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["s_restaurant_coffee_roof", "s_restaurant_coffee_roof_1", "s_restaurant_coffee_roof_2"],
+        "fg": ["s_restaurant_coffee_roof"],
+        "bg": ["open_air"],
+        "rotates": false
+    }
+]

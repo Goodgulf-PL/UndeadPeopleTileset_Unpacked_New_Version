@@ -1,0 +1,12 @@
+[{
+        "id": ["s_arcade", "cs_internet_cafe"],
+        "fg": ["s_arcade"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["s_arcade_roof", "cs_internet_cafe_roof", "cs_internet_cafe_upper_roof"],
+        "fg": ["s_arcade_roof"],
+        "bg": ["open_air"],
+        "rotates": false
+    }
+]

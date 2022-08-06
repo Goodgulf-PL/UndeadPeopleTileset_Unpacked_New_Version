@@ -1,0 +1,12 @@
+[{
+        "id": ["icecream_shop"],
+        "fg": ["icecream_shop"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["icecream_shop_roof"],
+        "fg": ["icecream_shop_roof"],
+        "bg": ["open_air_1"],
+        "rotates": false
+    }
+]

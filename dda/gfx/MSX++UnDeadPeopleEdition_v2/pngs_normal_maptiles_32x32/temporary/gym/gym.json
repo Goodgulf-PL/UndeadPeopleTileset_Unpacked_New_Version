@@ -1,0 +1,12 @@
+[{
+        "id": ["gym"],
+        "fg": ["gym"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["gym_roof", "gym_upper_roof"],
+        "fg": ["gym_roof"],
+        "bg": ["open_air_1"],
+        "rotates": false
+    }
+]

@@ -1,0 +1,12 @@
+[{
+        "id": ["s_bike_shop", "s_bike_shop_1"],
+        "fg": ["s_bike_shop"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["s_bike_shop_roof", "s_bike_shop_roof_1"],
+        "fg": ["s_bike_shop_roof"],
+        "bg": ["open_air"],
+        "rotates": false
+    }
+]

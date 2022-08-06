@@ -1,0 +1,11 @@
+[{
+    "id": ["mil_surplus", "mil_surplus_1", "mil_surplus_2"],
+    "fg": ["mil_surplus"],
+    "bg": [],
+    "rotates": false
+}, {
+    "id": ["mil_surplus_roof", "mil_surplus_roof_1", "mil_surplus_roof_2"],
+    "fg": ["mil_surplus_roof"],
+    "bg": ["open_air"],
+    "rotates": false
+}]

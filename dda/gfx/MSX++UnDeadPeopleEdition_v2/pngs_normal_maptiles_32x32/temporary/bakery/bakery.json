@@ -1,0 +1,13 @@
+[{
+    "id": ["bakery"],
+    "fg": ["bakery"],
+    "rotates": false,
+    "bg": []
+},
+{
+    "id": ["bakery_roof", "bakery_upper_roof", "bakery_upper_roof_1"],
+    "fg": ["bakery_roof"],
+    "bg": ["open_air_1"],
+    "rotates": false
+}
+]

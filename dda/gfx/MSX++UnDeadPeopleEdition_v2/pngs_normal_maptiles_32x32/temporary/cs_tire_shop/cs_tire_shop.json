@@ -1,0 +1,12 @@
+[{
+        "id": ["cs_tire_shop"],
+        "fg": ["cs_tire_shop"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["cs_tire_shop_roof"],
+        "fg": ["cs_tire_shop_roof"],
+        "bg": ["open_air_1"],
+        "rotates": false
+    }
+]

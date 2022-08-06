@@ -1,0 +1,12 @@
+[{
+        "id": ["music_venue", "music_venue_1", "s_music"],
+        "fg": ["music_venue"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["music_venue_roof", "music_venue_1_roof", "music_venue_1_roof_top", "s_music_roof"],
+        "fg": ["music_venue_roof"],
+        "bg": ["open_air_1"],
+        "rotates": false
+    }
+]

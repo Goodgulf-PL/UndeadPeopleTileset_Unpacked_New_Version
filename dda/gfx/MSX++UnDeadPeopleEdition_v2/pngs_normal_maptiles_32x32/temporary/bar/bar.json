@@ -1,0 +1,22 @@
+[{
+    "id": ["bar"],
+    "fg": ["bar"],
+    "rotates": false,
+    "bg": []
+}, {
+    "id": ["bar_1"],
+    "fg": ["bar_1"],
+    "rotates": false,
+    "bg": []
+}, {
+    "id": ["bar_roof"],
+    "fg": ["bar_roof"],
+    "bg": ["open_air"],
+    "rotates": false
+}, {
+    "id": ["bar_roof_1"],
+    "fg": ["bar_roof_1"],
+    "bg": ["open_air_1"],
+    "rotates": false
+}
+]

@@ -1,0 +1,12 @@
+[{
+        "id": ["s_electronics", "s_electronics_1", "s_electronics_2", "s_thrift"],
+        "fg": ["s_electronics"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["s_electronics_roof", "s_electronics_roof_1", "s_electronics_roof_2", "s_thrif_roof"],
+        "fg": ["s_electronics_roof"],
+        "bg": ["open_air"],
+        "rotates": false
+    }
+]
