@@ -1,7 +1,7 @@
 {
   "id": "f_small_satellite_dish",
   "fg": [
-    "f_satellite_unconnected"
+    "f_small_satellite_dish"
   ],
   "bg": [],
   "rotates": false
