@@ -1,0 +1,8 @@
+{
+  "id": "f_small_satellite_dish",
+  "fg": [
+    "f_satellite_unconnected"
+  ],
+  "bg": [],
+  "rotates": false
+}

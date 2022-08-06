@@ -1,0 +1,12 @@
+[{
+        "id": ["salon"],
+        "fg": ["salon"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["salon_roof"],
+        "fg": ["salon_roof"],
+        "bg": ["open_air_1"],
+        "rotates": false
+    }
+]

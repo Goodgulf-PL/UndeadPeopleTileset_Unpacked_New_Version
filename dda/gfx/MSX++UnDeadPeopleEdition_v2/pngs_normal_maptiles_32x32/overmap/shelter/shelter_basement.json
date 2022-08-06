@@ -1,0 +1,36 @@
+{
+    "id": [
+	"bunker_basement", 
+	"bunker_basement_1",
+	"cabin_prepper_shelter",
+	"shelter_under_2", 
+	"shelter_under_2_vandal", 
+	"shelter_under_2_unfinished",
+	"shelter_under_2_infested",
+	"shelter_under_1",
+	"shelter_under_1_vandal",
+	"shelter_under_1_unfinished",
+	"shelter_under_1_infested",
+	"shelter_under",
+	"shelter_under_vandal",
+	"shelter_under_unfinished",
+	"shelter_under_infested",
+	"shelter_under_1b",
+	"shelter_under_1b_vandal",
+	"shelter_under_1b_unfinished",
+	"shelter_under_1b_infested",
+	"lmoe_under",
+	"lmoe_under_empty",
+	"lmoe_zombie_under",
+	"lmoe_zombie_under_empty"],
+    "fg": [{
+            "weight": 50,
+            "sprite": "shelter_basement_1"
+        }, {
+            "weight": 50,
+            "sprite": "shelter_basement_2"
+        }
+    ],
+    "rotates": false,
+    "bg": []
+}

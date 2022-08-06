@@ -1,0 +1,12 @@
+[{
+        "id": ["cs_car_dealership"],
+        "fg": ["cs_car_dealership"],
+        "rotates": false,
+        "bg": []
+    }, {
+        "id": ["cs_car_dealership_roof"],
+        "fg": ["cs_car_dealership_roof"],
+        "bg": ["open_air_1"],
+        "rotates": false
+    }
+]

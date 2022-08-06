@@ -1,6 +1,11 @@
-{
-  "id": "lmoe",
+[{
+  "id": ["lmoe","lmoe_zombie"],
   "fg": ["lmoe"],
   "bg": [],
   "rotates": false
-}
+},{
+  "id": ["lmoe_roof","lmoe_zombie_roof"],
+  "fg": ["lmoe_roof"],
+  "bg": ["open_air"],
+  "rotates": false
+}]

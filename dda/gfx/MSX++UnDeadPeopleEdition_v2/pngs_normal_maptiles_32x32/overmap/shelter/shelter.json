@@ -1,5 +1,5 @@
 [{
-  "id": ["shelter", "shelter_1", "shelter_1_vandal", "shelter_2", "shelter_2_vandal", "shelter_roof", "shelter_roof_1", "shelter_roof_2", "shelter_vandal"],
+  "id": ["shelter", "shelter_1", "shelter_1_vandal", "shelter_1_infested", "shelter_2", "shelter_2_survivor", "shelter_2_vandal", "shelter_roof", "shelter_roof_1", "shelter_roof_2", "shelter_vandal", "shelter_2_infested"],
   "fg": ["shelter"],
   "bg": [],
   "rotates": false

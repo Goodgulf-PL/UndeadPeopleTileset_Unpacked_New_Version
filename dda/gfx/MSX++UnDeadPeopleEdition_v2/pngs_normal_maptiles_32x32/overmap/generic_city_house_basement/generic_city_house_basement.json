@@ -1,5 +1,6 @@
 {
-    "id": ["generic_city_house_basement", "bunker_basement", "bunker_basement_1", "shelter_under", "lmoe_under", "lmoe_under_empty"],
+    "id": [
+	"generic_city_house_basement"],
     "fg": [{
             "weight": 25,
             "sprite": "generic_city_house_basement_0"
