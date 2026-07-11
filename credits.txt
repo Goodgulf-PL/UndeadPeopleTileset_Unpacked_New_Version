@@ -4,6 +4,28 @@ slice_multitile.py
 unslice_multitile.py
 updtset.cmd
 generate_preview.py
+Sprites for:
+  - buzzcut
+  - messy
+  - very_long
+  - extremely_long
+  - body_length
+  - long_over_eye
+  - short_over_eye
+  - short_no_fringe
+  - long_mohawk
+  - punk_long
+  - mullet
+  - ponytail
+  - curls
+  - modern
+  - bun
+  - braid
+  - puff
+  - beaded
+  - twintails
+  - super_princess
+  - detective
 
 from https://github.com/CleverRaven/Cataclysm-DDA
 compose.py

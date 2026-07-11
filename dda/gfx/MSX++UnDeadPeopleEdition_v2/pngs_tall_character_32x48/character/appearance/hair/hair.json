@@ -1,0 +1,552 @@
+[
+  {
+    "id": [
+      "overlay_male_mutation_hair_body_length_var_black",
+      "overlay_female_mutation_hair_body_length_var_black"
+    ],
+    "fg": [
+      "overlay_mutation_hair_body_length_var_black"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_body_length_var_blond",
+      "overlay_female_mutation_hair_body_length_var_blond"
+    ],
+    "fg": [
+      "overlay_mutation_hair_body_length_var_blond"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_body_length_var_blue",
+      "overlay_female_mutation_hair_body_length_var_blue"
+    ],
+    "fg": [
+      "overlay_mutation_hair_body_length_var_blue"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_body_length_var_brown",
+      "overlay_female_mutation_hair_body_length_var_brown"
+    ],
+    "fg": [
+      "overlay_mutation_hair_body_length_var_brown"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_body_length_var_gray",
+      "overlay_female_mutation_hair_body_length_var_gray"
+    ],
+    "fg": [
+      "overlay_mutation_hair_body_length_var_gray"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_body_length_var_green",
+      "overlay_female_mutation_hair_body_length_var_green"
+    ],
+    "fg": [
+      "overlay_mutation_hair_body_length_var_green"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_body_length_var_pink",
+      "overlay_female_mutation_hair_body_length_var_pink"
+    ],
+    "fg": [
+      "overlay_mutation_hair_body_length_var_pink"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_body_length_var_purple",
+      "overlay_female_mutation_hair_body_length_var_purple"
+    ],
+    "fg": [
+      "overlay_mutation_hair_body_length_var_purple"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_body_length_var_red",
+      "overlay_female_mutation_hair_body_length_var_red"
+    ],
+    "fg": [
+      "overlay_mutation_hair_body_length_var_red"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_body_length_var_white",
+      "overlay_female_mutation_hair_body_length_var_white"
+    ],
+    "fg": [
+      "overlay_mutation_hair_body_length_var_white"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_extremely_long_var_black",
+      "overlay_female_mutation_hair_extremely_long_var_black"
+    ],
+    "fg": [
+      "overlay_mutation_hair_extremely_long_var_black"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_extremely_long_var_blond",
+      "overlay_female_mutation_hair_extremely_long_var_blond"
+    ],
+    "fg": [
+      "overlay_mutation_hair_extremely_long_var_blond"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_extremely_long_var_blue",
+      "overlay_female_mutation_hair_extremely_long_var_blue"
+    ],
+    "fg": [
+      "overlay_mutation_hair_extremely_long_var_blue"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_extremely_long_var_brown",
+      "overlay_female_mutation_hair_extremely_long_var_brown"
+    ],
+    "fg": [
+      "overlay_mutation_hair_extremely_long_var_brown"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_extremely_long_var_gray",
+      "overlay_female_mutation_hair_extremely_long_var_gray"
+    ],
+    "fg": [
+      "overlay_mutation_hair_extremely_long_var_gray"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_extremely_long_var_green",
+      "overlay_female_mutation_hair_extremely_long_var_green"
+    ],
+    "fg": [
+      "overlay_mutation_hair_extremely_long_var_green"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_extremely_long_var_pink",
+      "overlay_female_mutation_hair_extremely_long_var_pink"
+    ],
+    "fg": [
+      "overlay_mutation_hair_extremely_long_var_pink"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_extremely_long_var_purple",
+      "overlay_female_mutation_hair_extremely_long_var_purple"
+    ],
+    "fg": [
+      "overlay_mutation_hair_extremely_long_var_purple"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_extremely_long_var_red",
+      "overlay_female_mutation_hair_extremely_long_var_red"
+    ],
+    "fg": [
+      "overlay_mutation_hair_extremely_long_var_red"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_extremely_long_var_white",
+      "overlay_female_mutation_hair_extremely_long_var_white"
+    ],
+    "fg": [
+      "overlay_mutation_hair_extremely_long_var_white"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_long_mohawk_var_black",
+      "overlay_female_mutation_hair_long_mohawk_var_black"
+    ],
+    "fg": [
+      "overlay_mutation_hair_long_mohawk_var_black"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_long_mohawk_var_blond",
+      "overlay_female_mutation_hair_long_mohawk_var_blond"
+    ],
+    "fg": [
+      "overlay_mutation_hair_long_mohawk_var_blond"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_long_mohawk_var_blue",
+      "overlay_female_mutation_hair_long_mohawk_var_blue"
+    ],
+    "fg": [
+      "overlay_mutation_hair_long_mohawk_var_blue"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_long_mohawk_var_brown",
+      "overlay_female_mutation_hair_long_mohawk_var_brown"
+    ],
+    "fg": [
+      "overlay_mutation_hair_long_mohawk_var_brown"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_long_mohawk_var_gray",
+      "overlay_female_mutation_hair_long_mohawk_var_gray"
+    ],
+    "fg": [
+      "overlay_mutation_hair_long_mohawk_var_gray"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_long_mohawk_var_green",
+      "overlay_female_mutation_hair_long_mohawk_var_green"
+    ],
+    "fg": [
+      "overlay_mutation_hair_long_mohawk_var_green"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_long_mohawk_var_pink",
+      "overlay_female_mutation_hair_long_mohawk_var_pink"
+    ],
+    "fg": [
+      "overlay_mutation_hair_long_mohawk_var_pink"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_long_mohawk_var_purple",
+      "overlay_female_mutation_hair_long_mohawk_var_purple"
+    ],
+    "fg": [
+      "overlay_mutation_hair_long_mohawk_var_purple"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_long_mohawk_var_red",
+      "overlay_female_mutation_hair_long_mohawk_var_red"
+    ],
+    "fg": [
+      "overlay_mutation_hair_long_mohawk_var_red"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_long_mohawk_var_white",
+      "overlay_female_mutation_hair_long_mohawk_var_white"
+    ],
+    "fg": [
+      "overlay_mutation_hair_long_mohawk_var_white"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_super_princess_var_black",
+      "overlay_female_mutation_hair_super_princess_var_black"
+    ],
+    "fg": [
+      "overlay_mutation_hair_super_princess_var_black"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_super_princess_var_blond",
+      "overlay_female_mutation_hair_super_princess_var_blond"
+    ],
+    "fg": [
+      "overlay_mutation_hair_super_princess_var_blond"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_super_princess_var_blue",
+      "overlay_female_mutation_hair_super_princess_var_blue"
+    ],
+    "fg": [
+      "overlay_mutation_hair_super_princess_var_blue"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_super_princess_var_brown",
+      "overlay_female_mutation_hair_super_princess_var_brown"
+    ],
+    "fg": [
+      "overlay_mutation_hair_super_princess_var_brown"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_super_princess_var_gray",
+      "overlay_female_mutation_hair_super_princess_var_gray"
+    ],
+    "fg": [
+      "overlay_mutation_hair_super_princess_var_gray"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_super_princess_var_green",
+      "overlay_female_mutation_hair_super_princess_var_green"
+    ],
+    "fg": [
+      "overlay_mutation_hair_super_princess_var_green"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_super_princess_var_pink",
+      "overlay_female_mutation_hair_super_princess_var_pink"
+    ],
+    "fg": [
+      "overlay_mutation_hair_super_princess_var_pink"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_super_princess_var_purple",
+      "overlay_female_mutation_hair_super_princess_var_purple"
+    ],
+    "fg": [
+      "overlay_mutation_hair_super_princess_var_purple"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_super_princess_var_red",
+      "overlay_female_mutation_hair_super_princess_var_red"
+    ],
+    "fg": [
+      "overlay_mutation_hair_super_princess_var_red"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_super_princess_var_white",
+      "overlay_female_mutation_hair_super_princess_var_white"
+    ],
+    "fg": [
+      "overlay_mutation_hair_super_princess_var_white"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_very_long_var_black",
+      "overlay_female_mutation_hair_very_long_var_black"
+    ],
+    "fg": [
+      "overlay_mutation_hair_very_long_var_black"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_very_long_var_blond",
+      "overlay_female_mutation_hair_very_long_var_blond"
+    ],
+    "fg": [
+      "overlay_mutation_hair_very_long_var_blond"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_very_long_var_blue",
+      "overlay_female_mutation_hair_very_long_var_blue"
+    ],
+    "fg": [
+      "overlay_mutation_hair_very_long_var_blue"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_very_long_var_brown",
+      "overlay_female_mutation_hair_very_long_var_brown"
+    ],
+    "fg": [
+      "overlay_mutation_hair_very_long_var_brown"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_very_long_var_gray",
+      "overlay_female_mutation_hair_very_long_var_gray"
+    ],
+    "fg": [
+      "overlay_mutation_hair_very_long_var_gray"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_very_long_var_green",
+      "overlay_female_mutation_hair_very_long_var_green"
+    ],
+    "fg": [
+      "overlay_mutation_hair_very_long_var_green"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_very_long_var_pink",
+      "overlay_female_mutation_hair_very_long_var_pink"
+    ],
+    "fg": [
+      "overlay_mutation_hair_very_long_var_pink"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_very_long_var_purple",
+      "overlay_female_mutation_hair_very_long_var_purple"
+    ],
+    "fg": [
+      "overlay_mutation_hair_very_long_var_purple"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_very_long_var_red",
+      "overlay_female_mutation_hair_very_long_var_red"
+    ],
+    "fg": [
+      "overlay_mutation_hair_very_long_var_red"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_mutation_hair_very_long_var_white",
+      "overlay_female_mutation_hair_very_long_var_white"
+    ],
+    "fg": [
+      "overlay_mutation_hair_very_long_var_white"
+    ],
+    "bg": [],
+    "rotates": false
+  }
+]
