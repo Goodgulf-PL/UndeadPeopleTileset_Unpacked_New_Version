@@ -46,20 +46,6 @@ jobs:
           echo "NEW_VERSION=$new_version" >> "$GITHUB_OUTPUT"
           echo "Releasing $new_version (previous: ${previous_tag:-none})"
 
-      - name: Build commit list since previous release
-        id: notes
-        run: |
-          {
-            echo "## Commits in this release"
-            echo
-            if [ -n "${{ steps.version.outputs.PREVIOUS_TAG }}" ]; then
-              git log --pretty=format:'- %s (%h)' "${{ steps.version.outputs.PREVIOUS_TAG }}..HEAD"
-            else
-              git log --pretty=format:'- %s (%h)'
-            fi
-          } > release_notes.md
-          cat release_notes.md
-
       - name: Install Dependencies
         run: |
           sudo apt-get update
@@ -89,7 +75,11 @@ jobs:
           if [ "${{ inputs.draft }}" = "true" ]; then
             draft_flag="--draft"
           fi
+          notes_flags="--generate-notes"
+          if [ -n "${{ steps.version.outputs.PREVIOUS_TAG }}" ]; then
+            notes_flags="--generate-notes --notes-start-tag ${{ steps.version.outputs.PREVIOUS_TAG }}"
+          fi
           gh release create "${{ steps.version.outputs.NEW_VERSION }}" "${TILESET}.zip" \
             --title "${TILESET} ${{ steps.version.outputs.NEW_VERSION }}" \
-            --notes-file release_notes.md \
+            $notes_flags \
             $draft_flag
