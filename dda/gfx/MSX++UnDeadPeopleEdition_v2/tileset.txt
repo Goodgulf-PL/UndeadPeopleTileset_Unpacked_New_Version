@@ -1,9 +1,9 @@
 #MSX++UnDeadPeopleEdition_v2 TILESET
 
 #Name of the tileset
-NAME: UNDEAD_PEOPLE_BASE_v2
+NAME: MSX-UDP_v2
 #Viewing (Option) name of the tileset
-VIEW: UNDEAD_PEOPLE(by Goodgulf_PL)
+VIEW: MSX-UDP_v2
 #JSON Path - Default of tile_config.json
 JSON: tile_config.json
 #Tileset Path - Default of tinytile.png
