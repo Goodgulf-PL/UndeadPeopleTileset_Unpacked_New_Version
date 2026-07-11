@@ -1,0 +1,82 @@
+[
+  {
+    "id": "overlay_female_mutation_SKIN_DARK",
+    "fg": [
+      "overlay_female_mutation_SKIN_DARK"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_female_mutation_SKIN_LIGHT",
+    "fg": [
+      "overlay_female_mutation_SKIN_LIGHT"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_female_mutation_SKIN_MEDIUM",
+    "fg": [
+      "overlay_female_mutation_SKIN_MEDIUM"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_female_mutation_SKIN_PINK",
+    "fg": [
+      "overlay_female_mutation_SKIN_PINK"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_female_mutation_SKIN_TAN",
+    "fg": [
+      "overlay_female_mutation_SKIN_TAN"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_SKIN_DARK",
+    "fg": [
+      "overlay_male_mutation_SKIN_DARK"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_SKIN_LIGHT",
+    "fg": [
+      "overlay_male_mutation_SKIN_LIGHT"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_SKIN_MEDIUM",
+    "fg": [
+      "overlay_male_mutation_SKIN_MEDIUM"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_SKIN_PINK",
+    "fg": [
+      "overlay_male_mutation_SKIN_PINK"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_SKIN_TAN",
+    "fg": [
+      "overlay_male_mutation_SKIN_TAN"
+    ],
+    "bg": [],
+    "rotates": false
+  }
+]
