@@ -1,0 +1,226 @@
+[
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_3DAYSTUBBLE",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_3DAYSTUBBLE"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_ANCHOR",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_ANCHOR"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_BEARD",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_BEARD"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_BEARD_LONG",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_BEARD_LONG"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_BEARD_VERY_LONG",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_BEARD_VERY_LONG"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_CHEVRON",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_CHEVRON"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_CHIN_CURTAIN",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_CHIN_CURTAIN"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_CHIN_STRAP",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_CHIN_STRAP"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_CHIN_STRIP",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_CHIN_STRIP"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_CIRCLE",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_CIRCLE"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_GOATEE",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_GOATEE"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_GUNSLINGER",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_GUNSLINGER"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_HANDLEBAR",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_HANDLEBAR"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_HORSESHOE",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_HORSESHOE"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_MUSTACHE",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_MUSTACHE"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_MUTTONCHOPS",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_MUTTONCHOPS"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_NECKBEARD",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_NECKBEARD"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_NONE",
+    "fg": [
+      "null"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_PENCIL",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_PENCIL"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_ROYALE",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_ROYALE"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_SHENANDOAH",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_SHENANDOAH"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_SHORTBOXED",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_SHORTBOXED"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_SIDEBURNS",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_SIDEBURNS"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_SOUL_PATCH",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_SOUL_PATCH"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_TOOTHBRUSH",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_TOOTHBRUSH"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_VANDYKE",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_VANDYKE"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_WALRUS",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_WALRUS"
+    ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "overlay_male_mutation_FACIAL_HAIR_ZAPPA",
+    "fg": [
+      "overlay_male_mutation_FACIAL_HAIR_ZAPPA"
+    ],
+    "bg": [],
+    "rotates": false
+  }
+]
