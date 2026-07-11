@@ -4,12 +4,12 @@ on:
   push:
     branches: [main]
     paths:
-      - 'dda/gfx/MSX++UnDeadPeopleEdition_v2/**'
+      - 'dda/gfx/MSX\+\+UnDeadPeopleEdition_v2/**'
       - 'tools/compose.py'
       - '.github/workflows/msx_ci_build.yml'
   pull_request:
     paths:
-      - 'dda/gfx/MSX++UnDeadPeopleEdition_v2/**'
+      - 'dda/gfx/MSX\+\+UnDeadPeopleEdition_v2/**'
       - 'tools/compose.py'
       - '.github/workflows/msx_ci_build.yml'
 
