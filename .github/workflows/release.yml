@@ -1,0 +1,95 @@
+name: Make Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Release tag/version override (e.g. v0.0.5). Leave empty to auto-bump the patch version from the latest tag.'
+        required: false
+        type: string
+      draft:
+        description: 'Create as a draft release (private, review before publishing)'
+        type: boolean
+        default: true
+
+env:
+  TILESET: MSX++UnDeadPeopleEdition_v2
+
+jobs:
+  release:
+    name: Build and package release
+    runs-on: ubuntu-latest
+    permissions: write-all
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Determine version and previous tag
+        id: version
+        run: |
+          previous_tag="$(git tag -l 'v*' --sort=-v:refname | head -n1)"
+          echo "PREVIOUS_TAG=$previous_tag" >> "$GITHUB_OUTPUT"
+
+          if [ -n "${{ inputs.version }}" ]; then
+            new_version="${{ inputs.version }}"
+          elif [ -n "$previous_tag" ]; then
+            # bump the patch number: vX.Y.Z -> vX.Y.(Z+1)
+            base="${previous_tag#v}"
+            major="$(echo "$base" | cut -d. -f1)"
+            minor="$(echo "$base" | cut -d. -f2)"
+            patch="$(echo "$base" | cut -d. -f3)"
+            new_version="v${major}.${minor}.$((patch + 1))"
+          else
+            new_version="v0.0.1"
+          fi
+          echo "NEW_VERSION=$new_version" >> "$GITHUB_OUTPUT"
+          echo "Releasing $new_version (previous: ${previous_tag:-none})"
+
+      - name: Build commit list since previous release
+        id: notes
+        run: |
+          {
+            echo "## Commits in this release"
+            echo
+            if [ -n "${{ steps.version.outputs.PREVIOUS_TAG }}" ]; then
+              git log --pretty=format:'- %s (%h)' "${{ steps.version.outputs.PREVIOUS_TAG }}..HEAD"
+            else
+              git log --pretty=format:'- %s (%h)'
+            fi
+          } > release_notes.md
+          cat release_notes.md
+
+      - name: Install Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libvips42
+          pip3 install pyvips
+
+      - name: Build tileset
+        run: |
+          mkdir build
+          python3 tools/compose.py --use-all --feedback CONCISE --loglevel INFO "dda/gfx/$TILESET" build
+
+          release_name="$TILESET"
+          mkdir "$release_name"
+          cp build/*.png "$release_name"/
+          cp build/tile_config.json "$release_name"/
+          cp "dda/gfx/$TILESET/tileset.txt" "$release_name"/
+          [ -f "dda/gfx/$TILESET/layering.json" ] && cp "dda/gfx/$TILESET/layering.json" "$release_name"/
+          [ -f "dda/gfx/$TILESET/fallback.png" ] && cp "dda/gfx/$TILESET/fallback.png" "$release_name"/
+
+          zip -r "${release_name}.zip" "$release_name"
+
+      - name: Create release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          draft_flag=""
+          if [ "${{ inputs.draft }}" = "true" ]; then
+            draft_flag="--draft"
+          fi
+          gh release create "${{ steps.version.outputs.NEW_VERSION }}" "${TILESET}.zip" \
+            --title "${TILESET} ${{ steps.version.outputs.NEW_VERSION }}" \
+            --notes-file release_notes.md \
+            $draft_flag

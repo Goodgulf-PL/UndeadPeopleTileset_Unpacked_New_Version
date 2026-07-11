@@ -1,0 +1,52 @@
+name: MSX++UnDeadPeopleEdition_v2 composer
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'dda/gfx/MSX++UnDeadPeopleEdition_v2/**'
+      - 'tools/compose.py'
+      - '.github/workflows/msx_ci_build.yml'
+  pull_request:
+    paths:
+      - 'dda/gfx/MSX++UnDeadPeopleEdition_v2/**'
+      - 'tools/compose.py'
+      - '.github/workflows/msx_ci_build.yml'
+
+jobs:
+  build:
+    name: CI Build
+    runs-on: ubuntu-latest
+    env:
+      TILESET: MSX++UnDeadPeopleEdition_v2
+      BUILD_DIR: build
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libvips42
+          pip3 install pyvips
+
+      - name: Build
+        id: build
+        run: |
+          mkdir "$BUILD_DIR"
+          python3 tools/compose.py --use-all --feedback CONCISE --loglevel INFO "dda/gfx/$TILESET" "$BUILD_DIR"
+
+          artifact_name="${TILESET}-dev-git-${GITHUB_SHA::7}"
+          mkdir "$artifact_name"
+          mv "$BUILD_DIR"/*.png "$artifact_name"/
+          cp "$BUILD_DIR/tile_config.json" "$artifact_name"/
+          cp "dda/gfx/$TILESET/tileset.txt" "$artifact_name"/
+          [ -f "dda/gfx/$TILESET/layering.json" ] && cp "dda/gfx/$TILESET/layering.json" "$artifact_name"/
+          [ -f "dda/gfx/$TILESET/fallback.png" ] && cp "dda/gfx/$TILESET/fallback.png" "$artifact_name"/
+
+          echo "ARTIFACT_NAME=$artifact_name" >> "$GITHUB_OUTPUT"
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ steps.build.outputs.ARTIFACT_NAME }}
+          path: ${{ steps.build.outputs.ARTIFACT_NAME }}
