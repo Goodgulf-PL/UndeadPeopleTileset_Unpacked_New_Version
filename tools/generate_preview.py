@@ -19,6 +19,11 @@ Generate preview for wielded/worn, item and moster sprites.
 ./tools/generate_preview.py -i gfx -o preview.png --scale 2
                       --monster mon_bear mon_zombear mon_zombie
 
+4b. Generate hair / facial hair preview (matched by id suffix, same as --overlays):
+./tools/generate_preview.py -i gfx -o preview.png --scale 2
+                      --hair crewcut_var_black mohawk_var_blue
+                      --facial-hair FACIAL_HAIR_BEARD --overlay-skin tan
+
 5. Combine:
 ./tools/generate_preview.py -i gfx -o preview.png --scale 2
                       --monster mon_bee mon_ant
@@ -146,6 +151,8 @@ def main():
     ids_group.add_argument('--overlays', nargs='+', help='id for wield/worn to preview')
     ids_group.add_argument('--overlays-with-items', nargs='+', help='id for wield/worn + same id items to preview')
     ids_group.add_argument('--monsters', nargs='+', help='id for mosters to preview')
+    ids_group.add_argument('--hair', nargs='+', help='id for hair styles to preview (matched like --overlays)')
+    ids_group.add_argument('--facial-hair', nargs='+', help='id for facial hair styles to preview (matched like --overlays)')
     ids_group.add_argument('--from-path', nargs='+', help='get ids from jsons in given path')
 
     overlay_group = parser.add_argument_group('optional overlay options')
@@ -160,7 +167,7 @@ def main():
 
     args = parser.parse_args()
 
-    if not args.items and not args.overlays and not args.overlays_with_items and not args.monsters and not args.from_path:
+    if not args.items and not args.overlays and not args.overlays_with_items and not args.monsters and not args.hair and not args.facial_hair and not args.from_path:
         print(f'\033[91m  ✘  error: no input ids.\033[0m')
         sys.exit(1)
 
@@ -175,6 +182,8 @@ def main():
     overlays = flatten([parse_json_item(f) for f in Path(args.input).rglob('overlay/**/*.json')])
     print('       collecting monsters..')
     monsters = flatten([parse_json_item(f) for f in Path(args.input).rglob('monsters/**/*.json')])
+    print('       collecting hair / facial hair..')
+    appearance = flatten([parse_json_item(f) for f in Path(args.input).rglob('appearance/**/*.json')])
 
     # configuration
     conf = {
@@ -189,6 +198,12 @@ def main():
         },
         'monsters': {
             'ids': args.monsters if args.monsters else []
+        },
+        'hair': {
+            'ids': args.hair if args.hair else []
+        },
+        'facial_hair': {
+            'ids': args.facial_hair if args.facial_hair else []
         }
     }
 
@@ -207,12 +222,14 @@ def main():
         '\n'.join(map(lambda x: ' ' * 7 + x, [
             f'preview items: {len(conf["items"]["ids"]) + len(conf["overitems"]["ids"])}',
             f'preview overlay: {len(conf["overlays"]["ids"]) + len(conf["overitems"]["ids"])}',
-            f'preview monsters: {len(conf["monsters"]["ids"])}'
+            f'preview monsters: {len(conf["monsters"]["ids"])}',
+            f'preview hair: {len(conf["hair"]["ids"])}',
+            f'preview facial hair: {len(conf["facial_hair"]["ids"])}'
             ]))))
 
 
     # find skin
-    if conf['overlays']['ids'] or conf['overitems']['ids']:
+    if conf['overlays']['ids'] or conf['overitems']['ids'] or conf['hair']['ids'] or conf['facial_hair']['ids']:
         print('\033[94m  ℹ  searching for a skin for dummy..\033[0m')
         skin_map = {
             'brown': 'SKIN_MEDIUM',
@@ -223,7 +240,7 @@ def main():
         }
         skin = None
         skin_req_id = f'overlay_{args.overlay_gender}_mutation_{skin_map[args.overlay_skin]}'
-        for f in Path(args.input).rglob('overlay/skin/**/*.json'):
+        for f in Path(args.input).rglob('appearance/skin_tones/**/*.json'):
             with open(f) as s:
                 raw = wrap(json.load(s))
                 for skindef in raw:
@@ -232,6 +249,15 @@ def main():
         if not skin:
             print(f'\033[91m  ✘  error: requested skin \"{args.overlay_skin}\" for gender \"{args.overlay_gender}\" not found !\033[0m')
             sys.exit(1)
+
+        # skin_tones overlays have no outline of their own -- they're meant to be
+        # drawn over the base body sprite (which supplies the outline), not stand in for it
+        base_body_id = f'player_{args.overlay_gender}'
+        if base_body_id not in images:
+            print(f'\033[91m  ✘  error: base body sprite \"{base_body_id}\" not found !\033[0m')
+            sys.exit(1)
+        base_body = pyvips.Image.new_from_file(get_img(images, base_body_id), access='sequential')
+        skin = base_body.composite2(skin, "VIPS_BLEND_MODE_OVER")
 
 
     # processing
@@ -256,6 +282,20 @@ def main():
         layers.extend(pack_sprites(conf['monsters']['ids'], args.grid_width,
                       lambda id: res_or_warn(lambda: find_simple(images, monsters, id),
                                              f"monster with id \"{id}\" does not exist in the tileset !")))
+
+    if conf['hair']['ids']:
+        print('       hair..')
+        gender = args.overlay_gender
+        layers.extend(pack_sprites(conf['hair']['ids'], args.grid_width,
+                      lambda id: res_or_warn(lambda: find_overlay(images, appearance, skin, gender, id),
+                                             f"hair for id \"{id}\" does not exist in the tileset !")))
+
+    if conf['facial_hair']['ids']:
+        print('       facial hair..')
+        gender = args.overlay_gender
+        layers.extend(pack_sprites(conf['facial_hair']['ids'], args.grid_width,
+                      lambda id: res_or_warn(lambda: find_overlay(images, appearance, skin, gender, id),
+                                             f"facial hair for id \"{id}\" does not exist in the tileset !")))
 
     if conf['overitems']['ids']:
         print('       overlays with items..')
