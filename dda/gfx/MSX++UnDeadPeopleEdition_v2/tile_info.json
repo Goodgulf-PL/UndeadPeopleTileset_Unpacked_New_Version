@@ -85,7 +85,7 @@
     }
   },
   {
-    "small_vehicle_parts_msx_filler.png": {
+    "small_msx_filler.png": {
       "filler": true,
       "sprite_width": 20,
       "sprite_height": 20,
@@ -93,17 +93,12 @@
     }
   },
   {
-    "normal_vehicle_parts_msx_filler.png": {
+    "tiles_msx_filler.png": {
       "filler": true
     }
   },
   {
-    "normal_character_msx_filler.png": {
-      "filler": true
-    }
-  },
-  {
-    "tall_character_msx_filler.png": {
+    "tall_msx_filler.png": {
       "filler": true,
       "sprite_width": 32,
       "sprite_height": 48,
@@ -111,61 +106,7 @@
     }
   },
   {
-    "normal_spells_msx_filler.png": {
-      "filler": true
-    }
-  },
-  {
-    "normal_traps_msx_filler.png": {
-      "filler": true
-    }
-  },
-  {
-    "tall_furniture_msx_filler.png": {
-      "filler": true,
-      "sprite_width": 32,
-      "sprite_height": 48,
-      "sprite_offset_y": -16
-    }
-  },
-  {
-    "normal_furniture_msx_filler.png": {
-      "filler": true
-    }
-  },
-  {
-    "large_furniture_msx_filler.png": {
-      "filler": true,
-      "sprite_width": 64,
-      "sprite_height": 80,
-      "sprite_offset_x": -16,
-      "sprite_offset_y": -48
-    }
-  },
-  {
-    "tall_terrain_msx_filler.png": {
-      "filler": true,
-      "sprite_width": 32,
-      "sprite_height": 48,
-      "sprite_offset_y": -16
-    }
-  },
-  {
-    "normal_terrain_msx_filler.png": {
-      "filler": true
-    }
-  },
-  {
-    "large_terrain_msx_filler.png": {
-      "filler": true,
-      "sprite_width": 64,
-      "sprite_height": 80,
-      "sprite_offset_x": -16,
-      "sprite_offset_y": -48
-    }
-  },
-  {
-    "size32x64_terrain_msx_filler.png": {
+    "taller_msx_filler.png": {
       "filler": true,
       "sprite_width": 32,
       "sprite_height": 64,
@@ -173,29 +114,7 @@
     }
   },
   {
-    "large_monsters_msx_filler.png": {
-      "filler": true,
-      "sprite_width": 64,
-      "sprite_height": 80,
-      "sprite_offset_x": -16,
-      "sprite_offset_y": -48
-    }
-  },
-  {
-    "tall_monsters_msx_filler.png": {
-      "filler": true,
-      "sprite_width": 32,
-      "sprite_height": 48,
-      "sprite_offset_y": -16
-    }
-  },
-  {
-    "normal_monsters_msx_filler.png": {
-      "filler": true
-    }
-  },
-  {
-    "size48x48_monsters_msx_filler.png": {
+    "wide_msx_filler.png": {
       "filler": true,
       "sprite_width": 48,
       "sprite_height": 48,
@@ -204,15 +123,16 @@
     }
   },
   {
-    "small_monsters_msx_filler.png": {
+    "large_msx_filler.png": {
       "filler": true,
-      "sprite_width": 20,
-      "sprite_height": 20,
-      "sprite_offset_x": 6
+      "sprite_width": 64,
+      "sprite_height": 80,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -48
     }
   },
   {
-    "size128x128_monsters_msx_filler.png": {
+    "huge_msx_filler.png": {
       "filler": true,
       "sprite_width": 128,
       "sprite_height": 128,
@@ -221,17 +141,12 @@
     }
   },
   {
-    "normal_vehicle_parts_ultica_filler.png": {
+    "normal_ultica_filler.png": {
       "filler": true
     }
   },
   {
-    "normal_furniture_ultica_filler.png": {
-      "filler": true
-    }
-  },
-  {
-    "tall_furniture_ultica_filler.png": {
+    "human_body_plus_ultica_filler.png": {
       "filler": true,
       "sprite_width": 32,
       "sprite_height": 48,
@@ -239,7 +154,7 @@
     }
   },
   {
-    "size32x64_furniture_ultica_filler.png": {
+    "tall_ultica_filler.png": {
       "filler": true,
       "sprite_width": 32,
       "sprite_height": 64,
@@ -247,46 +162,11 @@
     }
   },
   {
-    "normal_terrain_ultica_filler.png": {
-      "filler": true
-    }
-  },
-  {
-    "size64x64_terrain_ultica_filler.png": {
+    "large_ultica_filler.png": {
       "filler": true,
       "sprite_width": 64,
       "sprite_height": 64,
       "sprite_offset_x": -16,
-      "sprite_offset_y": -32
-    }
-  },
-  {
-    "size32x64_terrain_ultica_filler.png": {
-      "filler": true,
-      "sprite_width": 32,
-      "sprite_height": 64,
-      "sprite_offset_y": -32
-    }
-  },
-  {
-    "size64x64_monsters_ultica_filler.png": {
-      "filler": true,
-      "sprite_width": 64,
-      "sprite_height": 64,
-      "sprite_offset_x": -16,
-      "sprite_offset_y": -32
-    }
-  },
-  {
-    "normal_monsters_ultica_filler.png": {
-      "filler": true
-    }
-  },
-  {
-    "size32x64_monsters_ultica_filler.png": {
-      "filler": true,
-      "sprite_width": 32,
-      "sprite_height": 64,
       "sprite_offset_y": -32
     }
   },
