@@ -1,63 +1,178 @@
 [
-{
+  {
     "pixelscale": 1,
     "width": 32,
     "height": 32
-},
-{
-"normal_items.png": { }
-},
-{
-"normal_monsters.png": { }
-},
-{
-"normal_character.png": { }
-},
-{
-"tall_character.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_x": 0, "sprite_offset_y": -16 }
-},
-{
-"normal_stuff.png": { }
-},
-{
-"normal_fields.png": { }
-},
-{
-"normal_furniture.png": { }
-},
-{
-"normal_terrain.png": { }
-},
-{
-"normal_vehicle_parts.png": { }
-},
-{
-"normal_maptiles.png": { }
-},
-{
-"normal_offset.png": { "sprite_offset_y": -16 }
-}
-,
-{
-"wide.png": { "sprite_width": 64, "sprite_height": 48, "sprite_offset_x": -16, "sprite_offset_y": -16 }
-},
-
-{
-"large_stuff.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
-},
-{
-"large_terrain.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
-}
-,
-{
-"large_maptiles.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
-}
-,
-{
-"huge.png": { "sprite_width": 160, "sprite_height": 128, "sprite_offset_x": -48, "sprite_offset_y": -48 }
-}
-,
-{
-"fallback.png": { "fallback": true }
-}
+  },
+  {
+    "normal_items.png": {}
+  },
+  {
+    "normal_monsters.png": {}
+  },
+  {
+    "normal_character.png": {}
+  },
+  {
+    "tall_character.png": {
+      "sprite_width": 32,
+      "sprite_height": 48,
+      "sprite_offset_x": 0,
+      "sprite_offset_y": -16
+    }
+  },
+  {
+    "normal_stuff.png": {}
+  },
+  {
+    "normal_fields.png": {}
+  },
+  {
+    "normal_furniture.png": {}
+  },
+  {
+    "normal_terrain.png": {}
+  },
+  {
+    "normal_vehicle_parts.png": {}
+  },
+  {
+    "normal_maptiles.png": {}
+  },
+  {
+    "normal_offset.png": {
+      "sprite_offset_y": -16
+    }
+  },
+  {
+    "wide.png": {
+      "sprite_width": 64,
+      "sprite_height": 48,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -16
+    }
+  },
+  {
+    "large_stuff.png": {
+      "sprite_width": 64,
+      "sprite_height": 80,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -48
+    }
+  },
+  {
+    "large_terrain.png": {
+      "sprite_width": 64,
+      "sprite_height": 80,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -48
+    }
+  },
+  {
+    "large_maptiles.png": {
+      "sprite_width": 64,
+      "sprite_height": 80,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -48
+    }
+  },
+  {
+    "huge.png": {
+      "sprite_width": 160,
+      "sprite_height": 128,
+      "sprite_offset_x": -48,
+      "sprite_offset_y": -48
+    }
+  },
+  {
+    "small_msx_filler.png": {
+      "filler": true,
+      "sprite_width": 20,
+      "sprite_height": 20,
+      "sprite_offset_x": 6
+    }
+  },
+  {
+    "tiles_msx_filler.png": {
+      "filler": true
+    }
+  },
+  {
+    "tall_msx_filler.png": {
+      "filler": true,
+      "sprite_width": 32,
+      "sprite_height": 48,
+      "sprite_offset_y": -16
+    }
+  },
+  {
+    "taller_msx_filler.png": {
+      "filler": true,
+      "sprite_width": 32,
+      "sprite_height": 64,
+      "sprite_offset_y": -32
+    }
+  },
+  {
+    "wide_msx_filler.png": {
+      "filler": true,
+      "sprite_width": 48,
+      "sprite_height": 48,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -16
+    }
+  },
+  {
+    "large_msx_filler.png": {
+      "filler": true,
+      "sprite_width": 64,
+      "sprite_height": 80,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -48
+    }
+  },
+  {
+    "huge_msx_filler.png": {
+      "filler": true,
+      "sprite_width": 128,
+      "sprite_height": 128,
+      "sprite_offset_x": -64,
+      "sprite_offset_y": -96
+    }
+  },
+  {
+    "normal_ultica_filler.png": {
+      "filler": true
+    }
+  },
+  {
+    "human_body_plus_ultica_filler.png": {
+      "filler": true,
+      "sprite_width": 32,
+      "sprite_height": 48,
+      "sprite_offset_y": -16
+    }
+  },
+  {
+    "tall_ultica_filler.png": {
+      "filler": true,
+      "sprite_width": 32,
+      "sprite_height": 64,
+      "sprite_offset_y": -32
+    }
+  },
+  {
+    "large_ultica_filler.png": {
+      "filler": true,
+      "sprite_width": 64,
+      "sprite_height": 64,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -32
+    }
+  },
+  {
+    "fallback.png": {
+      "fallback": true
+    }
+  }
 ]
