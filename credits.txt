@@ -30,3 +30,12 @@ Sprites for:
 from https://github.com/CleverRaven/Cataclysm-DDA
 compose.py
 decompose.py
+
+from https://github.com/I-am-Erk/CDDA-Tilesets
+Temporary filler art for sprites not yet drawn for this tileset, sourced from
+two other tilesets hosted in that same repo (gfx/MShockXotto+ and
+gfx/UltimateCataclysm). These are composed as "filler" tilesheets
+(pngs_*_msx_filler_* / pngs_*_ultica_filler_*) per the CDDA-Tilesets filler
+sheet convention, so they only fill gaps and never override this tileset's
+own art. See duplicate.txt for the full list of IDs currently using filler
+art from each source.

@@ -1,5 +1,5 @@
 {
-  "id": "overlay_female_mutation_LUPINE_FUR",
+  "id": ["overlay_female_mutation_LUPINE_FUR", "overlay_female_mutation_LUPINE_FUR_SUMMER"],
   "fg": [
     "overlay_female_mutation_LUPINE_FUR"
   ],

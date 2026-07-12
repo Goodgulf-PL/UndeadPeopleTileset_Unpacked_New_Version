@@ -1,5 +1,5 @@
 {
-  "id": "t_elevator_control",
+  "id": ["t_elevator_control", "t_elevator_control_robofac_down", "t_elevator_control_robofac_up"],
   "fg": [
     "t_elevator_control"
   ],

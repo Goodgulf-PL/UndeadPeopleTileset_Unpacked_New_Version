@@ -1,63 +1,298 @@
 [
-{
+  {
     "pixelscale": 1,
     "width": 32,
     "height": 32
-},
-{
-"normal_items.png": { }
-},
-{
-"normal_monsters.png": { }
-},
-{
-"normal_character.png": { }
-},
-{
-"tall_character.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_x": 0, "sprite_offset_y": -16 }
-},
-{
-"normal_stuff.png": { }
-},
-{
-"normal_fields.png": { }
-},
-{
-"normal_furniture.png": { }
-},
-{
-"normal_terrain.png": { }
-},
-{
-"normal_vehicle_parts.png": { }
-},
-{
-"normal_maptiles.png": { }
-},
-{
-"normal_offset.png": { "sprite_offset_y": -16 }
-}
-,
-{
-"wide.png": { "sprite_width": 64, "sprite_height": 48, "sprite_offset_x": -16, "sprite_offset_y": -16 }
-},
-
-{
-"large_stuff.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
-},
-{
-"large_terrain.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
-}
-,
-{
-"large_maptiles.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
-}
-,
-{
-"huge.png": { "sprite_width": 160, "sprite_height": 128, "sprite_offset_x": -48, "sprite_offset_y": -48 }
-}
-,
-{
-"fallback.png": { "fallback": true }
-}
+  },
+  {
+    "normal_items.png": {}
+  },
+  {
+    "normal_monsters.png": {}
+  },
+  {
+    "normal_character.png": {}
+  },
+  {
+    "tall_character.png": {
+      "sprite_width": 32,
+      "sprite_height": 48,
+      "sprite_offset_x": 0,
+      "sprite_offset_y": -16
+    }
+  },
+  {
+    "normal_stuff.png": {}
+  },
+  {
+    "normal_fields.png": {}
+  },
+  {
+    "normal_furniture.png": {}
+  },
+  {
+    "normal_terrain.png": {}
+  },
+  {
+    "normal_vehicle_parts.png": {}
+  },
+  {
+    "normal_maptiles.png": {}
+  },
+  {
+    "normal_offset.png": {
+      "sprite_offset_y": -16
+    }
+  },
+  {
+    "wide.png": {
+      "sprite_width": 64,
+      "sprite_height": 48,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -16
+    }
+  },
+  {
+    "large_stuff.png": {
+      "sprite_width": 64,
+      "sprite_height": 80,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -48
+    }
+  },
+  {
+    "large_terrain.png": {
+      "sprite_width": 64,
+      "sprite_height": 80,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -48
+    }
+  },
+  {
+    "large_maptiles.png": {
+      "sprite_width": 64,
+      "sprite_height": 80,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -48
+    }
+  },
+  {
+    "huge.png": {
+      "sprite_width": 160,
+      "sprite_height": 128,
+      "sprite_offset_x": -48,
+      "sprite_offset_y": -48
+    }
+  },
+  {
+    "small_vehicle_parts_msx_filler.png": {
+      "filler": true,
+      "sprite_width": 20,
+      "sprite_height": 20,
+      "sprite_offset_x": 6
+    }
+  },
+  {
+    "normal_vehicle_parts_msx_filler.png": {
+      "filler": true
+    }
+  },
+  {
+    "normal_character_msx_filler.png": {
+      "filler": true
+    }
+  },
+  {
+    "tall_character_msx_filler.png": {
+      "filler": true,
+      "sprite_width": 32,
+      "sprite_height": 48,
+      "sprite_offset_y": -16
+    }
+  },
+  {
+    "normal_spells_msx_filler.png": {
+      "filler": true
+    }
+  },
+  {
+    "normal_traps_msx_filler.png": {
+      "filler": true
+    }
+  },
+  {
+    "tall_furniture_msx_filler.png": {
+      "filler": true,
+      "sprite_width": 32,
+      "sprite_height": 48,
+      "sprite_offset_y": -16
+    }
+  },
+  {
+    "normal_furniture_msx_filler.png": {
+      "filler": true
+    }
+  },
+  {
+    "large_furniture_msx_filler.png": {
+      "filler": true,
+      "sprite_width": 64,
+      "sprite_height": 80,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -48
+    }
+  },
+  {
+    "tall_terrain_msx_filler.png": {
+      "filler": true,
+      "sprite_width": 32,
+      "sprite_height": 48,
+      "sprite_offset_y": -16
+    }
+  },
+  {
+    "normal_terrain_msx_filler.png": {
+      "filler": true
+    }
+  },
+  {
+    "large_terrain_msx_filler.png": {
+      "filler": true,
+      "sprite_width": 64,
+      "sprite_height": 80,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -48
+    }
+  },
+  {
+    "size32x64_terrain_msx_filler.png": {
+      "filler": true,
+      "sprite_width": 32,
+      "sprite_height": 64,
+      "sprite_offset_y": -32
+    }
+  },
+  {
+    "large_monsters_msx_filler.png": {
+      "filler": true,
+      "sprite_width": 64,
+      "sprite_height": 80,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -48
+    }
+  },
+  {
+    "tall_monsters_msx_filler.png": {
+      "filler": true,
+      "sprite_width": 32,
+      "sprite_height": 48,
+      "sprite_offset_y": -16
+    }
+  },
+  {
+    "normal_monsters_msx_filler.png": {
+      "filler": true
+    }
+  },
+  {
+    "size48x48_monsters_msx_filler.png": {
+      "filler": true,
+      "sprite_width": 48,
+      "sprite_height": 48,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -16
+    }
+  },
+  {
+    "small_monsters_msx_filler.png": {
+      "filler": true,
+      "sprite_width": 20,
+      "sprite_height": 20,
+      "sprite_offset_x": 6
+    }
+  },
+  {
+    "size128x128_monsters_msx_filler.png": {
+      "filler": true,
+      "sprite_width": 128,
+      "sprite_height": 128,
+      "sprite_offset_x": -64,
+      "sprite_offset_y": -96
+    }
+  },
+  {
+    "normal_vehicle_parts_ultica_filler.png": {
+      "filler": true
+    }
+  },
+  {
+    "normal_furniture_ultica_filler.png": {
+      "filler": true
+    }
+  },
+  {
+    "tall_furniture_ultica_filler.png": {
+      "filler": true,
+      "sprite_width": 32,
+      "sprite_height": 48,
+      "sprite_offset_y": -16
+    }
+  },
+  {
+    "size32x64_furniture_ultica_filler.png": {
+      "filler": true,
+      "sprite_width": 32,
+      "sprite_height": 64,
+      "sprite_offset_y": -32
+    }
+  },
+  {
+    "normal_terrain_ultica_filler.png": {
+      "filler": true
+    }
+  },
+  {
+    "size64x64_terrain_ultica_filler.png": {
+      "filler": true,
+      "sprite_width": 64,
+      "sprite_height": 64,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -32
+    }
+  },
+  {
+    "size32x64_terrain_ultica_filler.png": {
+      "filler": true,
+      "sprite_width": 32,
+      "sprite_height": 64,
+      "sprite_offset_y": -32
+    }
+  },
+  {
+    "size64x64_monsters_ultica_filler.png": {
+      "filler": true,
+      "sprite_width": 64,
+      "sprite_height": 64,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -32
+    }
+  },
+  {
+    "normal_monsters_ultica_filler.png": {
+      "filler": true
+    }
+  },
+  {
+    "size32x64_monsters_ultica_filler.png": {
+      "filler": true,
+      "sprite_width": 32,
+      "sprite_height": 64,
+      "sprite_offset_y": -32
+    }
+  },
+  {
+    "fallback.png": {
+      "fallback": true
+    }
+  }
 ]

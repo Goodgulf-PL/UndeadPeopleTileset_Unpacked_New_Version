@@ -1,0 +1,7 @@
+[
+  {
+    "id": [ "vp_frame_wood_deck_cover", "vp_wheel_skateboard" ],
+    "fg": [ "vp_frame_wood_deck_north", "vp_frame_wood_deck_east", "vp_frame_wood_deck_south", "vp_frame_wood_deck_west" ],
+    "rotates": true
+  }
+]
